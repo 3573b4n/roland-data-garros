@@ -1,255 +1,255 @@
-match_id,draw_code,draw_label,round_number,round_label,status,status_label,court_name,date_schedule,duration_minutes,is_night_session,player_a_id,player_a_name,player_a_ranking,player_a_country,player_a_seed,player_a_entry_status,player_a_winner,player_a_sets_won,player_b_id,player_b_name,player_b_ranking,player_b_country,player_b_seed,player_b_entry_status,player_b_winner,player_b_sets_won
-SM064,SM,Men's Singles,1,First Round,NOT_STARTED,Upcoming,,,,,39723,J.SINNER,1,ITA,1,,,0,40451,C.TABUR,165,FRA,,W,,0
-SM065,SM,Men's Singles,1,First Round,NOT_STARTED,Upcoming,,,,,43003,J.FEARNLEY,122,GBR,,,,0,40999,JM.CERUNDOLO,54,ARG,,,,0
-SM066,SM,Men's Singles,1,First Round,NOT_STARTED,Upcoming,,,,,48028,M.LANDALUCE,67,ESP,,,,0,47929,JC.PRADO ANGELO,178,BOL,,Q,,0
-SM067,SM,Men's Singles,1,First Round,NOT_STARTED,Upcoming,,,,,36324,V.KOPRIVA,63,CZE,,,,0,36358,C.MOUTET,32,FRA,30,,,0
-SM068,SM,Men's Singles,1,First Round,NOT_STARTED,Upcoming,,,,,29969,A.RINDERKNECH,24,FRA,22,,,0,36384,J.RODIONOV,158,AUT,,Q,,0
-SM069,SM,Men's Singles,1,First Round,NOT_STARTED,Upcoming,,,,,22454,M.FUCSOVICS,59,HUN,,,,0,29046,M.BERRETTINI,107,ITA,,,,0
-SM070,SM,Men's Singles,1,First Round,NOT_STARTED,Upcoming,,,,,48134,E.QUINN,49,USA,,,,0,42330,F.COMESANA,114,ARG,,,,0
-SM071,SM,Men's Singles,1,First Round,NOT_STARTED,Upcoming,,,,,32390,S.OFNER,91,AUT,,,,0,45420,L.DARDERI,16,ITA,14,,,0
-SM072,SM,Men's Singles,1,First Round,NOT_STARTED,Upcoming,,,,,29098,A.BUBLIK,10,KAZ,9,,,0,23386,JL.STRUFF,79,GER,,,,0
-SM073,SM,Men's Singles,1,First Round,NOT_STARTED,Upcoming,,,,,47931,J.FARIA,117,POR,,Q,,0,35246,D.SHAPOVALOV,37,CAN,,,,0
-SM074,SM,Men's Singles,1,First Round,NOT_STARTED,Upcoming,,,,,33529,J.MUNAR,39,ESP,,,,0,31976,H.HURKACZ,78,POL,,,,0
-SM075,SM,Men's Singles,1,First Round,NOT_STARTED,Upcoming,,,,,42500,E.SPIZZIRRI,92,USA,,,,0,35361,F.TIAFOE,21,USA,19,,,0
-SM076,SM,Men's Singles,1,First Round,NOT_STARTED,Upcoming,,,,,33456,T.GRIEKSPOOR,31,NED,29,,,0,43964,M.ARNALDI,96,ITA,,,,0
-SM077,SM,Men's Singles,1,First Round,NOT_STARTED,Upcoming,,,,,32341,A.MULLER,108,FRA,,,,0,35398,S.TSITSIPAS,82,GRE,,,,0
-SM078,SM,Men's Singles,1,First Round,NOT_STARTED,Upcoming,,,,,45429,R.COLLIGNON,64,BEL,,,,0,32829,A.VUKIC,100,AUS,,,,0
-SM079,SM,Men's Singles,1,First Round,NOT_STARTED,Upcoming,,,,,47234,D.MERIDA,86,ESP,,,,0,47345,B.SHELTON,6,USA,5,,,0
-SM080,SM,Men's Singles,1,First Round,NOT_STARTED,Upcoming,,,,,36701,F.AUGER-ALIASSIME,5,CAN,4,,,0,33851,D.ALTMAIER,65,GER,,,,0
-SM081,SM,Men's Singles,1,First Round,NOT_STARTED,Upcoming,,,,,40442,S.BAEZ,62,ARG,,,,0,43963,RA.BURRUCHAGA,66,ARG,,,,0
-SM082,SM,Men's Singles,1,First Round,NOT_STARTED,Upcoming,,,,,46560,L.VAN ASSCHE,103,FRA,,,,0,38456,P.KYPSON,95,USA,,,,0
-SM083,SM,Men's Singles,1,First Round,NOT_STARTED,Upcoming,,,,,13354,R.BAUTISTA AGUT,99,ESP,,,,0,41418,B.NAKASHIMA,33,USA,31,,,0
-SM084,SM,Men's Singles,1,First Round,NOT_STARTED,Upcoming,,,,,28593,C.NORRIE,22,GBR,20,,,0,46559,AD.VALLEJO,70,PAR,,,,0
-SM085,SM,Men's Singles,1,First Round,NOT_STARTED,Upcoming,,,,,11674,M.CILIC,45,CRO,,,,0,53021,M.KOUAME,316,FRA,,W,,0
-SM086,SM,Men's Singles,1,First Round,NOT_STARTED,Upcoming,,,,,33575,A.TABILO,35,CHI,,,,0,31091,K.MAJCHRZAK,77,POL,,,,0
-SM087,SM,Men's Singles,1,First Round,NOT_STARTED,Upcoming,,,,,51307,T.FAUREL,382,FRA,,Q,,0,37843,V.VACHEROT,18,MON,16,,,0
-SM088,SM,Men's Singles,1,First Round,NOT_STARTED,Upcoming,,,,,42928,F.COBOLLI,12,ITA,10,,,0,32437,A.PELLEGRINO,126,ITA,,Q,,0
-SM089,SM,Men's Singles,1,First Round,NOT_STARTED,Upcoming,,,,,38355,Y.WU,93,CHN,,,,0,24807,M.GIRON,84,USA,,,,0
-SM090,SM,Men's Singles,1,First Round,NOT_STARTED,Upcoming,,,,,42339,F.DIAZ ACOSTA,150,ARG,,Q,,0,32885,Z.ZHANG,226,CHN,,,,0
-SM091,SM,Men's Singles,1,First Round,NOT_STARTED,Upcoming,,,,,26967,C.GARIN,116,CHI,,,,0,49322,L.TIEN,20,USA,18,,,0
-SM092,SM,Men's Singles,1,First Round,NOT_STARTED,Upcoming,,,,,40998,F.CERUNDOLO,27,ARG,25,,,0,30238,B.VAN DE ZANDSCHULP,53,NED,,,,0
-SM093,SM,Men's Singles,1,First Round,NOT_STARTED,Upcoming,,,,,38551,H.GASTON,120,FRA,,W,,0,9525,G.MONFILS,221,FRA,,W,,0
-SM094,SM,Men's Singles,1,First Round,NOT_STARTED,Upcoming,,,,,36373,A.POPYRIN,61,AUS,,,,0,45140,Z.SVAJDA,85,USA,,,,0
-SM095,SM,Men's Singles,1,First Round,NOT_STARTED,Upcoming,,,,,39851,A.WALTON,101,AUS,,W,,0,28836,D.MEDVEDEV,7,---,6,,,0
-SM096,SM,Men's Singles,1,First Round,NOT_STARTED,Upcoming,,,,,36276,A.DE MINAUR,9,AUS,8,,,0,45427,T.SAMUEL,159,GBR,,Q,,0
-SM097,SM,Men's Singles,1,First Round,NOT_STARTED,Upcoming,Court 8,20260524,,False,47993,A.BLOCKX,36,BEL,,,,0,45200,C.WONG,113,HKG,,L,,0
-SM098,SM,Men's Singles,1,First Round,NOT_STARTED,Upcoming,,20260524,,,44967,M.NAVONE,42,ARG,,,,0,40967,J.BROOKSBY,60,USA,,,,0
-SM099,SM,Men's Singles,1,First Round,NOT_STARTED,Upcoming,Court Simonne-Mathieu,20260524,,False,43951,T.DROGUET,110,FRA,,W,,0,47921,J.MENSIK,28,CZE,26,,,0
-SM100,SM,Men's Singles,1,First Round,NOT_STARTED,Upcoming,Court 13,20260524,,False,36989,TM.ETCHEVERRY,25,ARG,23,,,0,36781,N.BORGES,50,POR,,,,0
-SM101,SM,Men's Singles,1,First Round,NOT_STARTED,Upcoming,Court 8,20260524,,False,38353,M.KECMANOVIC,47,SRB,,,,0,41365,F.MAROZSAN,52,HUN,,,,0
-SM102,SM,Men's Singles,1,First Round,NOT_STARTED,Upcoming,,20260524,,,41424,E.NAVA,97,USA,,Q,,0,38437,C.UGO CARABELLI,68,ARG,,,,0
-SM103,SM,Men's Singles,1,First Round,NOT_STARTED,Upcoming,,20260524,,,46070,I.BUSE,57,PER,,,,0,31132,A.RUBLEV,13,---,11,,,0
-SM104,SM,Men's Singles,1,First Round,NOT_STARTED,Upcoming,,20260524,,,36389,C.RUUD,17,NOR,15,,,0,33560,R.SAFIULLIN,142,---,,Q,,0
-SM105,SM,Men's Singles,1,First Round,NOT_STARTED,Upcoming,Court 9,20260524,,False,45423,H.MEDJEDOVIC,56,SRB,,,,0,22568,Y.HANFMANN,55,GER,,,,0
-SM106,SM,Men's Singles,1,First Round,NOT_STARTED,Upcoming,Court 14,20260524,,False,35289,L.SONEGO,69,ITA,,,,0,21623,PH.HERBERT,223,FRA,,Q,,0
-SM107,SM,Men's Singles,1,First Round,NOT_STARTED,Upcoming,,20260524,,,41202,R.HIJIKATA,102,AUS,,,,0,33541,T.PAUL,26,USA,24,,,0
-SM108,SM,Men's Singles,1,First Round,NOT_STARTED,Upcoming,Court Simonne-Mathieu,20260524,,False,48336,J.FONSECA,30,BRA,28,,,0,41468,L.PAVLOVIC,240,FRA,,Q,,0
-SM109,SM,Men's Singles,1,First Round,NOT_STARTED,Upcoming,Court 9,20260524,,False,48801,M.ZHENG,146,USA,,Q,,0,47952,D.PRIZMIC,71,CRO,,,,0
-SM110,SM,Men's Singles,1,First Round,NOT_STARTED,Upcoming,Court 7,20260524,,False,24660,H.DELLIEN,139,BOL,,Q,,0,42348,V.ROYER,73,FRA,,,,0
-SM111,SM,Men's Singles,1,First Round,NOT_STARTED,Upcoming,Court Philippe-Chatrier,20260524,,True,44112,G.MPETSHI PERRICARD,80,FRA,,,,0,9801,N.DJOKOVIC,4,SRB,3,,,0
-SM112,SM,Men's Singles,1,First Round,NOT_STARTED,Upcoming,Court Suzanne-Lenglen,20260524,,False,34350,T.FRITZ,8,USA,7,,,0,47331,N.BASAVAREDDY,156,USA,,W,,0
-SM113,SM,Men's Singles,1,First Round,NOT_STARTED,Upcoming,,20260524,,,42494,A.SHEVCHENKO,89,KAZ,,,,0,49300,A.MICHELSEN,41,USA,,,,0
-SM114,SM,Men's Singles,1,First Round,NOT_STARTED,Upcoming,Court 12,20260524,,False,21600,J.DUCKWORTH,83,AUS,,,,0,46130,G.DIALLO,48,CAN,,,,0
-SM115,SM,Men's Singles,1,First Round,NOT_STARTED,Upcoming,,20260524,,,41293,A.KOVACEVIC,94,USA,,,,0,49822,R.JODAR,29,ESP,27,,,0
-SM116,SM,Men's Singles,1,First Round,NOT_STARTED,Upcoming,Court 14,20260524,,False,39036,A.DAVIDOVICH FOKINA,23,ESP,21,,,0,20338,D.DZUMHUR,87,BIH,,,,0
-SM117,SM,Men's Singles,1,First Round,NOT_STARTED,Upcoming,Court 13,20260524,,False,44472,P.LLAMAS RUIZ,124,ESP,,Q,,0,41715,TA.TIRANTE,58,ARG,,,,0
-SM118,SM,Men's Singles,1,First Round,NOT_STARTED,Upcoming,,20260524,,,29550,T.KOKKINAKIS,,AUS,,,,0,43979,T.ATMANE,51,FRA,,,,0
-SM119,SM,Men's Singles,1,First Round,NOT_STARTED,Upcoming,,20260524,,,21578,P.CARRENO BUSTA,90,ESP,,,,0,43155,J.LEHECKA,14,CZE,12,,,0
-SM120,SM,Men's Singles,1,First Round,NOT_STARTED,Upcoming,Court Suzanne-Lenglen,20260524,,False,29528,K.KHACHANOV,15,---,13,,,0,47950,A.GEA,140,FRA,,W,,0
-SM121,SM,Men's Singles,1,First Round,NOT_STARTED,Upcoming,Court 6,20260524,,False,44469,K.JACQUET,147,FRA,,Q,,0,21069,M.TRUNGELLITI,81,ARG,,,,0
-SM122,SM,Men's Singles,1,First Round,NOT_STARTED,Upcoming,Court 6,20260524,,False,49347,F.CINA,216,ITA,,Q,,0,32402,R.OPELKA,75,USA,,,,0
-SM123,SM,Men's Singles,1,First Round,NOT_STARTED,Upcoming,,20260524,,,7815,S.WAWRINKA,119,SUI,,,,0,42304,J.DE JONG,109,NED,,L,,0
-SM124,SM,Men's Singles,1,First Round,NOT_STARTED,Upcoming,,20260524,,,36307,U.HUMBERT,34,FRA,32,,,0,13859,A.MANNARINO,44,FRA,,,,0
-SM125,SM,Men's Singles,1,First Round,NOT_STARTED,Upcoming,Court 7,20260524,,False,31036,Q.HALYS,88,FRA,,,,0,44168,M.BELLUCCI,72,ITA,,,,0
-SM126,SM,Men's Singles,1,First Round,NOT_STARTED,Upcoming,Court 12,20260524,,False,40499,T.MACHAC,40,CZE,,,,0,36748,Z.BERGS,38,BEL,,,,0
-SM127,SM,Men's Singles,1,First Round,NOT_STARTED,Upcoming,Court Philippe-Chatrier,20260524,,False,33416,B.BONZI,98,FRA,,,,0,30350,A.ZVEREV,3,GER,2,,,0
-SM032,SM,Men's Singles,2,Second Round,NOT_STARTED,Upcoming,,20260524,,,,,,,,,,0,,,,,,,,0
-SM033,SM,Men's Singles,2,Second Round,NOT_STARTED,Upcoming,,20260524,,,,,,,,,,0,,,,,,,,0
-SM034,SM,Men's Singles,2,Second Round,NOT_STARTED,Upcoming,,20260524,,,,,,,,,,0,,,,,,,,0
-SM035,SM,Men's Singles,2,Second Round,NOT_STARTED,Upcoming,,20260524,,,,,,,,,,0,,,,,,,,0
-SM036,SM,Men's Singles,2,Second Round,NOT_STARTED,Upcoming,,20260524,,,,,,,,,,0,,,,,,,,0
-SM037,SM,Men's Singles,2,Second Round,NOT_STARTED,Upcoming,,20260524,,,,,,,,,,0,,,,,,,,0
-SM038,SM,Men's Singles,2,Second Round,NOT_STARTED,Upcoming,,20260524,,,,,,,,,,0,,,,,,,,0
-SM039,SM,Men's Singles,2,Second Round,NOT_STARTED,Upcoming,,20260524,,,,,,,,,,0,,,,,,,,0
-SM040,SM,Men's Singles,2,Second Round,NOT_STARTED,Upcoming,,20260524,,,,,,,,,,0,,,,,,,,0
-SM041,SM,Men's Singles,2,Second Round,NOT_STARTED,Upcoming,,20260524,,,,,,,,,,0,,,,,,,,0
-SM042,SM,Men's Singles,2,Second Round,NOT_STARTED,Upcoming,,20260524,,,,,,,,,,0,,,,,,,,0
-SM043,SM,Men's Singles,2,Second Round,NOT_STARTED,Upcoming,,20260524,,,,,,,,,,0,,,,,,,,0
-SM044,SM,Men's Singles,2,Second Round,NOT_STARTED,Upcoming,,20260524,,,,,,,,,,0,,,,,,,,0
-SM045,SM,Men's Singles,2,Second Round,NOT_STARTED,Upcoming,,20260524,,,,,,,,,,0,,,,,,,,0
-SM046,SM,Men's Singles,2,Second Round,NOT_STARTED,Upcoming,,20260524,,,,,,,,,,0,,,,,,,,0
-SM047,SM,Men's Singles,2,Second Round,NOT_STARTED,Upcoming,,20260524,,,,,,,,,,0,,,,,,,,0
-SM048,SM,Men's Singles,2,Second Round,NOT_STARTED,Upcoming,,20260524,,,,,,,,,,0,,,,,,,,0
-SM049,SM,Men's Singles,2,Second Round,NOT_STARTED,Upcoming,,20260524,,,,,,,,,,0,,,,,,,,0
-SM050,SM,Men's Singles,2,Second Round,NOT_STARTED,Upcoming,,20260524,,,,,,,,,,0,,,,,,,,0
-SM051,SM,Men's Singles,2,Second Round,NOT_STARTED,Upcoming,,20260524,,,,,,,,,,0,,,,,,,,0
-SM052,SM,Men's Singles,2,Second Round,NOT_STARTED,Upcoming,,20260524,,,,,,,,,,0,,,,,,,,0
-SM053,SM,Men's Singles,2,Second Round,NOT_STARTED,Upcoming,,20260524,,,,,,,,,,0,,,,,,,,0
-SM054,SM,Men's Singles,2,Second Round,NOT_STARTED,Upcoming,,20260524,,,,,,,,,,0,,,,,,,,0
-SM055,SM,Men's Singles,2,Second Round,NOT_STARTED,Upcoming,,20260524,,,,,,,,,,0,,,,,,,,0
-SM056,SM,Men's Singles,2,Second Round,NOT_STARTED,Upcoming,,20260524,,,,,,,,,,0,,,,,,,,0
-SM057,SM,Men's Singles,2,Second Round,NOT_STARTED,Upcoming,,20260524,,,,,,,,,,0,,,,,,,,0
-SM058,SM,Men's Singles,2,Second Round,NOT_STARTED,Upcoming,,20260524,,,,,,,,,,0,,,,,,,,0
-SM059,SM,Men's Singles,2,Second Round,NOT_STARTED,Upcoming,,20260524,,,,,,,,,,0,,,,,,,,0
-SM060,SM,Men's Singles,2,Second Round,NOT_STARTED,Upcoming,,20260524,,,,,,,,,,0,,,,,,,,0
-SM061,SM,Men's Singles,2,Second Round,NOT_STARTED,Upcoming,,20260524,,,,,,,,,,0,,,,,,,,0
-SM062,SM,Men's Singles,2,Second Round,NOT_STARTED,Upcoming,,20260524,,,,,,,,,,0,,,,,,,,0
-SM063,SM,Men's Singles,2,Second Round,NOT_STARTED,Upcoming,,20260524,,,,,,,,,,0,,,,,,,,0
-SM016,SM,Men's Singles,3,Third Round,NOT_STARTED,Upcoming,,20260524,,,,,,,,,,0,,,,,,,,0
-SM017,SM,Men's Singles,3,Third Round,NOT_STARTED,Upcoming,,20260524,,,,,,,,,,0,,,,,,,,0
-SM018,SM,Men's Singles,3,Third Round,NOT_STARTED,Upcoming,,20260524,,,,,,,,,,0,,,,,,,,0
-SM019,SM,Men's Singles,3,Third Round,NOT_STARTED,Upcoming,,20260524,,,,,,,,,,0,,,,,,,,0
-SM020,SM,Men's Singles,3,Third Round,NOT_STARTED,Upcoming,,20260524,,,,,,,,,,0,,,,,,,,0
-SM021,SM,Men's Singles,3,Third Round,NOT_STARTED,Upcoming,,20260524,,,,,,,,,,0,,,,,,,,0
-SM022,SM,Men's Singles,3,Third Round,NOT_STARTED,Upcoming,,20260524,,,,,,,,,,0,,,,,,,,0
-SM023,SM,Men's Singles,3,Third Round,NOT_STARTED,Upcoming,,20260524,,,,,,,,,,0,,,,,,,,0
-SM024,SM,Men's Singles,3,Third Round,NOT_STARTED,Upcoming,,20260524,,,,,,,,,,0,,,,,,,,0
-SM025,SM,Men's Singles,3,Third Round,NOT_STARTED,Upcoming,,20260524,,,,,,,,,,0,,,,,,,,0
-SM026,SM,Men's Singles,3,Third Round,NOT_STARTED,Upcoming,,20260524,,,,,,,,,,0,,,,,,,,0
-SM027,SM,Men's Singles,3,Third Round,NOT_STARTED,Upcoming,,20260524,,,,,,,,,,0,,,,,,,,0
-SM028,SM,Men's Singles,3,Third Round,NOT_STARTED,Upcoming,,20260524,,,,,,,,,,0,,,,,,,,0
-SM029,SM,Men's Singles,3,Third Round,NOT_STARTED,Upcoming,,20260524,,,,,,,,,,0,,,,,,,,0
-SM030,SM,Men's Singles,3,Third Round,NOT_STARTED,Upcoming,,20260524,,,,,,,,,,0,,,,,,,,0
-SM031,SM,Men's Singles,3,Third Round,NOT_STARTED,Upcoming,,20260524,,,,,,,,,,0,,,,,,,,0
-SM008,SM,Men's Singles,4,Fourth Round,NOT_STARTED,Upcoming,,20260524,,,,,,,,,,0,,,,,,,,0
-SM009,SM,Men's Singles,4,Fourth Round,NOT_STARTED,Upcoming,,20260524,,,,,,,,,,0,,,,,,,,0
-SM010,SM,Men's Singles,4,Fourth Round,NOT_STARTED,Upcoming,,20260524,,,,,,,,,,0,,,,,,,,0
-SM011,SM,Men's Singles,4,Fourth Round,NOT_STARTED,Upcoming,,20260524,,,,,,,,,,0,,,,,,,,0
-SM012,SM,Men's Singles,4,Fourth Round,NOT_STARTED,Upcoming,,20260524,,,,,,,,,,0,,,,,,,,0
-SM013,SM,Men's Singles,4,Fourth Round,NOT_STARTED,Upcoming,,20260524,,,,,,,,,,0,,,,,,,,0
-SM014,SM,Men's Singles,4,Fourth Round,NOT_STARTED,Upcoming,,20260524,,,,,,,,,,0,,,,,,,,0
-SM015,SM,Men's Singles,4,Fourth Round,NOT_STARTED,Upcoming,,20260524,,,,,,,,,,0,,,,,,,,0
-SM004,SM,Men's Singles,5,Quarterfinals,NOT_STARTED,Upcoming,,20260524,,,,,,,,,,0,,,,,,,,0
-SM005,SM,Men's Singles,5,Quarterfinals,NOT_STARTED,Upcoming,,20260524,,,,,,,,,,0,,,,,,,,0
-SM006,SM,Men's Singles,5,Quarterfinals,NOT_STARTED,Upcoming,,20260524,,,,,,,,,,0,,,,,,,,0
-SM007,SM,Men's Singles,5,Quarterfinals,NOT_STARTED,Upcoming,,20260524,,,,,,,,,,0,,,,,,,,0
-SM002,SM,Men's Singles,6,Semifinals,NOT_STARTED,Upcoming,,20260524,,,,,,,,,,0,,,,,,,,0
-SM003,SM,Men's Singles,6,Semifinals,NOT_STARTED,Upcoming,,20260524,,,,,,,,,,0,,,,,,,,0
-SM001,SM,Men's Singles,7,Final,NOT_STARTED,Upcoming,,20260524,,,,,,,,,,0,,,,,,,,0
-SD064,SD,Women's Singles,1,First Round,NOT_STARTED,Upcoming,,,,,33249,A.SABALENKA,1,---,1,,,0,44201,J.BOUZAS MANEIRO,51,ESP,,,,0
-SD065,SD,Women's Singles,1,First Round,NOT_STARTED,Upcoming,,,,,45668,L.FRUHVIRTOVA,150,CZE,,Q,,0,43689,E.JACQUEMOT,63,FRA,,,,0
-SD066,SD,Women's Singles,1,First Round,NOT_STARTED,Upcoming,,,,,31281,D.KASATKINA,62,AUS,,,,0,42733,Z.SONMEZ,59,TUR,,,,0
-SD067,SD,Women's Singles,1,First Round,NOT_STARTED,Upcoming,,,,,35604,S.BANDECCHI,215,SUI,,Q,,0,35655,C.BUCSA,31,ESP,31,,,0
-SD068,SD,Women's Singles,1,First Round,NOT_STARTED,Upcoming,,,,,50685,I.JOVIC,17,USA,17,,,0,45659,A.EALA,38,PHI,,,,0
-SD069,SD,Women's Singles,1,First Round,NOT_STARTED,Upcoming,,,,,40210,E.NAVARRO,39,USA,,,,0,44215,J.TJEN,41,INA,,,,0
-SD070,SD,Women's Singles,1,First Round,NOT_STARTED,Upcoming,,,,,26513,D.VEKIC,70,CRO,,,,0,43909,A.TUBELLO,226,FRA,,W,,0
-SD071,SD,Women's Singles,1,First Round,NOT_STARTED,Upcoming,,,,,9086,L.SIEGEMUND,46,GER,,,,0,30764,N.OSAKA,16,JPN,16,,,0
-SD072,SD,Women's Singles,1,First Round,NOT_STARTED,Upcoming,,,,,47486,V.MBOKO,9,CAN,9,,,0,47415,N.BARTUNKOVA,65,CZE,,,,0
-SD073,SD,Women's Singles,1,First Round,NOT_STARTED,Upcoming,,,,,40366,S.WALTERT,93,SUI,,,,0,28779,K.SINIAKOVA,36,CZE,,,,0
-SD074,SD,Women's Singles,1,First Round,NOT_STARTED,Upcoming,,,,,45694,A.RUZIC,61,CRO,,,,0,46834,A.KRUEGER,107,USA,,Q,,0
-SD075,SD,Women's Singles,1,First Round,NOT_STARTED,Upcoming,,,,,45770,H.VANDEWINKEL,102,BEL,,,,0,24265,M.KEYS,19,USA,19,,,0
-SD076,SD,Women's Singles,1,First Round,NOT_STARTED,Upcoming,,,,,45655,D.SHNAIDER,25,---,25,,,0,31392,R.ZARAZUA,71,MEX,,,,0
-SD077,SD,Women's Singles,1,First Round,NOT_STARTED,Upcoming,,,,,36499,H.GUO,168,CHN,,Q,,0,42617,M.KESSLER,47,USA,,,,0
-SD078,SD,Women's Singles,1,First Round,NOT_STARTED,Upcoming,,,,,47434,E.PRIDANKINA,220,---,,Q,,0,42629,O.OLIYNYKOVA,66,UKR,,,,0
-SD079,SD,Women's Singles,1,First Round,NOT_STARTED,Upcoming,,,,,32938,K.BIRRELL,83,AUS,,,,0,21863,J.PEGULA,5,USA,5,,,0
-SD080,SD,Women's Singles,1,First Round,NOT_STARTED,Upcoming,,,,,44185,C.GAUFF,4,USA,4,,,0,28420,T.TOWNSEND,72,USA,,,,0
-SD081,SD,Women's Singles,1,First Round,NOT_STARTED,Upcoming,,,,,33639,D.GALFI,117,HUN,,,,0,28369,M.SHERIF,130,EGY,,Q,,0
-SD082,SD,Women's Singles,1,First Round,NOT_STARTED,Upcoming,,,,,51052,A.URHOBO,184,USA,,W,,0,28673,K.BOULTER,69,GBR,,,,0
-SD083,SD,Women's Singles,1,First Round,NOT_STARTED,Upcoming,,,,,50682,M.JOINT,34,AUS,,,,0,38726,A.POTAPOVA,28,AUT,28,,,0
-SD084,SD,Women's Singles,1,First Round,NOT_STARTED,Upcoming,,,,,33663,A.KALINSKAYA,22,---,22,,,0,46655,L.BOISSON,50,FRA,,,,0
-SD085,SD,Women's Singles,1,First Round,NOT_STARTED,Upcoming,,,,,49017,A.KORNEEVA,120,---,,Q,,0,43602,E.COCCIARETTO,40,ITA,,,,0
-SD086,SD,Women's Singles,1,First Round,NOT_STARTED,Upcoming,,,,,45842,T.GIBSON,55,AUS,,,,0,26021,Y.PUTINTSEVA,74,KAZ,,,,0
-SD087,SD,Women's Singles,1,First Round,NOT_STARTED,Upcoming,,,,,40720,C.OSORIO,77,COL,,,,0,30361,E.ALEXANDROVA,14,---,14,,,0
-SD088,SD,Women's Singles,1,First Round,NOT_STARTED,Upcoming,,,,,45660,L.NOSKOVA,12,CZE,12,,,0,28771,M.SAKKARI,48,GRE,,,,0
-SD089,SD,Women's Singles,1,First Round,NOT_STARTED,Upcoming,,,,,38127,C.LIU,182,USA,,Q,,0,42529,M.UCHIJIMA,110,JPN,,,,0
-SD090,SD,Women's Singles,1,First Round,NOT_STARTED,Upcoming,,,,,40630,M.CHWALINSKA,116,POL,,Q,,0,42560,Q.ZHENG,53,CHN,,,,0
-SD091,SD,Women's Singles,1,First Round,NOT_STARTED,Upcoming,,,,,8546,T.MARIA,52,GER,,,,0,26448,E.MERTENS,23,BEL,23,,,0
-SD092,SD,Women's Singles,1,First Round,NOT_STARTED,Upcoming,,,,,40660,A.LI,30,USA,30,,,0,11362,S.ZHANG,73,CHN,,,,0
-SD093,SD,Women's Singles,1,First Round,NOT_STARTED,Upcoming,,,,,31276,A.KALININA,89,UKR,,,,0,40849,D.PARRY,94,FRA,,,,0
-SD094,SD,Women's Singles,1,First Round,NOT_STARTED,Upcoming,,,,,28697,J.GRABHER,123,AUT,,,,0,31356,R.SRAMKOVA,121,SVK,,Q,,0
-SD095,SD,Women's Singles,1,First Round,NOT_STARTED,Upcoming,,,,,49153,T.RAKOTOMANGA RAJAONAH,155,FRA,,W,,0,40607,A.ANISIMOVA,6,USA,6,,,0
-SD096,SD,Women's Singles,1,First Round,NOT_STARTED,Upcoming,,,,,23968,E.SVITOLINA,7,UKR,7,,,0,33616,A.BONDAR,58,HUN,,,,0
-SD097,SD,Women's Singles,1,First Round,NOT_STARTED,Upcoming,,,,,49363,K.QUEVEDO,127,ESP,,Q,,0,24367,L.JEANJEAN,124,FRA,,W,,0
-SD098,SD,Women's Singles,1,First Round,NOT_STARTED,Upcoming,,,,,28888,S.SORRIBES TORMO,297,ESP,,,,0,30642,T.KORPATSCH,96,GER,,,,0
-SD099,SD,Women's Singles,1,First Round,NOT_STARTED,Upcoming,,,,,52661,L.TAGGER,91,AUT,,,,0,40635,X.WANG,32,CHN,32,,,0
-SD100,SD,Women's Singles,1,First Round,NOT_STARTED,Upcoming,,,,,42533,C.TAUSON,21,DEN,21,,,0,42601,D.SNIGUR,95,UKR,,,,0
-SD101,SD,Women's Singles,1,First Round,NOT_STARTED,Upcoming,,,,,35854,S.KENIN,87,USA,,,,0,42566,P.STEARNS,92,USA,,,,0
-SD102,SD,Women's Singles,1,First Round,NOT_STARTED,Upcoming,,,,,19962,A.TOMLJANOVIC,90,AUS,,,,0,40614,C.MCNALLY,56,USA,,,,0
-SD103,SD,Women's Singles,1,First Round,NOT_STARTED,Upcoming,,,,,44194,S.KRAUS,101,AUT,,Q,,0,28865,B.BENCIC,11,SUI,11,,,0
-SD104,SD,Women's Singles,1,First Round,NOT_STARTED,Upcoming,,,,,40683,M.KOSTYUK,15,UKR,15,,,0,44187,O.SELEKHMETEVA,88,---,,,,0
-SD105,SD,Women's Singles,1,First Round,NOT_STARTED,Upcoming,,,,,42557,K.VOLYNETS,108,USA,,,,0,41884,C.BUREL,,FRA,,W,,0
-SD106,SD,Women's Singles,1,First Round,NOT_STARTED,Upcoming,,,,,38582,P.UDVARDY,68,HUN,,,,0,23738,V.GOLUBIC,82,SUI,,,,0
-SD107,SD,Women's Singles,1,First Round,NOT_STARTED,Upcoming,,,,,42132,A.PARKS,80,USA,,,,0,43643,L.FERNANDEZ,24,CAN,24,,,0
-SD108,SD,Women's Singles,1,First Round,NOT_STARTED,Upcoming,,,,,28758,J.OSTAPENKO,29,LAT,29,,,0,47898,E.SEIDEL,97,GER,,,,0
-SD109,SD,Women's Singles,1,First Round,NOT_STARTED,Upcoming,,,,,49227,T.VALENTOVA,43,CZE,,,,0,21355,M.LINETTE,57,POL,,,,0
-SD110,SD,Women's Singles,1,First Round,NOT_STARTED,Upcoming,,,,,47532,S.BEJLEK,35,CZE,,,,0,21500,S.STEPHENS,361,USA,,Q,,0
-SD111,SD,Women's Singles,1,First Round,NOT_STARTED,Upcoming,,,,,50683,E.JONES,136,AUS,,W,,0,40613,I.SWIATEK,3,POL,3,,,0
-SD112,SD,Women's Singles,1,First Round,NOT_STARTED,Upcoming,,,,,48819,M.ANDREEVA,8,---,8,,,0,30524,F.FERRO,200,FRA,,W,,0
-SD113,SD,Women's Singles,1,First Round,NOT_STARTED,Upcoming,,,,,39917,M.BASSOLS RIBERA,177,ESP,,Q,,0,38581,E.ARANGO,98,COL,,,,0
-SD114,SD,Women's Singles,1,First Round,NOT_STARTED,Upcoming,,,,,40621,F.JONES,105,GBR,,,,0,28052,B.HADDAD MAIA,78,BRA,,,,0
-SD115,SD,Women's Singles,1,First Round,NOT_STARTED,Upcoming,,,,,37977,L.BRONZETTI,173,ITA,,Q,,0,31217,M.BOUZKOVA,27,CZE,27,,,0
-SD116,SD,Women's Singles,1,First Round,NOT_STARTED,Upcoming,,,,,33732,L.SAMSONOVA,20,---,20,,,0,31367,J.TEICHMANN,207,SUI,,,,0
-SD117,SD,Women's Singles,1,First Round,NOT_STARTED,Upcoming,,,,,33031,M.FRECH,49,POL,,,,0,33731,EG.RUSE,75,ROU,,,,0
-SD118,SD,Women's Singles,1,First Round,NOT_STARTED,Upcoming,,,,,40622,K.RAKHIMOVA,85,UZB,,,,0,32989,J.CRISTIAN,33,ROU,,,,0
-SD119,SD,Women's Singles,1,First Round,NOT_STARTED,Upcoming,,,,,47135,A.ZAKHAROVA,79,---,,,,0,35961,K.MUCHOVA,10,CZE,10,,,0
-SD120,SD,Women's Singles,1,First Round,NOT_STARTED,Upcoming,,,,,33206,J.PAOLINI,13,ITA,13,,,0,38338,D.YASTREMSKA,45,UKR,,,,0
-SD121,SD,Women's Singles,1,First Round,NOT_STARTED,Upcoming,,,,,42575,E.RADUCANU,37,GBR,,,,0,47053,S.SIERRA,64,ARG,,,,0
-SD122,SD,Women's Singles,1,First Round,NOT_STARTED,Upcoming,,,,,47397,P.MARCINKO,76,CRO,,,,0,43748,E.LYS,81,GER,,,,0
-SD123,SD,Women's Singles,1,First Round,NOT_STARTED,Upcoming,,,,,52311,K.EFREMOVA,,FRA,,W,,0,14440,S.CIRSTEA,18,ROU,18,,,0
-SD124,SD,Women's Singles,1,First Round,NOT_STARTED,Upcoming,,,,,42515,H.BAPTISTE,26,USA,26,,,0,26436,B.KREJCIKOVA,42,CZE,,,,0
-SD125,SD,Women's Singles,1,First Round,NOT_STARTED,Upcoming,,,,,25890,D.KOVINIC,,MNE,,,,0,38639,X.WANG,148,CHN,,Q,,0
-SD126,SD,Women's Singles,1,First Round,NOT_STARTED,Upcoming,,,,,33614,A.BLINKOVA,99,---,,,,0,42203,Y.STARODUBTSEVA,54,UKR,,,,0
-SD127,SD,Women's Singles,1,First Round,NOT_STARTED,Upcoming,,,,,38700,V.ERJAVEC,84,SLO,,,,0,38569,E.RYBAKINA,2,KAZ,2,,,0
-SD032,SD,Women's Singles,2,Second Round,NOT_STARTED,Upcoming,,,,,,,,,,,,0,,,,,,,,0
-SD033,SD,Women's Singles,2,Second Round,NOT_STARTED,Upcoming,,,,,,,,,,,,0,,,,,,,,0
-SD034,SD,Women's Singles,2,Second Round,NOT_STARTED,Upcoming,,,,,,,,,,,,0,,,,,,,,0
-SD035,SD,Women's Singles,2,Second Round,NOT_STARTED,Upcoming,,,,,,,,,,,,0,,,,,,,,0
-SD036,SD,Women's Singles,2,Second Round,NOT_STARTED,Upcoming,,,,,,,,,,,,0,,,,,,,,0
-SD037,SD,Women's Singles,2,Second Round,NOT_STARTED,Upcoming,,,,,,,,,,,,0,,,,,,,,0
-SD038,SD,Women's Singles,2,Second Round,NOT_STARTED,Upcoming,,,,,,,,,,,,0,,,,,,,,0
-SD039,SD,Women's Singles,2,Second Round,NOT_STARTED,Upcoming,,,,,,,,,,,,0,,,,,,,,0
-SD040,SD,Women's Singles,2,Second Round,NOT_STARTED,Upcoming,,,,,,,,,,,,0,,,,,,,,0
-SD041,SD,Women's Singles,2,Second Round,NOT_STARTED,Upcoming,,,,,,,,,,,,0,,,,,,,,0
-SD042,SD,Women's Singles,2,Second Round,NOT_STARTED,Upcoming,,,,,,,,,,,,0,,,,,,,,0
-SD043,SD,Women's Singles,2,Second Round,NOT_STARTED,Upcoming,,,,,,,,,,,,0,,,,,,,,0
-SD044,SD,Women's Singles,2,Second Round,NOT_STARTED,Upcoming,,,,,,,,,,,,0,,,,,,,,0
-SD045,SD,Women's Singles,2,Second Round,NOT_STARTED,Upcoming,,,,,,,,,,,,0,,,,,,,,0
-SD046,SD,Women's Singles,2,Second Round,NOT_STARTED,Upcoming,,,,,,,,,,,,0,,,,,,,,0
-SD047,SD,Women's Singles,2,Second Round,NOT_STARTED,Upcoming,,,,,,,,,,,,0,,,,,,,,0
-SD048,SD,Women's Singles,2,Second Round,NOT_STARTED,Upcoming,,,,,,,,,,,,0,,,,,,,,0
-SD049,SD,Women's Singles,2,Second Round,NOT_STARTED,Upcoming,,,,,,,,,,,,0,,,,,,,,0
-SD050,SD,Women's Singles,2,Second Round,NOT_STARTED,Upcoming,,,,,,,,,,,,0,,,,,,,,0
-SD051,SD,Women's Singles,2,Second Round,NOT_STARTED,Upcoming,,,,,,,,,,,,0,,,,,,,,0
-SD052,SD,Women's Singles,2,Second Round,NOT_STARTED,Upcoming,,,,,,,,,,,,0,,,,,,,,0
-SD053,SD,Women's Singles,2,Second Round,NOT_STARTED,Upcoming,,,,,,,,,,,,0,,,,,,,,0
-SD054,SD,Women's Singles,2,Second Round,NOT_STARTED,Upcoming,,,,,,,,,,,,0,,,,,,,,0
-SD055,SD,Women's Singles,2,Second Round,NOT_STARTED,Upcoming,,,,,,,,,,,,0,,,,,,,,0
-SD056,SD,Women's Singles,2,Second Round,NOT_STARTED,Upcoming,,,,,,,,,,,,0,,,,,,,,0
-SD057,SD,Women's Singles,2,Second Round,NOT_STARTED,Upcoming,,,,,,,,,,,,0,,,,,,,,0
-SD058,SD,Women's Singles,2,Second Round,NOT_STARTED,Upcoming,,,,,,,,,,,,0,,,,,,,,0
-SD059,SD,Women's Singles,2,Second Round,NOT_STARTED,Upcoming,,,,,,,,,,,,0,,,,,,,,0
-SD060,SD,Women's Singles,2,Second Round,NOT_STARTED,Upcoming,,,,,,,,,,,,0,,,,,,,,0
-SD061,SD,Women's Singles,2,Second Round,NOT_STARTED,Upcoming,,,,,,,,,,,,0,,,,,,,,0
-SD062,SD,Women's Singles,2,Second Round,NOT_STARTED,Upcoming,,,,,,,,,,,,0,,,,,,,,0
-SD063,SD,Women's Singles,2,Second Round,NOT_STARTED,Upcoming,,,,,,,,,,,,0,,,,,,,,0
-SD016,SD,Women's Singles,3,Third Round,NOT_STARTED,Upcoming,,,,,,,,,,,,0,,,,,,,,0
-SD017,SD,Women's Singles,3,Third Round,NOT_STARTED,Upcoming,,,,,,,,,,,,0,,,,,,,,0
-SD018,SD,Women's Singles,3,Third Round,NOT_STARTED,Upcoming,,,,,,,,,,,,0,,,,,,,,0
-SD019,SD,Women's Singles,3,Third Round,NOT_STARTED,Upcoming,,,,,,,,,,,,0,,,,,,,,0
-SD020,SD,Women's Singles,3,Third Round,NOT_STARTED,Upcoming,,,,,,,,,,,,0,,,,,,,,0
-SD021,SD,Women's Singles,3,Third Round,NOT_STARTED,Upcoming,,,,,,,,,,,,0,,,,,,,,0
-SD022,SD,Women's Singles,3,Third Round,NOT_STARTED,Upcoming,,,,,,,,,,,,0,,,,,,,,0
-SD023,SD,Women's Singles,3,Third Round,NOT_STARTED,Upcoming,,,,,,,,,,,,0,,,,,,,,0
-SD024,SD,Women's Singles,3,Third Round,NOT_STARTED,Upcoming,,,,,,,,,,,,0,,,,,,,,0
-SD025,SD,Women's Singles,3,Third Round,NOT_STARTED,Upcoming,,,,,,,,,,,,0,,,,,,,,0
-SD026,SD,Women's Singles,3,Third Round,NOT_STARTED,Upcoming,,,,,,,,,,,,0,,,,,,,,0
-SD027,SD,Women's Singles,3,Third Round,NOT_STARTED,Upcoming,,,,,,,,,,,,0,,,,,,,,0
-SD028,SD,Women's Singles,3,Third Round,NOT_STARTED,Upcoming,,,,,,,,,,,,0,,,,,,,,0
-SD029,SD,Women's Singles,3,Third Round,NOT_STARTED,Upcoming,,,,,,,,,,,,0,,,,,,,,0
-SD030,SD,Women's Singles,3,Third Round,NOT_STARTED,Upcoming,,,,,,,,,,,,0,,,,,,,,0
-SD031,SD,Women's Singles,3,Third Round,NOT_STARTED,Upcoming,,,,,,,,,,,,0,,,,,,,,0
-SD008,SD,Women's Singles,4,Fourth Round,NOT_STARTED,Upcoming,,,,,,,,,,,,0,,,,,,,,0
-SD009,SD,Women's Singles,4,Fourth Round,NOT_STARTED,Upcoming,,,,,,,,,,,,0,,,,,,,,0
-SD010,SD,Women's Singles,4,Fourth Round,NOT_STARTED,Upcoming,,,,,,,,,,,,0,,,,,,,,0
-SD011,SD,Women's Singles,4,Fourth Round,NOT_STARTED,Upcoming,,,,,,,,,,,,0,,,,,,,,0
-SD012,SD,Women's Singles,4,Fourth Round,NOT_STARTED,Upcoming,,,,,,,,,,,,0,,,,,,,,0
-SD013,SD,Women's Singles,4,Fourth Round,NOT_STARTED,Upcoming,,,,,,,,,,,,0,,,,,,,,0
-SD014,SD,Women's Singles,4,Fourth Round,NOT_STARTED,Upcoming,,,,,,,,,,,,0,,,,,,,,0
-SD015,SD,Women's Singles,4,Fourth Round,NOT_STARTED,Upcoming,,,,,,,,,,,,0,,,,,,,,0
-SD004,SD,Women's Singles,5,Quarterfinals,NOT_STARTED,Upcoming,,,,,,,,,,,,0,,,,,,,,0
-SD005,SD,Women's Singles,5,Quarterfinals,NOT_STARTED,Upcoming,,,,,,,,,,,,0,,,,,,,,0
-SD006,SD,Women's Singles,5,Quarterfinals,NOT_STARTED,Upcoming,,,,,,,,,,,,0,,,,,,,,0
-SD007,SD,Women's Singles,5,Quarterfinals,NOT_STARTED,Upcoming,,,,,,,,,,,,0,,,,,,,,0
-SD002,SD,Women's Singles,6,Semifinals,NOT_STARTED,Upcoming,,,,,,,,,,,,0,,,,,,,,0
-SD003,SD,Women's Singles,6,Semifinals,NOT_STARTED,Upcoming,,,,,,,,,,,,0,,,,,,,,0
-SD001,SD,Women's Singles,7,Final,NOT_STARTED,Upcoming,,,,,,,,,,,,0,,,,,,,,0
+match_id,draw_code,draw_label,round_number,round_label,status,status_label,court_name,date_schedule,duration_minutes,is_night_session,score,player_a_id,player_a_name,player_a_ranking,player_a_country,player_a_seed,player_a_entry_status,player_a_winner,player_a_sets_won,player_b_id,player_b_name,player_b_ranking,player_b_country,player_b_seed,player_b_entry_status,player_b_winner,player_b_sets_won
+SM064,SM,Men's Singles,1,First Round,NOT_STARTED,Upcoming,,,,,,39723,J.SINNER,1,ITA,1,,,0,40451,C.TABUR,171,FRA,,W,,0
+SM065,SM,Men's Singles,1,First Round,NOT_STARTED,Upcoming,,,,,,43003,J.FEARNLEY,125,GBR,,,,0,40999,JM.CERUNDOLO,56,ARG,,,,0
+SM066,SM,Men's Singles,1,First Round,NOT_STARTED,Upcoming,,,,,,48028,M.LANDALUCE,69,ESP,,,,0,47929,JC.PRADO ANGELO,176,BOL,,Q,,0
+SM067,SM,Men's Singles,1,First Round,NOT_STARTED,Upcoming,,,,,,36324,V.KOPRIVA,66,CZE,,,,0,36358,C.MOUTET,34,FRA,30,,,0
+SM068,SM,Men's Singles,1,First Round,NOT_STARTED,Upcoming,Court Suzanne-Lenglen,20260525,,False,,29969,A.RINDERKNECH,25,FRA,22,,,0,36384,J.RODIONOV,158,AUT,,Q,,0
+SM069,SM,Men's Singles,1,First Round,NOT_STARTED,Upcoming,Court 13,20260525,,False,,22454,M.FUCSOVICS,65,HUN,,,,0,29046,M.BERRETTINI,105,ITA,,,,0
+SM070,SM,Men's Singles,1,First Round,NOT_STARTED,Upcoming,,20260525,,,,48134,E.QUINN,50,USA,,,,0,42330,F.COMESANA,102,ARG,,,,0
+SM071,SM,Men's Singles,1,First Round,NOT_STARTED,Upcoming,,20260525,,,,32390,S.OFNER,112,AUT,,,,0,45420,L.DARDERI,17,ITA,14,,,0
+SM072,SM,Men's Singles,1,First Round,NOT_STARTED,Upcoming,,20260525,,,,29098,A.BUBLIK,10,KAZ,9,,,0,23386,JL.STRUFF,80,GER,,,,0
+SM073,SM,Men's Singles,1,First Round,NOT_STARTED,Upcoming,,20260525,,,,47931,J.FARIA,115,POR,,Q,,0,35246,D.SHAPOVALOV,39,CAN,,,,0
+SM074,SM,Men's Singles,1,First Round,NOT_STARTED,Upcoming,Court 8,20260525,,False,,33529,J.MUNAR,41,ESP,,,,0,31976,H.HURKACZ,99,POL,,,,0
+SM075,SM,Men's Singles,1,First Round,NOT_STARTED,Upcoming,Court 7,20260525,,False,,42500,E.SPIZZIRRI,91,USA,,,,0,35361,F.TIAFOE,22,USA,19,,,0
+SM076,SM,Men's Singles,1,First Round,NOT_STARTED,Upcoming,,20260525,,,,33456,T.GRIEKSPOOR,33,NED,29,,,0,43964,M.ARNALDI,104,ITA,,,,0
+SM077,SM,Men's Singles,1,First Round,NOT_STARTED,Upcoming,,20260525,,,,32341,A.MULLER,127,FRA,,,,0,35398,S.TSITSIPAS,79,GRE,,,,0
+SM078,SM,Men's Singles,1,First Round,NOT_STARTED,Upcoming,Court 9,20260525,,False,,45429,R.COLLIGNON,62,BEL,,,,0,32829,A.VUKIC,96,AUS,,,,0
+SM079,SM,Men's Singles,1,First Round,NOT_STARTED,Upcoming,Court Suzanne-Lenglen,20260525,,False,,47234,D.MERIDA,86,ESP,,,,0,47345,B.SHELTON,5,USA,5,,,0
+SM080,SM,Men's Singles,1,First Round,NOT_STARTED,Upcoming,,20260525,,,,36701,F.AUGER-ALIASSIME,6,CAN,4,,,0,33851,D.ALTMAIER,57,GER,,,,0
+SM081,SM,Men's Singles,1,First Round,NOT_STARTED,Upcoming,,20260525,,,,40442,S.BAEZ,64,ARG,,,,0,43963,RA.BURRUCHAGA,68,ARG,,,,0
+SM082,SM,Men's Singles,1,First Round,NOT_STARTED,Upcoming,Court 8,20260525,,False,,46560,L.VAN ASSCHE,100,FRA,,,,0,38456,P.KYPSON,93,USA,,,,0
+SM083,SM,Men's Singles,1,First Round,NOT_STARTED,Upcoming,Court 9,20260525,,False,,13354,R.BAUTISTA AGUT,117,ESP,,,,0,41418,B.NAKASHIMA,35,USA,31,,,0
+SM084,SM,Men's Singles,1,First Round,NOT_STARTED,Upcoming,,20260525,,,,28593,C.NORRIE,24,GBR,20,,,0,46559,AD.VALLEJO,71,PAR,,,,0
+SM085,SM,Men's Singles,1,First Round,NOT_STARTED,Upcoming,,20260525,,,,11674,M.CILIC,46,CRO,,,,0,53021,M.KOUAME,318,FRA,,W,,0
+SM086,SM,Men's Singles,1,First Round,NOT_STARTED,Upcoming,,20260525,,,,33575,A.TABILO,36,CHI,,,,0,31091,K.MAJCHRZAK,78,POL,,,,0
+SM087,SM,Men's Singles,1,First Round,NOT_STARTED,Upcoming,,20260525,,,,51307,T.FAUREL,378,FRA,,Q,,0,37843,V.VACHEROT,19,MON,16,,,0
+SM088,SM,Men's Singles,1,First Round,NOT_STARTED,Upcoming,Court 14,20260525,,False,,42928,F.COBOLLI,14,ITA,10,,,0,32437,A.PELLEGRINO,124,ITA,,Q,,0
+SM089,SM,Men's Singles,1,First Round,NOT_STARTED,Upcoming,Court 5,20260525,,False,,38355,Y.WU,92,CHN,,,,0,24807,M.GIRON,84,USA,,,,0
+SM090,SM,Men's Singles,1,First Round,NOT_STARTED,Upcoming,,20260525,,,,42339,F.DIAZ ACOSTA,151,ARG,,Q,,0,32885,Z.ZHANG,224,CHN,,,,0
+SM091,SM,Men's Singles,1,First Round,NOT_STARTED,Upcoming,,20260525,,,,26967,C.GARIN,114,CHI,,,,0,49322,L.TIEN,18,USA,18,,,0
+SM092,SM,Men's Singles,1,First Round,NOT_STARTED,Upcoming,Court 4,20260525,,False,,40998,F.CERUNDOLO,26,ARG,25,,,0,30238,B.VAN DE ZANDSCHULP,55,NED,,,,0
+SM093,SM,Men's Singles,1,First Round,NOT_STARTED,Upcoming,Court Philippe-Chatrier,20260525,,True,,38551,H.GASTON,118,FRA,,W,,0,9525,G.MONFILS,218,FRA,,W,,0
+SM094,SM,Men's Singles,1,First Round,NOT_STARTED,Upcoming,,20260525,,,,36373,A.POPYRIN,61,AUS,,,,0,45140,Z.SVAJDA,85,USA,,,,0
+SM095,SM,Men's Singles,1,First Round,NOT_STARTED,Upcoming,,20260525,,,,39851,A.WALTON,97,AUS,,W,,0,28836,D.MEDVEDEV,8,---,6,,,0
+SM096,SM,Men's Singles,1,First Round,NOT_STARTED,Upcoming,Court 14,20260525,,False,,36276,A.DE MINAUR,7,AUS,8,,,0,45427,T.SAMUEL,159,GBR,,Q,,0
+SM097,SM,Men's Singles,1,First Round,FINISHED,Completed,Court 8,20260524,103,False,"6-3, 6-4, 6-2",47993,A.BLOCKX,37,BEL,,,True,3,45200,C.WONG,109,HKG,,L,False,3
+SM098,SM,Men's Singles,1,First Round,NOT_STARTED,Upcoming,Court 4,20260525,,False,,44967,M.NAVONE,38,ARG,,,,0,40967,J.BROOKSBY,63,USA,,,,0
+SM099,SM,Men's Singles,1,First Round,FINISHED,Completed,Court Simonne-Mathieu,20260524,129,False,"3-6, 2-6, 4-6",43951,T.DROGUET,107,FRA,,W,False,3,47921,J.MENSIK,27,CZE,26,,True,3
+SM100,SM,Men's Singles,1,First Round,FINISHED,Completed,Court 13,20260524,145,False,"3-6, 4-6, 2-6",36989,TM.ETCHEVERRY,28,ARG,23,,False,3,36781,N.BORGES,51,POR,,,True,3
+SM101,SM,Men's Singles,1,First Round,FINISHED,Completed,Court 8,20260524,146,False,"7-6(7), 6-3, 6-4",38353,M.KECMANOVIC,48,SRB,,,True,3,41365,F.MAROZSAN,54,HUN,,,False,3
+SM102,SM,Men's Singles,1,First Round,NOT_STARTED,Upcoming,Court 5,20260525,,False,,41424,E.NAVA,94,USA,,Q,,0,38437,C.UGO CARABELLI,59,ARG,,,,0
+SM103,SM,Men's Singles,1,First Round,NOT_STARTED,Upcoming,Court 7,20260525,,False,,46070,I.BUSE,31,PER,,,,0,31132,A.RUBLEV,13,---,11,,,0
+SM104,SM,Men's Singles,1,First Round,NOT_STARTED,Upcoming,Court Simonne-Mathieu,20260525,,False,,36389,C.RUUD,16,NOR,15,,,0,33560,R.SAFIULLIN,141,---,,Q,,0
+SM105,SM,Men's Singles,1,First Round,FINISHED,Completed,Court 9,20260524,179,False,"6-3, 6-4, 6-7(1), 6-4",45423,H.MEDJEDOVIC,58,SRB,,,True,4,22568,Y.HANFMANN,53,GER,,,False,4
+SM106,SM,Men's Singles,1,First Round,IN_PROGRESS,Live,Court Simonne-Mathieu,20260524,195,False,"7-6(7), 5-7, 6-2, 1-6, 3-0*",35289,L.SONEGO,70,ITA,,,,5,21623,PH.HERBERT,220,FRA,,Q,,5
+SM107,SM,Men's Singles,1,First Round,NOT_STARTED,Upcoming,Court 13,20260525,,False,,41202,R.HIJIKATA,98,AUS,,,,0,33541,T.PAUL,21,USA,24,,,0
+SM108,SM,Men's Singles,1,First Round,FINISHED,Completed,Court Simonne-Mathieu,20260524,134,False,"7-6(8), 6-4, 6-2",48336,J.FONSECA,30,BRA,28,,True,3,41468,L.PAVLOVIC,241,FRA,,Q,False,3
+SM109,SM,Men's Singles,1,First Round,FINISHED,Completed,Court 9,20260524,105,False,"1-6, 1-6, 3-6",48801,M.ZHENG,146,USA,,Q,False,3,47952,D.PRIZMIC,72,CRO,,,True,3
+SM110,SM,Men's Singles,1,First Round,FINISHED,Completed,Court 14,20260524,118,False,"4-6, 2-6, 2-6",24660,H.DELLIEN,144,BOL,,Q,False,3,42348,V.ROYER,74,FRA,,,True,3
+SM111,SM,Men's Singles,1,First Round,FINISHED,Completed,Court Philippe-Chatrier,20260524,171,True,"7-5, 5-7, 1-6, 4-6",44112,G.MPETSHI PERRICARD,83,FRA,,,False,4,9801,N.DJOKOVIC,4,SRB,3,,True,4
+SM112,SM,Men's Singles,1,First Round,FINISHED,Completed,Court Suzanne-Lenglen,20260524,202,False,"6-7(5), 6-7(5), 7-6(11), 1-6",34350,T.FRITZ,9,USA,7,,False,4,47331,N.BASAVAREDDY,148,USA,,W,True,4
+SM113,SM,Men's Singles,1,First Round,NOT_STARTED,Upcoming,Court 12,20260525,,False,,42494,A.SHEVCHENKO,88,KAZ,,,,0,49300,A.MICHELSEN,42,USA,,,,0
+SM114,SM,Men's Singles,1,First Round,FINISHED,Completed,Court 12,20260524,67,False,"6-3, 4-1",21600,J.DUCKWORTH,82,AUS,,,True,2,46130,G.DIALLO,49,CAN,,,False,2
+SM115,SM,Men's Singles,1,First Round,NOT_STARTED,Upcoming,Court 12,20260525,,False,,41293,A.KOVACEVIC,67,USA,,,,0,49822,R.JODAR,29,ESP,27,,,0
+SM116,SM,Men's Singles,1,First Round,FINISHED,Completed,Court 14,20260524,245,False,"6-7(3), 6-3, 2-6, 7-5, 6-3",39036,A.DAVIDOVICH FOKINA,23,ESP,21,,True,5,20338,D.DZUMHUR,87,BIH,,,False,5
+SM117,SM,Men's Singles,1,First Round,FINISHED,Completed,Court 13,20260524,208,False,"3-6, 6-7(6), 7-6(7), 0-6",44472,P.LLAMAS RUIZ,122,ESP,,Q,False,4,41715,TA.TIRANTE,60,ARG,,,True,4
+SM118,SM,Men's Singles,1,First Round,NOT_STARTED,Upcoming,Court 6,20260525,,False,,29550,T.KOKKINAKIS,,AUS,,,,0,43979,T.ATMANE,52,FRA,,,,0
+SM119,SM,Men's Singles,1,First Round,NOT_STARTED,Upcoming,Court 6,20260525,,False,,21578,P.CARRENO BUSTA,89,ESP,,,,0,43155,J.LEHECKA,12,CZE,12,,,0
+SM120,SM,Men's Singles,1,First Round,FINISHED,Completed,Court Suzanne-Lenglen,20260524,158,False,"6-3, 7-6(7), 6-0",29528,K.KHACHANOV,15,---,13,,True,3,47950,A.GEA,135,FRA,,W,False,3
+SM121,SM,Men's Singles,1,First Round,FINISHED,Completed,Court 6,20260524,105,False,"4-6, 2-6, 2-6",44469,K.JACQUET,147,FRA,,Q,False,3,21069,M.TRUNGELLITI,81,ARG,,,True,3
+SM122,SM,Men's Singles,1,First Round,FINISHED,Completed,Court 6,20260524,201,False,"3-6, 6-4, 6-2, 6-7(6), 6-4",49347,F.CINA,238,ITA,,Q,True,5,32402,R.OPELKA,76,USA,,,False,5
+SM123,SM,Men's Singles,1,First Round,NOT_STARTED,Upcoming,Court Simonne-Mathieu,20260525,,False,,7815,S.WAWRINKA,113,SUI,,,,0,42304,J.DE JONG,106,NED,,L,,0
+SM124,SM,Men's Singles,1,First Round,NOT_STARTED,Upcoming,Court Philippe-Chatrier,20260525,,False,,36307,U.HUMBERT,32,FRA,32,,,0,13859,A.MANNARINO,45,FRA,,,,0
+SM125,SM,Men's Singles,1,First Round,FINISHED,Completed,Court 7,20260524,146,False,"6-3, 7-6(7), 6-3",31036,Q.HALYS,90,FRA,,,True,3,44168,M.BELLUCCI,73,ITA,,,False,3
+SM126,SM,Men's Singles,1,First Round,FINISHED,Completed,Court 12,20260524,147,False,"6-4, 6-4, 6-3",40499,T.MACHAC,43,CZE,,,True,3,36748,Z.BERGS,40,BEL,,,False,3
+SM127,SM,Men's Singles,1,First Round,FINISHED,Completed,Court Philippe-Chatrier,20260524,128,False,"3-6, 4-6, 2-6",33416,B.BONZI,95,FRA,,,False,3,30350,A.ZVEREV,3,GER,2,,True,3
+SM032,SM,Men's Singles,2,Second Round,NOT_STARTED,Upcoming,,20260524,,,,,,,,,,,0,,,,,,,,0
+SM033,SM,Men's Singles,2,Second Round,NOT_STARTED,Upcoming,,20260524,,,,,,,,,,,0,,,,,,,,0
+SM034,SM,Men's Singles,2,Second Round,NOT_STARTED,Upcoming,,20260524,,,,,,,,,,,0,,,,,,,,0
+SM035,SM,Men's Singles,2,Second Round,NOT_STARTED,Upcoming,,20260524,,,,,,,,,,,0,,,,,,,,0
+SM036,SM,Men's Singles,2,Second Round,NOT_STARTED,Upcoming,,20260524,,,,,,,,,,,0,,,,,,,,0
+SM037,SM,Men's Singles,2,Second Round,NOT_STARTED,Upcoming,,20260524,,,,,,,,,,,0,,,,,,,,0
+SM038,SM,Men's Singles,2,Second Round,NOT_STARTED,Upcoming,,20260524,,,,,,,,,,,0,,,,,,,,0
+SM039,SM,Men's Singles,2,Second Round,NOT_STARTED,Upcoming,,20260524,,,,,,,,,,,0,,,,,,,,0
+SM040,SM,Men's Singles,2,Second Round,NOT_STARTED,Upcoming,,20260524,,,,,,,,,,,0,,,,,,,,0
+SM041,SM,Men's Singles,2,Second Round,NOT_STARTED,Upcoming,,20260524,,,,,,,,,,,0,,,,,,,,0
+SM042,SM,Men's Singles,2,Second Round,NOT_STARTED,Upcoming,,20260524,,,,,,,,,,,0,,,,,,,,0
+SM043,SM,Men's Singles,2,Second Round,NOT_STARTED,Upcoming,,20260524,,,,,,,,,,,0,,,,,,,,0
+SM044,SM,Men's Singles,2,Second Round,NOT_STARTED,Upcoming,,20260524,,,,,,,,,,,0,,,,,,,,0
+SM045,SM,Men's Singles,2,Second Round,NOT_STARTED,Upcoming,,20260524,,,,,,,,,,,0,,,,,,,,0
+SM046,SM,Men's Singles,2,Second Round,NOT_STARTED,Upcoming,,20260524,,,,,,,,,,,0,,,,,,,,0
+SM047,SM,Men's Singles,2,Second Round,NOT_STARTED,Upcoming,,20260524,,,,,,,,,,,0,,,,,,,,0
+SM048,SM,Men's Singles,2,Second Round,NOT_STARTED,Upcoming,,20260524,,,,,,,,,,,0,47993,A.BLOCKX,37,BEL,,,,0
+SM049,SM,Men's Singles,2,Second Round,NOT_STARTED,Upcoming,,20260524,,,,,,,,,,,0,47921,J.MENSIK,27,CZE,26,,,0
+SM050,SM,Men's Singles,2,Second Round,NOT_STARTED,Upcoming,,20260524,,,,36781,N.BORGES,51,POR,,,,0,38353,M.KECMANOVIC,48,SRB,,,,0
+SM051,SM,Men's Singles,2,Second Round,NOT_STARTED,Upcoming,,20260524,,,,,,,,,,,0,,,,,,,,0
+SM052,SM,Men's Singles,2,Second Round,NOT_STARTED,Upcoming,,20260524,,,,,,,,,,,0,45423,H.MEDJEDOVIC,58,SRB,,,,0
+SM053,SM,Men's Singles,2,Second Round,NOT_STARTED,Upcoming,,20260524,,,,,,,,,,,0,,,,,,,,0
+SM054,SM,Men's Singles,2,Second Round,NOT_STARTED,Upcoming,,20260524,,,,48336,J.FONSECA,30,BRA,28,,,0,47952,D.PRIZMIC,72,CRO,,,,0
+SM055,SM,Men's Singles,2,Second Round,NOT_STARTED,Upcoming,,20260524,,,,42348,V.ROYER,74,FRA,,,,0,9801,N.DJOKOVIC,4,SRB,3,,,0
+SM056,SM,Men's Singles,2,Second Round,NOT_STARTED,Upcoming,,20260524,,,,47331,N.BASAVAREDDY,148,USA,,,,0,,,,,,,,0
+SM057,SM,Men's Singles,2,Second Round,NOT_STARTED,Upcoming,,20260524,,,,21600,J.DUCKWORTH,82,AUS,,,,0,,,,,,,,0
+SM058,SM,Men's Singles,2,Second Round,NOT_STARTED,Upcoming,,20260524,,,,39036,A.DAVIDOVICH FOKINA,23,ESP,21,,,0,41715,TA.TIRANTE,60,ARG,,,,0
+SM059,SM,Men's Singles,2,Second Round,NOT_STARTED,Upcoming,,20260524,,,,,,,,,,,0,,,,,,,,0
+SM060,SM,Men's Singles,2,Second Round,NOT_STARTED,Upcoming,,20260524,,,,29528,K.KHACHANOV,15,---,13,,,0,21069,M.TRUNGELLITI,81,ARG,,,,0
+SM061,SM,Men's Singles,2,Second Round,NOT_STARTED,Upcoming,,20260524,,,,49347,F.CINA,238,ITA,,,,0,,,,,,,,0
+SM062,SM,Men's Singles,2,Second Round,NOT_STARTED,Upcoming,,20260524,,,,,,,,,,,0,31036,Q.HALYS,90,FRA,,,,0
+SM063,SM,Men's Singles,2,Second Round,NOT_STARTED,Upcoming,,20260524,,,,40499,T.MACHAC,43,CZE,,,,0,30350,A.ZVEREV,3,GER,2,,,0
+SM016,SM,Men's Singles,3,Third Round,NOT_STARTED,Upcoming,,20260524,,,,,,,,,,,0,,,,,,,,0
+SM017,SM,Men's Singles,3,Third Round,NOT_STARTED,Upcoming,,20260524,,,,,,,,,,,0,,,,,,,,0
+SM018,SM,Men's Singles,3,Third Round,NOT_STARTED,Upcoming,,20260524,,,,,,,,,,,0,,,,,,,,0
+SM019,SM,Men's Singles,3,Third Round,NOT_STARTED,Upcoming,,20260524,,,,,,,,,,,0,,,,,,,,0
+SM020,SM,Men's Singles,3,Third Round,NOT_STARTED,Upcoming,,20260524,,,,,,,,,,,0,,,,,,,,0
+SM021,SM,Men's Singles,3,Third Round,NOT_STARTED,Upcoming,,20260524,,,,,,,,,,,0,,,,,,,,0
+SM022,SM,Men's Singles,3,Third Round,NOT_STARTED,Upcoming,,20260524,,,,,,,,,,,0,,,,,,,,0
+SM023,SM,Men's Singles,3,Third Round,NOT_STARTED,Upcoming,,20260524,,,,,,,,,,,0,,,,,,,,0
+SM024,SM,Men's Singles,3,Third Round,NOT_STARTED,Upcoming,,20260524,,,,,,,,,,,0,,,,,,,,0
+SM025,SM,Men's Singles,3,Third Round,NOT_STARTED,Upcoming,,20260524,,,,,,,,,,,0,,,,,,,,0
+SM026,SM,Men's Singles,3,Third Round,NOT_STARTED,Upcoming,,20260524,,,,,,,,,,,0,,,,,,,,0
+SM027,SM,Men's Singles,3,Third Round,NOT_STARTED,Upcoming,,20260524,,,,,,,,,,,0,,,,,,,,0
+SM028,SM,Men's Singles,3,Third Round,NOT_STARTED,Upcoming,,20260524,,,,,,,,,,,0,,,,,,,,0
+SM029,SM,Men's Singles,3,Third Round,NOT_STARTED,Upcoming,,20260524,,,,,,,,,,,0,,,,,,,,0
+SM030,SM,Men's Singles,3,Third Round,NOT_STARTED,Upcoming,,20260524,,,,,,,,,,,0,,,,,,,,0
+SM031,SM,Men's Singles,3,Third Round,NOT_STARTED,Upcoming,,20260524,,,,,,,,,,,0,,,,,,,,0
+SM008,SM,Men's Singles,4,Fourth Round,NOT_STARTED,Upcoming,,20260524,,,,,,,,,,,0,,,,,,,,0
+SM009,SM,Men's Singles,4,Fourth Round,NOT_STARTED,Upcoming,,20260524,,,,,,,,,,,0,,,,,,,,0
+SM010,SM,Men's Singles,4,Fourth Round,NOT_STARTED,Upcoming,,20260524,,,,,,,,,,,0,,,,,,,,0
+SM011,SM,Men's Singles,4,Fourth Round,NOT_STARTED,Upcoming,,20260524,,,,,,,,,,,0,,,,,,,,0
+SM012,SM,Men's Singles,4,Fourth Round,NOT_STARTED,Upcoming,,20260524,,,,,,,,,,,0,,,,,,,,0
+SM013,SM,Men's Singles,4,Fourth Round,NOT_STARTED,Upcoming,,20260524,,,,,,,,,,,0,,,,,,,,0
+SM014,SM,Men's Singles,4,Fourth Round,NOT_STARTED,Upcoming,,20260524,,,,,,,,,,,0,,,,,,,,0
+SM015,SM,Men's Singles,4,Fourth Round,NOT_STARTED,Upcoming,,20260524,,,,,,,,,,,0,,,,,,,,0
+SM004,SM,Men's Singles,5,Quarterfinals,NOT_STARTED,Upcoming,,20260524,,,,,,,,,,,0,,,,,,,,0
+SM005,SM,Men's Singles,5,Quarterfinals,NOT_STARTED,Upcoming,,20260524,,,,,,,,,,,0,,,,,,,,0
+SM006,SM,Men's Singles,5,Quarterfinals,NOT_STARTED,Upcoming,,20260524,,,,,,,,,,,0,,,,,,,,0
+SM007,SM,Men's Singles,5,Quarterfinals,NOT_STARTED,Upcoming,,20260524,,,,,,,,,,,0,,,,,,,,0
+SM002,SM,Men's Singles,6,Semifinals,NOT_STARTED,Upcoming,,20260524,,,,,,,,,,,0,,,,,,,,0
+SM003,SM,Men's Singles,6,Semifinals,NOT_STARTED,Upcoming,,20260524,,,,,,,,,,,0,,,,,,,,0
+SM001,SM,Men's Singles,7,Final,NOT_STARTED,Upcoming,,20260524,,,,,,,,,,,0,,,,,,,,0
+SD064,SD,Women's Singles,1,First Round,NOT_STARTED,Upcoming,,,,,,33249,A.SABALENKA,1,---,1,,,0,44201,J.BOUZAS MANEIRO,50,ESP,,,,0
+SD065,SD,Women's Singles,1,First Round,NOT_STARTED,Upcoming,,,,,,45668,L.FRUHVIRTOVA,149,CZE,,Q,,0,43689,E.JACQUEMOT,67,FRA,,,,0
+SD066,SD,Women's Singles,1,First Round,NOT_STARTED,Upcoming,Court 9,20260525,,False,,31281,D.KASATKINA,53,AUS,,,,0,42733,Z.SONMEZ,66,TUR,,,,0
+SD067,SD,Women's Singles,1,First Round,NOT_STARTED,Upcoming,Court 5,20260525,,False,,35604,S.BANDECCHI,215,SUI,,Q,,0,35655,C.BUCSA,33,ESP,31,,,0
+SD068,SD,Women's Singles,1,First Round,NOT_STARTED,Upcoming,,20260525,,,,50685,I.JOVIC,17,USA,17,,,0,45659,A.EALA,37,PHI,,,,0
+SD069,SD,Women's Singles,1,First Round,NOT_STARTED,Upcoming,,20260525,,,,40210,E.NAVARRO,25,USA,,,,0,44215,J.TJEN,40,INA,,,,0
+SD070,SD,Women's Singles,1,First Round,NOT_STARTED,Upcoming,,20260525,,,,26513,D.VEKIC,72,CRO,,,,0,43909,A.TUBELLO,226,FRA,,W,,0
+SD071,SD,Women's Singles,1,First Round,NOT_STARTED,Upcoming,,20260525,,,,9086,L.SIEGEMUND,47,GER,,,,0,30764,N.OSAKA,16,JPN,16,,,0
+SD072,SD,Women's Singles,1,First Round,NOT_STARTED,Upcoming,,20260525,,,,47486,V.MBOKO,9,CAN,9,,,0,47415,N.BARTUNKOVA,69,CZE,,,,0
+SD073,SD,Women's Singles,1,First Round,NOT_STARTED,Upcoming,,20260525,,,,40366,S.WALTERT,91,SUI,,,,0,28779,K.SINIAKOVA,36,CZE,,,,0
+SD074,SD,Women's Singles,1,First Round,NOT_STARTED,Upcoming,,20260525,,,,45694,A.RUZIC,64,CRO,,,,0,46834,A.KRUEGER,120,USA,,Q,,0
+SD075,SD,Women's Singles,1,First Round,NOT_STARTED,Upcoming,,20260525,,,,45770,H.VANDEWINKEL,99,BEL,,,,0,24265,M.KEYS,19,USA,19,,,0
+SD076,SD,Women's Singles,1,First Round,NOT_STARTED,Upcoming,Court 6,20260525,,False,,45655,D.SHNAIDER,23,---,25,,,0,31392,R.ZARAZUA,74,MEX,,,,0
+SD077,SD,Women's Singles,1,First Round,NOT_STARTED,Upcoming,Court 13,20260525,,False,,36499,H.GUO,166,CHN,,Q,,0,42617,M.KESSLER,48,USA,,,,0
+SD078,SD,Women's Singles,1,First Round,NOT_STARTED,Upcoming,,20260525,,,,47434,E.PRIDANKINA,218,---,,Q,,0,42629,O.OLIYNYKOVA,65,UKR,,,,0
+SD079,SD,Women's Singles,1,First Round,NOT_STARTED,Upcoming,,20260525,,,,32938,K.BIRRELL,83,AUS,,,,0,21863,J.PEGULA,5,USA,5,,,0
+SD080,SD,Women's Singles,1,First Round,NOT_STARTED,Upcoming,,20260525,,,,44185,C.GAUFF,4,USA,4,,,0,28420,T.TOWNSEND,75,USA,,,,0
+SD081,SD,Women's Singles,1,First Round,NOT_STARTED,Upcoming,,20260525,,,,33639,D.GALFI,115,HUN,,,,0,28369,M.SHERIF,129,EGY,,Q,,0
+SD082,SD,Women's Singles,1,First Round,NOT_STARTED,Upcoming,Court 8,20260525,,False,,51052,A.URHOBO,185,USA,,W,,0,28673,K.BOULTER,71,GBR,,,,0
+SD083,SD,Women's Singles,1,First Round,NOT_STARTED,Upcoming,Court 13,20260525,,False,,50682,M.JOINT,52,AUS,,,,0,38726,A.POTAPOVA,30,AUT,28,,,0
+SD084,SD,Women's Singles,1,First Round,NOT_STARTED,Upcoming,,20260525,,,,33663,A.KALINSKAYA,24,---,22,,,0,46655,L.BOISSON,43,FRA,,,,0
+SD085,SD,Women's Singles,1,First Round,NOT_STARTED,Upcoming,,20260525,,,,49017,A.KORNEEVA,117,---,,Q,,0,43602,E.COCCIARETTO,38,ITA,,,,0
+SD086,SD,Women's Singles,1,First Round,NOT_STARTED,Upcoming,Court 12,20260525,,False,,45842,T.GIBSON,58,AUS,,,,0,26021,Y.PUTINTSEVA,76,KAZ,,,,0
+SD087,SD,Women's Singles,1,First Round,NOT_STARTED,Upcoming,Court 8,20260525,,False,,40720,C.OSORIO,86,COL,,,,0,30361,E.ALEXANDROVA,14,---,14,,,0
+SD088,SD,Women's Singles,1,First Round,NOT_STARTED,Upcoming,,20260525,,,,45660,L.NOSKOVA,12,CZE,12,,,0,28771,M.SAKKARI,49,GRE,,,,0
+SD089,SD,Women's Singles,1,First Round,NOT_STARTED,Upcoming,,20260525,,,,38127,C.LIU,182,USA,,Q,,0,42529,M.UCHIJIMA,107,JPN,,,,0
+SD090,SD,Women's Singles,1,First Round,NOT_STARTED,Upcoming,Court 7,20260525,,False,,40630,M.CHWALINSKA,114,POL,,Q,,0,42560,Q.ZHENG,56,CHN,,,,0
+SD091,SD,Women's Singles,1,First Round,NOT_STARTED,Upcoming,Court 14,20260525,,False,,8546,T.MARIA,54,GER,,,,0,26448,E.MERTENS,21,BEL,23,,,0
+SD092,SD,Women's Singles,1,First Round,NOT_STARTED,Upcoming,,20260525,,,,40660,A.LI,29,USA,30,,,0,11362,S.ZHANG,61,CHN,,,,0
+SD093,SD,Women's Singles,1,First Round,NOT_STARTED,Upcoming,,20260525,,,,31276,A.KALININA,60,UKR,,,,0,40849,D.PARRY,92,FRA,,,,0
+SD094,SD,Women's Singles,1,First Round,NOT_STARTED,Upcoming,Court 4,20260525,,False,,28697,J.GRABHER,121,AUT,,,,0,31356,R.SRAMKOVA,125,SVK,,Q,,0
+SD095,SD,Women's Singles,1,First Round,NOT_STARTED,Upcoming,Court Suzanne-Lenglen,20260525,,False,,49153,T.RAKOTOMANGA RAJAONAH,153,FRA,,W,,0,40607,A.ANISIMOVA,6,USA,6,,,0
+SD096,SD,Women's Singles,1,First Round,NOT_STARTED,Upcoming,Court Suzanne-Lenglen,20260525,,False,,23968,E.SVITOLINA,7,UKR,7,,,0,33616,A.BONDAR,57,HUN,,,,0
+SD097,SD,Women's Singles,1,First Round,NOT_STARTED,Upcoming,Court 14,20260525,,False,,49363,K.QUEVEDO,126,ESP,,Q,,0,24367,L.JEANJEAN,122,FRA,,W,,0
+SD098,SD,Women's Singles,1,First Round,FINISHED,Completed,Court 8,20260524,110,False,"4-6, 2-6",28888,S.SORRIBES TORMO,304,ESP,,,False,2,30642,T.KORPATSCH,95,GER,,,True,2
+SD099,SD,Women's Singles,1,First Round,FINISHED,Completed,Court 9,20260524,128,False,"3-6, 6-3, 4-6",52661,L.TAGGER,90,AUT,,,False,3,40635,X.WANG,34,CHN,32,,True,3
+SD100,SD,Women's Singles,1,First Round,FINISHED,Completed,Court 12,20260524,126,False,"6-3, 5-7, 2-6",42533,C.TAUSON,20,DEN,21,,False,3,42601,D.SNIGUR,93,UKR,,,True,3
+SD101,SD,Women's Singles,1,First Round,FINISHED,Completed,Court 14,20260524,78,False,"3-6, 3-6",35854,S.KENIN,87,USA,,,False,2,42566,P.STEARNS,78,USA,,,True,2
+SD102,SD,Women's Singles,1,First Round,FINISHED,Completed,Court 7,20260524,160,False,"6-3, 6-7(5), 3-6",19962,A.TOMLJANOVIC,100,AUS,,,False,3,40614,C.MCNALLY,63,USA,,,True,3
+SD103,SD,Women's Singles,1,First Round,FINISHED,Completed,Court Philippe-Chatrier,20260524,90,False,"2-6, 3-6",44194,S.KRAUS,98,AUT,,Q,False,2,28865,B.BENCIC,11,SUI,11,,True,2
+SD104,SD,Women's Singles,1,First Round,FINISHED,Completed,Court Simonne-Mathieu,20260524,78,False,"6-2, 6-3",40683,M.KOSTYUK,15,UKR,15,,True,2,44187,O.SELEKHMETEVA,88,ESP,,,False,2
+SD105,SD,Women's Singles,1,First Round,FINISHED,Completed,Court Simonne-Mathieu,20260524,88,False,"6-3, 6-1",42557,K.VOLYNETS,108,USA,,,True,2,41884,C.BUREL,,FRA,,W,False,2
+SD106,SD,Women's Singles,1,First Round,NOT_STARTED,Upcoming,Court 9,20260525,,False,,38582,P.UDVARDY,59,HUN,,,,0,23738,V.GOLUBIC,82,SUI,,,,0
+SD107,SD,Women's Singles,1,First Round,NOT_STARTED,Upcoming,Court 7,20260525,,False,,42132,A.PARKS,79,USA,,,,0,43643,L.FERNANDEZ,22,CAN,24,,,0
+SD108,SD,Women's Singles,1,First Round,NOT_STARTED,Upcoming,Court 6,20260525,,False,,28758,J.OSTAPENKO,31,LAT,29,,,0,47898,E.SEIDEL,96,GER,,,,0
+SD109,SD,Women's Singles,1,First Round,FINISHED,Completed,Court 7,20260524,178,False,"7-5, 4-6, 6-7(9)",49227,T.VALENTOVA,42,CZE,,,False,3,21355,M.LINETTE,73,POL,,,True,3
+SD110,SD,Women's Singles,1,First Round,FINISHED,Completed,Court 6,20260524,82,False,"6-3, 6-2",47532,S.BEJLEK,35,CZE,,,True,2,21500,S.STEPHENS,363,USA,,Q,False,2
+SD111,SD,Women's Singles,1,First Round,NOT_STARTED,Upcoming,Court Philippe-Chatrier,20260525,,False,,50683,E.JONES,136,AUS,,W,,0,40613,I.SWIATEK,3,POL,3,,,0
+SD112,SD,Women's Singles,1,First Round,FINISHED,Completed,Court Philippe-Chatrier,20260524,71,False,"6-3, 6-3",48819,M.ANDREEVA,8,---,8,,True,2,30524,F.FERRO,181,FRA,,W,False,2
+SD113,SD,Women's Singles,1,First Round,FINISHED,Completed,Court 13,20260524,92,False,"6-3, 6-4",39917,M.BASSOLS RIBERA,175,ESP,,Q,True,2,38581,E.ARANGO,94,COL,,,False,2
+SD114,SD,Women's Singles,1,First Round,FINISHED,Completed,Court 14,20260524,159,False,"1-6, 7-6(7), 6-2",40621,F.JONES,102,GBR,,,True,3,28052,B.HADDAD MAIA,105,BRA,,,False,3
+SD115,SD,Women's Singles,1,First Round,FINISHED,Completed,Court 6,20260524,69,False,"3-6, 1-6",37977,L.BRONZETTI,172,ITA,,Q,False,2,31217,M.BOUZKOVA,28,CZE,27,,True,2
+SD116,SD,Women's Singles,1,First Round,NOT_STARTED,Upcoming,Court 4,20260525,,False,,33732,L.SAMSONOVA,27,---,20,,,0,31367,J.TEICHMANN,170,SUI,,,,0
+SD117,SD,Women's Singles,1,First Round,FINISHED,Completed,Court 12,20260524,92,False,"7-6(7), 2-1",33031,M.FRECH,46,POL,,,True,2,33731,EG.RUSE,77,ROU,,,False,2
+SD118,SD,Women's Singles,1,First Round,NOT_STARTED,Upcoming,Court 12,20260525,,False,,40622,K.RAKHIMOVA,89,UZB,,,,0,32989,J.CRISTIAN,32,ROU,,,,0
+SD119,SD,Women's Singles,1,First Round,NOT_STARTED,Upcoming,Court Simonne-Mathieu,20260525,,False,,47135,A.ZAKHAROVA,80,---,,,,0,35961,K.MUCHOVA,10,CZE,10,,,0
+SD120,SD,Women's Singles,1,First Round,NOT_STARTED,Upcoming,Court Simonne-Mathieu,20260525,,False,,33206,J.PAOLINI,13,ITA,13,,,0,38338,D.YASTREMSKA,45,UKR,,,,0
+SD121,SD,Women's Singles,1,First Round,FINISHED,Completed,Court 13,20260524,105,False,"0-6, 6-7(4)",42575,E.RADUCANU,39,GBR,,,False,2,47053,S.SIERRA,68,ARG,,,True,2
+SD122,SD,Women's Singles,1,First Round,NOT_STARTED,Upcoming,Court 5,20260525,,False,,47397,P.MARCINKO,51,CRO,,,,0,43748,E.LYS,81,GER,,,,0
+SD123,SD,Women's Singles,1,First Round,FINISHED,Completed,Court Suzanne-Lenglen,20260524,70,False,"3-6, 1-6",52311,K.EFREMOVA,,FRA,,W,False,2,14440,S.CIRSTEA,18,ROU,18,,True,2
+SD124,SD,Women's Singles,1,First Round,FINISHED,Completed,Court Suzanne-Lenglen,20260524,173,False,"6-7(7), 7-6(8), 6-2",42515,H.BAPTISTE,26,USA,26,,True,3,26436,B.KREJCIKOVA,41,CZE,,,False,3
+SD125,SD,Women's Singles,1,First Round,FINISHED,Completed,Court 8,20260524,78,False,"3-6, 1-6",25890,D.KOVINIC,,MNE,,,False,2,38639,X.WANG,148,CHN,,Q,True,2
+SD126,SD,Women's Singles,1,First Round,FINISHED,Completed,Court 9,20260524,92,False,"3-6, 1-6",33614,A.BLINKOVA,103,---,,,False,2,42203,Y.STARODUBTSEVA,55,UKR,,,True,2
+SD127,SD,Women's Singles,1,First Round,NOT_STARTED,Upcoming,Court Philippe-Chatrier,20260525,,False,,38700,V.ERJAVEC,84,SLO,,,,0,38569,E.RYBAKINA,2,KAZ,2,,,0
+SD032,SD,Women's Singles,2,Second Round,NOT_STARTED,Upcoming,,20260525,,,,,,,,,,,0,,,,,,,,0
+SD033,SD,Women's Singles,2,Second Round,NOT_STARTED,Upcoming,,20260525,,,,,,,,,,,0,,,,,,,,0
+SD034,SD,Women's Singles,2,Second Round,NOT_STARTED,Upcoming,,20260525,,,,,,,,,,,0,,,,,,,,0
+SD035,SD,Women's Singles,2,Second Round,NOT_STARTED,Upcoming,,20260525,,,,,,,,,,,0,,,,,,,,0
+SD036,SD,Women's Singles,2,Second Round,NOT_STARTED,Upcoming,,20260525,,,,,,,,,,,0,,,,,,,,0
+SD037,SD,Women's Singles,2,Second Round,NOT_STARTED,Upcoming,,20260525,,,,,,,,,,,0,,,,,,,,0
+SD038,SD,Women's Singles,2,Second Round,NOT_STARTED,Upcoming,,20260525,,,,,,,,,,,0,,,,,,,,0
+SD039,SD,Women's Singles,2,Second Round,NOT_STARTED,Upcoming,,20260525,,,,,,,,,,,0,,,,,,,,0
+SD040,SD,Women's Singles,2,Second Round,NOT_STARTED,Upcoming,,20260525,,,,,,,,,,,0,,,,,,,,0
+SD041,SD,Women's Singles,2,Second Round,NOT_STARTED,Upcoming,,20260525,,,,,,,,,,,0,,,,,,,,0
+SD042,SD,Women's Singles,2,Second Round,NOT_STARTED,Upcoming,,20260525,,,,,,,,,,,0,,,,,,,,0
+SD043,SD,Women's Singles,2,Second Round,NOT_STARTED,Upcoming,,20260525,,,,,,,,,,,0,,,,,,,,0
+SD044,SD,Women's Singles,2,Second Round,NOT_STARTED,Upcoming,,20260525,,,,,,,,,,,0,,,,,,,,0
+SD045,SD,Women's Singles,2,Second Round,NOT_STARTED,Upcoming,,20260525,,,,,,,,,,,0,,,,,,,,0
+SD046,SD,Women's Singles,2,Second Round,NOT_STARTED,Upcoming,,20260525,,,,,,,,,,,0,,,,,,,,0
+SD047,SD,Women's Singles,2,Second Round,NOT_STARTED,Upcoming,,20260525,,,,,,,,,,,0,,,,,,,,0
+SD048,SD,Women's Singles,2,Second Round,NOT_STARTED,Upcoming,,20260525,,,,,,,,,,,0,,,,,,,,0
+SD049,SD,Women's Singles,2,Second Round,NOT_STARTED,Upcoming,,20260525,,,,30642,T.KORPATSCH,95,GER,,,,0,40635,X.WANG,34,CHN,32,,,0
+SD050,SD,Women's Singles,2,Second Round,NOT_STARTED,Upcoming,,20260525,,,,42601,D.SNIGUR,93,UKR,,,,0,42566,P.STEARNS,78,USA,,,,0
+SD051,SD,Women's Singles,2,Second Round,NOT_STARTED,Upcoming,,20260525,,,,40614,C.MCNALLY,63,USA,,,,0,28865,B.BENCIC,11,SUI,11,,,0
+SD052,SD,Women's Singles,2,Second Round,NOT_STARTED,Upcoming,,20260525,,,,40683,M.KOSTYUK,15,UKR,15,,,0,42557,K.VOLYNETS,108,USA,,,,0
+SD053,SD,Women's Singles,2,Second Round,NOT_STARTED,Upcoming,,20260525,,,,,,,,,,,0,,,,,,,,0
+SD054,SD,Women's Singles,2,Second Round,NOT_STARTED,Upcoming,,20260525,,,,,,,,,,,0,21355,M.LINETTE,73,POL,,,,0
+SD055,SD,Women's Singles,2,Second Round,NOT_STARTED,Upcoming,,20260525,,,,47532,S.BEJLEK,35,CZE,,,,0,,,,,,,,0
+SD056,SD,Women's Singles,2,Second Round,NOT_STARTED,Upcoming,,20260525,,,,48819,M.ANDREEVA,8,---,8,,,0,39917,M.BASSOLS RIBERA,175,ESP,,,,0
+SD057,SD,Women's Singles,2,Second Round,NOT_STARTED,Upcoming,,20260525,,,,40621,F.JONES,102,GBR,,,,0,31217,M.BOUZKOVA,28,CZE,27,,,0
+SD058,SD,Women's Singles,2,Second Round,NOT_STARTED,Upcoming,,20260525,,,,,,,,,,,0,33031,M.FRECH,46,POL,,,,0
+SD059,SD,Women's Singles,2,Second Round,NOT_STARTED,Upcoming,,20260525,,,,,,,,,,,0,,,,,,,,0
+SD060,SD,Women's Singles,2,Second Round,NOT_STARTED,Upcoming,,20260525,,,,,,,,,,,0,47053,S.SIERRA,68,ARG,,,,0
+SD061,SD,Women's Singles,2,Second Round,NOT_STARTED,Upcoming,,20260525,,,,,,,,,,,0,14440,S.CIRSTEA,18,ROU,18,,,0
+SD062,SD,Women's Singles,2,Second Round,NOT_STARTED,Upcoming,,20260525,,,,42515,H.BAPTISTE,26,USA,26,,,0,38639,X.WANG,148,CHN,,,,0
+SD063,SD,Women's Singles,2,Second Round,NOT_STARTED,Upcoming,,20260525,,,,42203,Y.STARODUBTSEVA,55,UKR,,,,0,,,,,,,,0
+SD016,SD,Women's Singles,3,Third Round,NOT_STARTED,Upcoming,,20260525,,,,,,,,,,,0,,,,,,,,0
+SD017,SD,Women's Singles,3,Third Round,NOT_STARTED,Upcoming,,20260525,,,,,,,,,,,0,,,,,,,,0
+SD018,SD,Women's Singles,3,Third Round,NOT_STARTED,Upcoming,,20260525,,,,,,,,,,,0,,,,,,,,0
+SD019,SD,Women's Singles,3,Third Round,NOT_STARTED,Upcoming,,20260525,,,,,,,,,,,0,,,,,,,,0
+SD020,SD,Women's Singles,3,Third Round,NOT_STARTED,Upcoming,,20260525,,,,,,,,,,,0,,,,,,,,0
+SD021,SD,Women's Singles,3,Third Round,NOT_STARTED,Upcoming,,20260525,,,,,,,,,,,0,,,,,,,,0
+SD022,SD,Women's Singles,3,Third Round,NOT_STARTED,Upcoming,,20260525,,,,,,,,,,,0,,,,,,,,0
+SD023,SD,Women's Singles,3,Third Round,NOT_STARTED,Upcoming,,20260525,,,,,,,,,,,0,,,,,,,,0
+SD024,SD,Women's Singles,3,Third Round,NOT_STARTED,Upcoming,,20260525,,,,,,,,,,,0,,,,,,,,0
+SD025,SD,Women's Singles,3,Third Round,NOT_STARTED,Upcoming,,20260525,,,,,,,,,,,0,,,,,,,,0
+SD026,SD,Women's Singles,3,Third Round,NOT_STARTED,Upcoming,,20260525,,,,,,,,,,,0,,,,,,,,0
+SD027,SD,Women's Singles,3,Third Round,NOT_STARTED,Upcoming,,20260525,,,,,,,,,,,0,,,,,,,,0
+SD028,SD,Women's Singles,3,Third Round,NOT_STARTED,Upcoming,,20260525,,,,,,,,,,,0,,,,,,,,0
+SD029,SD,Women's Singles,3,Third Round,NOT_STARTED,Upcoming,,20260525,,,,,,,,,,,0,,,,,,,,0
+SD030,SD,Women's Singles,3,Third Round,NOT_STARTED,Upcoming,,20260525,,,,,,,,,,,0,,,,,,,,0
+SD031,SD,Women's Singles,3,Third Round,NOT_STARTED,Upcoming,,20260525,,,,,,,,,,,0,,,,,,,,0
+SD008,SD,Women's Singles,4,Fourth Round,NOT_STARTED,Upcoming,,20260525,,,,,,,,,,,0,,,,,,,,0
+SD009,SD,Women's Singles,4,Fourth Round,NOT_STARTED,Upcoming,,20260525,,,,,,,,,,,0,,,,,,,,0
+SD010,SD,Women's Singles,4,Fourth Round,NOT_STARTED,Upcoming,,20260525,,,,,,,,,,,0,,,,,,,,0
+SD011,SD,Women's Singles,4,Fourth Round,NOT_STARTED,Upcoming,,20260525,,,,,,,,,,,0,,,,,,,,0
+SD012,SD,Women's Singles,4,Fourth Round,NOT_STARTED,Upcoming,,20260525,,,,,,,,,,,0,,,,,,,,0
+SD013,SD,Women's Singles,4,Fourth Round,NOT_STARTED,Upcoming,,20260525,,,,,,,,,,,0,,,,,,,,0
+SD014,SD,Women's Singles,4,Fourth Round,NOT_STARTED,Upcoming,,20260525,,,,,,,,,,,0,,,,,,,,0
+SD015,SD,Women's Singles,4,Fourth Round,NOT_STARTED,Upcoming,,20260525,,,,,,,,,,,0,,,,,,,,0
+SD004,SD,Women's Singles,5,Quarterfinals,NOT_STARTED,Upcoming,,20260525,,,,,,,,,,,0,,,,,,,,0
+SD005,SD,Women's Singles,5,Quarterfinals,NOT_STARTED,Upcoming,,20260525,,,,,,,,,,,0,,,,,,,,0
+SD006,SD,Women's Singles,5,Quarterfinals,NOT_STARTED,Upcoming,,20260525,,,,,,,,,,,0,,,,,,,,0
+SD007,SD,Women's Singles,5,Quarterfinals,NOT_STARTED,Upcoming,,20260525,,,,,,,,,,,0,,,,,,,,0
+SD002,SD,Women's Singles,6,Semifinals,NOT_STARTED,Upcoming,,20260525,,,,,,,,,,,0,,,,,,,,0
+SD003,SD,Women's Singles,6,Semifinals,NOT_STARTED,Upcoming,,20260525,,,,,,,,,,,0,,,,,,,,0
+SD001,SD,Women's Singles,7,Final,NOT_STARTED,Upcoming,,20260525,,,,,,,,,,,0,,,,,,,,0

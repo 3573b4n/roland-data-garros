@@ -342,6 +342,9 @@ def render_match_card(m, large=False, center=False):
     status_cls = status_class(status)
     icon = status_icon(status)
     
+    # Score display
+    score = str(m["score"]) if m["score"] and str(m["score"]) != "nan" else ""
+    
     sa = seed_badge(m["player_a_seed"])
     sb = seed_badge(m["player_b_seed"])
     ea = entry_badge(m["player_a_entry_status"])
@@ -379,6 +382,7 @@ def render_match_card(m, large=False, center=False):
                 <span class="player-name">{pb_name}</span> {sb} {eb}
             </div>
             <div class="ranking-text">{pa_rank} · {pb_rank}</div>
+            {'<div style="margin-top:8px;font-size:1.1em;font-weight:700;color:#333;text-align:center;">' + score + '</div>' if score else ''}
         </div>
         """
     else:
@@ -397,6 +401,7 @@ def render_match_card(m, large=False, center=False):
                 <span class="player-name">{pb_name}</span> {sb} {eb}
             </div>
             <div class="ranking-text" style="margin-left:40px;">{pa_rank} · {pb_rank}</div>
+            {'<div style="margin-top:6px;margin-left:40px;font-size:1em;font-weight:600;color:#333;">' + score + '</div>' if score else ''}
         </div>
         """
     

@@ -95,6 +95,40 @@ DRAW_LABELS = {
 }
 
 
+def build_score(sets_a: list, sets_b: list) -> str:
+    """Build readable score like '6-3, 6-4, 6-2' or '7-6(5), 3-6, 6-4'.
+    
+    Pairs up sets from both teams. Supports tiebreak notation and
+    in-progress sets (e.g. '5-3*' for an unfinished set).
+    """
+    parts = []
+    max_sets = max(len(sets_a), len(sets_b))
+    for i in range(max_sets):
+        sa = sets_a[i] if i < len(sets_a) else {}
+        sb = sets_b[i] if i < len(sets_b) else {}
+        ga = sa.get("score", "")
+        gb = sb.get("score", "")
+        if ga == "" and gb == "":
+            continue
+        part = f"{ga}-{gb}"
+        # Add tiebreak detail: e.g. (5) after 7-6
+        tb_a = sa.get("tieBreak")
+        tb_b = sb.get("tieBreak")
+        if tb_a is not None and gb == "6" and ga == "7":
+            part = f"7-6({tb_a})"
+        elif tb_b is not None and ga == "6" and gb == "7":
+            part = f"6-7({tb_b})"
+        elif tb_a is not None:
+            part = f"{ga}-{gb}({tb_a})"
+        elif tb_b is not None:
+            part = f"{ga}-{gb}({tb_b})"
+        # Mark in-progress
+        if sa.get("inProgress") or sb.get("inProgress"):
+            part += "*"
+        parts.append(part)
+    return ", ".join(parts)
+
+
 def get_matches(raw_draws: dict) -> list:
     """Extract all matches from all rounds into a flat list.
     
@@ -127,6 +161,9 @@ def get_matches(raw_draws: dict) -> list:
                 p_a = team_a.get("players", [{}])[0] if team_a.get("players") else {}
                 p_b = team_b.get("players", [{}])[0] if team_b.get("players") else {}
                 
+                # Build readable score string from set data
+                score = build_score(team_a.get("sets", []), team_b.get("sets", []))
+                
                 matches.append({
                     "match_id": match.get("id", ""),
                     "draw_code": draw_code,
@@ -139,6 +176,7 @@ def get_matches(raw_draws: dict) -> list:
                     "date_schedule": md.get("dateSchedule", ""),
                     "duration_minutes": md.get("durationInMinutes"),
                     "is_night_session": md.get("isNightSession", False),
+                    "score": score,
                     
                     "player_a_id": p_a.get("id"),
                     "player_a_name": p_a.get("shortName", ""),
@@ -199,6 +237,7 @@ def write_sqlite(players: list, matches: list, db_path: Path):
             date_schedule TEXT,
             duration_minutes INTEGER,
             is_night_session INTEGER,
+            score TEXT,
             
             player_a_id INTEGER,
             player_a_name TEXT,
@@ -249,16 +288,17 @@ def write_sqlite(players: list, matches: list, db_path: Path):
         cur.execute("""
             INSERT OR REPLACE INTO matches
             (match_id, draw_code, draw_label, round_number, round_label,
-             status, status_label, court_name, date_schedule, duration_minutes, is_night_session,
+             status, status_label, court_name, date_schedule, duration_minutes, is_night_session, score,
              player_a_id, player_a_name, player_a_ranking, player_a_country, player_a_seed,
              player_a_entry_status, player_a_winner, player_a_sets_won,
              player_b_id, player_b_name, player_b_ranking, player_b_country, player_b_seed,
              player_b_entry_status, player_b_winner, player_b_sets_won)
-            VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+            VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
         """, (
             m["match_id"], m["draw_code"], m["draw_label"], m["round_number"], m["round_label"],
             m["status"], m["status_label"], m["court_name"], m["date_schedule"],
             m["duration_minutes"], 1 if m["is_night_session"] else 0,
+            m["score"],
             m["player_a_id"], m["player_a_name"], m["player_a_ranking"], m["player_a_country"],
             m["player_a_seed"], m["player_a_entry_status"], m["player_a_winner"], m["player_a_sets_won"],
             m["player_b_id"], m["player_b_name"], m["player_b_ranking"], m["player_b_country"],
