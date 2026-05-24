@@ -300,8 +300,37 @@ def show_bracket():
             format_func=round_name,
         )
     
+    # ─── Quick filters row ────────────────────────────────────────────────
+    col_f1, col_f2 = st.columns([1, 1])
+    with col_f1:
+        status_filter = st.selectbox(
+            "Filtrar por estado:",
+            ["Todos", "✅ Completados", "🔴 En vivo", "⏳ No empezados"],
+            key="status_filt",
+        )
+    with col_f2:
+        player_search = st.text_input(
+            "🔍 Buscar jugador:", placeholder="Nombre...",
+            key="player_search",
+        ).strip().upper()
+    
     # Stats bar
     rnd_df = df[df["round_number"] == current_round]
+    
+    # Apply filters
+    if status_filter == "✅ Completados":
+        rnd_df = rnd_df[rnd_df["status"] == "FINISHED"]
+    elif status_filter == "🔴 En vivo":
+        rnd_df = rnd_df[rnd_df["status"] == "IN_PROGRESS"]
+    elif status_filter == "⏳ No empezados":
+        rnd_df = rnd_df[rnd_df["status"] == "NOT_STARTED"]
+    
+    if player_search:
+        rnd_df = rnd_df[
+            rnd_df["player_a_name"].str.contains(player_search, case=False, na=False) |
+            rnd_df["player_b_name"].str.contains(player_search, case=False, na=False)
+        ]
+    
     n_matches = len(rnd_df)
     completed = len(rnd_df[rnd_df["status"] == "FINISHED"])
     live = len(rnd_df[rnd_df["status"] == "IN_PROGRESS"])
@@ -357,6 +386,23 @@ def show_bracket():
             font=dict(size=12),
         )
         st.plotly_chart(fig, use_container_width=True)
+    
+    # ─── Latest results ───────────────────────────────────────────────────
+    st.divider()
+    st.markdown("### 🎯 Últimos resultados")
+    
+    finished = matches_df[
+        (matches_df["draw_code"] == draw_code) &
+        (matches_df["status"] == "FINISHED") &
+        (matches_df["score"].notna()) &
+        (matches_df["score"] != "")
+    ].sort_values("match_id", ascending=False).head(6)
+    
+    cols = st.columns(3)
+    for i, (_, m) in enumerate(finished.iterrows()):
+        with cols[i % 3]:
+            rnd_lbl = round_name(m["round_number"])
+            render_match_card(m)
 
 
 def render_match_card(m, large=False, center=False):
