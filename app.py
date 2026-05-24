@@ -704,6 +704,110 @@ def show_stats():
         )])
         fig.update_layout(title="Estado de Partidos", height=350)
         st.plotly_chart(fig, use_container_width=True)
+    
+    # ─── Match insights ────────────────────────────────────────────────────
+    st.divider()
+    st.markdown("### ⚡ Datos destacados del torneo")
+    
+    finished = matches_df[matches_df["status"] == "FINISHED"]
+    live = matches_df[matches_df["status"] == "IN_PROGRESS"]
+    
+    col_a, col_b = st.columns(2)
+    
+    with col_a:
+        # Longest match (men)
+        longest_m = finished[(finished["draw_code"] == "SM") & (finished["duration_minutes"].notna())].sort_values("duration_minutes", ascending=False)
+        if len(longest_m):
+            m = longest_m.iloc[0]
+            dur_h = int(m["duration_minutes"]) // 60
+            dur_m = int(m["duration_minutes"]) % 60
+            st.markdown(f"""<div class="player-card">
+                <div><span style="font-size:1.5em;">⏱️</span></div>
+                <div><strong>Partido más largo</strong><br>
+                <span style="color:#888;">SM · </span>{m['player_a_name']} vs {m['player_b_name']}<br>
+                <span style="font-weight:700;">{dur_h}h {dur_m:02d}min</span> · {m['score']}</div>
+            </div>""", unsafe_allow_html=True)
+        
+        # Longest match (women)
+        longest_w = finished[(finished["draw_code"] == "SD") & (finished["duration_minutes"].notna())].sort_values("duration_minutes", ascending=False)
+        if len(longest_w):
+            m = longest_w.iloc[0]
+            dur_h = int(m["duration_minutes"]) // 60
+            dur_m = int(m["duration_minutes"]) % 60
+            st.markdown(f"""<div class="player-card">
+                <div><span style="font-size:1.5em;">⏱️</span></div>
+                <div><strong>Partido más largo (fem.)</strong><br>
+                <span style="color:#888;">SD · </span>{m['player_a_name']} vs {m['player_b_name']}<br>
+                <span style="font-weight:700;">{dur_h}h {dur_m:02d}min</span> · {m['score']}</div>
+            </div>""", unsafe_allow_html=True)
+    
+    with col_b:
+        # Biggest upset
+        upsets = finished[
+            ((finished["player_a_winner"] == 1) & (finished["player_a_ranking"].notna()) & (finished["player_b_ranking"].notna())) |
+            ((finished["player_b_winner"] == 1) & (finished["player_b_ranking"].notna()) & (finished["player_a_ranking"].notna()))
+        ].copy()
+        upsets["rank_diff"] = 0
+        mask_a = (upsets["player_a_winner"] == 1) & (upsets["player_a_ranking"] > upsets["player_b_ranking"])
+        mask_b = (upsets["player_b_winner"] == 1) & (upsets["player_b_ranking"] > upsets["player_a_ranking"])
+        upsets.loc[mask_a, "rank_diff"] = upsets["player_a_ranking"] - upsets["player_b_ranking"]
+        upsets.loc[mask_b, "rank_diff"] = upsets["player_b_ranking"] - upsets["player_a_ranking"]
+        upsets = upsets[upsets["rank_diff"] > 0].sort_values("rank_diff", ascending=False)
+        
+        if len(upsets):
+            m = upsets.iloc[0]
+            if m["player_a_winner"] == 1 and m["player_a_ranking"] > m["player_b_ranking"]:
+                winner, loser = m["player_a_name"], m["player_b_name"]
+                wr, lr = m["player_a_ranking"], m["player_b_ranking"]
+            else:
+                winner, loser = m["player_b_name"], m["player_a_name"]
+                wr, lr = m["player_b_ranking"], m["player_a_ranking"]
+            st.markdown(f"""<div class="player-card">
+                <div><span style="font-size:1.5em;">🔥</span></div>
+                <div><strong>Mayor sorpresa</strong><br>
+                <span style="color:#cc4e0e;font-weight:700;">{winner} (#{wr})</span> venció a<br>
+                {loser} (#{lr}) · {m['score']}</div>
+            </div>""", unsafe_allow_html=True)
+        
+        # Live count
+        n_live = len(matches_df[matches_df["status"] == "IN_PROGRESS"])
+        if n_live > 0:
+            st.markdown(f"""<div class="player-card" style="border-left-color:#ff6b35;">
+                <div><span style="font-size:1.5em;">🔴</span></div>
+                <div><strong>{n_live} partido{"s" if n_live > 1 else ""} en vivo ahora</strong></div>
+            </div>""", unsafe_allow_html=True)
+    
+    # Stats grid
+    st.markdown("### 📋 Resumen rápido")
+    col_s1, col_s2, col_s3, col_s4 = st.columns(4)
+    
+    n_finished = len(finished)
+    avg_dur = finished["duration_minutes"].mean()
+    n_tb = len(matches_df[matches_df["score"].str.contains(r"\(\d+\)", na=False)])
+    n_bagel = len(matches_df[matches_df["score"].str.contains("6-0|0-6", na=False)])
+    
+    col_s1.metric("✅ Finalizados", n_finished)
+    col_s2.metric("⏱️ Duración media", f"{int(avg_dur)} min" if pd.notna(avg_dur) else "-")
+    col_s3.metric("🎯 Tiebreaks", n_tb)
+    col_s4.metric("🥚 Sets en blanco", n_bagel)
+    
+    # Top players
+    st.markdown("### 🏅 Jugadores más activos")
+    
+    # Count wins per player
+    winners_a = finished[finished["player_a_winner"] == 1].groupby("player_a_name").size().reset_index(name="wins")
+    winners_a.columns = ["player", "wins"]
+    winners_b = finished[finished["player_b_winner"] == 1].groupby("player_b_name").size().reset_index(name="wins")
+    winners_b.columns = ["player", "wins"]
+    all_winners = pd.concat([winners_a, winners_b]).groupby("player")["wins"].sum().sort_values(ascending=False).head(5)
+    
+    cols = st.columns(5)
+    for i, (player, wins) in enumerate(all_winners.items()):
+        with cols[i]:
+            st.markdown(f"""<div style="text-align:center;background:white;border-radius:10px;padding:10px;border:1px solid #eee;">
+                <div style="font-size:1.2em;font-weight:700;color:{RG_GREEN};">{wins}</div>
+                <div style="font-size:0.75em;color:#888;">{player}</div>
+            </div>""", unsafe_allow_html=True)
 
 
 # ─── PAGE: Head-to-Head ─────────────────────────────────────────────────────
