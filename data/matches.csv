@@ -41,7 +41,7 @@ SM102,SM,Men's Singles,1,First Round,NOT_STARTED,Upcoming,Court 5,20260525,,Fals
 SM103,SM,Men's Singles,1,First Round,NOT_STARTED,Upcoming,Court 7,20260525,,False,,46070,I.BUSE,31,PER,,,,0,31132,A.RUBLEV,13,---,11,,,0
 SM104,SM,Men's Singles,1,First Round,NOT_STARTED,Upcoming,Court Simonne-Mathieu,20260525,,False,,36389,C.RUUD,16,NOR,15,,,0,33560,R.SAFIULLIN,141,---,,Q,,0
 SM105,SM,Men's Singles,1,First Round,FINISHED,Completed,Court 9,20260524,179,False,"6-3, 6-4, 6-7(1), 6-4",45423,H.MEDJEDOVIC,58,SRB,,,True,4,22568,Y.HANFMANN,53,GER,,,False,4
-SM106,SM,Men's Singles,1,First Round,IN_PROGRESS,Live,Court Simonne-Mathieu,20260524,195,False,"7-6(7), 5-7, 6-2, 1-6, 3-1*",35289,L.SONEGO,70,ITA,,,,5,21623,PH.HERBERT,220,FRA,,Q,,5
+SM106,SM,Men's Singles,1,First Round,FINISHED,Completed,Court Simonne-Mathieu,20260524,249,False,"7-6(7), 5-7, 6-2, 1-6, 6-4",35289,L.SONEGO,70,ITA,,,True,5,21623,PH.HERBERT,220,FRA,,Q,False,5
 SM107,SM,Men's Singles,1,First Round,NOT_STARTED,Upcoming,Court 13,20260525,,False,,41202,R.HIJIKATA,98,AUS,,,,0,33541,T.PAUL,21,USA,24,,,0
 SM108,SM,Men's Singles,1,First Round,FINISHED,Completed,Court Simonne-Mathieu,20260524,134,False,"7-6(8), 6-4, 6-2",48336,J.FONSECA,30,BRA,28,,True,3,41468,L.PAVLOVIC,241,FRA,,Q,False,3
 SM109,SM,Men's Singles,1,First Round,FINISHED,Completed,Court 9,20260524,105,False,"1-6, 1-6, 3-6",48801,M.ZHENG,146,USA,,Q,False,3,47952,D.PRIZMIC,72,CRO,,,True,3
@@ -84,7 +84,7 @@ SM049,SM,Men's Singles,2,Second Round,NOT_STARTED,Upcoming,,20260524,,,,,,,,,,,0
 SM050,SM,Men's Singles,2,Second Round,NOT_STARTED,Upcoming,,20260524,,,,36781,N.BORGES,51,POR,,,,0,38353,M.KECMANOVIC,48,SRB,,,,0
 SM051,SM,Men's Singles,2,Second Round,NOT_STARTED,Upcoming,,20260524,,,,,,,,,,,0,,,,,,,,0
 SM052,SM,Men's Singles,2,Second Round,NOT_STARTED,Upcoming,,20260524,,,,,,,,,,,0,45423,H.MEDJEDOVIC,58,SRB,,,,0
-SM053,SM,Men's Singles,2,Second Round,NOT_STARTED,Upcoming,,20260524,,,,,,,,,,,0,,,,,,,,0
+SM053,SM,Men's Singles,2,Second Round,NOT_STARTED,Upcoming,,20260524,,,,35289,L.SONEGO,70,ITA,,,,0,,,,,,,,0
 SM054,SM,Men's Singles,2,Second Round,NOT_STARTED,Upcoming,,20260524,,,,48336,J.FONSECA,30,BRA,28,,,0,47952,D.PRIZMIC,72,CRO,,,,0
 SM055,SM,Men's Singles,2,Second Round,NOT_STARTED,Upcoming,,20260524,,,,42348,V.ROYER,74,FRA,,,,0,9801,N.DJOKOVIC,4,SRB,3,,,0
 SM056,SM,Men's Singles,2,Second Round,NOT_STARTED,Upcoming,,20260524,,,,47331,N.BASAVAREDDY,148,USA,,,,0,,,,,,,,0
