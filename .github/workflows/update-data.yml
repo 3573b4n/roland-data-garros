@@ -1,0 +1,50 @@
+name: Update Roland Garros Data
+
+on:
+  schedule:
+    # Cada 15 minutos durante el torneo (Mayo-Junio)
+    - cron: '*/15 * * * *'
+  workflow_dispatch:  # Permite ejecución manual
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: 'pip'
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+          pip install requests
+
+      - name: Run scraper
+        id: scrape
+        run: |
+          python scripts/update_data.py 2>&1
+        continue-on-error: true
+
+      - name: Commit updated data
+        run: |
+          git config user.name "RG Data Bot"
+          git config user.email "bot@roland-data-garros.gh"
+          git add data/
+          git diff --quiet && git diff --staged --quiet || \
+            (git commit -m "📊 Actualización automática de datos [$(date +'%Y-%m-%d %H:%M')]" && \
+             git push)

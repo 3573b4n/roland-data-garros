@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+*.pyc
+.env
+*.log
+*.log.gz
+too_many_requests_waiter.txt
+# Raw JSON fetched at runtime
+data/*.json
