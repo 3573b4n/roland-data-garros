@@ -105,6 +105,28 @@ st.markdown(f"""
     }}
     .ranking-text {{ color: {RG_GREY}; font-size: 0.8em; }}
     
+    .set-scores {{
+        display: inline-flex;
+        gap: 3px;
+        margin-left: 6px;
+    }}
+    .set-score {{
+        display: inline-block;
+        min-width: 22px;
+        height: 24px;
+        line-height: 24px;
+        text-align: center;
+        background: #f5f5f5;
+        border-radius: 4px;
+        font-size: 0.85em;
+        font-weight: 700;
+        color: {RG_DARK};
+        padding: 0 4px;
+    }}
+    .match-card.live .set-score {{ background: #fff0e6; color: #cc4e0e; }}
+    .match-card.done .set-score {{ background: #e6f4f0; color: {RG_GREEN}; }}
+    .set-score sup {{ font-size: 0.6em; vertical-align: super; }}
+    
     .player-card {{
         background: white;
         border-radius: 12px;
@@ -342,8 +364,25 @@ def render_match_card(m, large=False, center=False):
     status_cls = status_class(status)
     icon = status_icon(status)
     
-    # Score display
-    score = str(m["score"]) if m["score"] and str(m["score"]) != "nan" else ""
+    # Parse score into per-player set arrays
+    raw_score = str(m["score"]) if m["score"] and str(m["score"]) != "nan" else ""
+    pa_sets_html = ""
+    pb_sets_html = ""
+    if raw_score:
+        set_parts = [s.strip() for s in raw_score.split(",")]
+        for sp in set_parts:
+            # Handle tiebreak notation: "7-6(7)" or in-progress "3-0*"
+            clean = sp.replace("*", "")
+            tb_match = re.search(r"\((\d+)\)", clean)
+            tb_html = ""
+            if tb_match:
+                tb_html = f'<sup>({tb_match.group(1)})</sup>'
+                clean = re.sub(r"\(\d+\)", "", clean)
+            games = clean.split("-")
+            if len(games) == 2:
+                in_prog = "*" if sp.endswith("*") else ""
+                pa_sets_html += f'<span class="set-score">{games[0]}{tb_html}{in_prog}</span>'
+                pb_sets_html += f'<span class="set-score">{games[1]}{tb_html}{in_prog}</span>'
     
     sa = seed_badge(m["player_a_seed"])
     sb = seed_badge(m["player_b_seed"])
@@ -375,14 +414,15 @@ def render_match_card(m, large=False, center=False):
             <div style="margin:10px 0;display:flex;align-items:center;justify-content:center;gap:8px;">
                 {img_a_html}
                 <span class="player-name">{pa_name}</span> {sa} {ea}
+                <span class="set-scores">{pa_sets_html}</span>
             </div>
             <div class="vs-text">VS</div>
             <div style="margin:10px 0;display:flex;align-items:center;justify-content:center;gap:8px;">
                 {img_b_html}
                 <span class="player-name">{pb_name}</span> {sb} {eb}
+                <span class="set-scores">{pb_sets_html}</span>
             </div>
             <div class="ranking-text">{pa_rank} · {pb_rank}</div>
-            {'<div style="margin-top:8px;font-size:1.1em;font-weight:700;color:#333;text-align:center;">' + score + '</div>' if score else ''}
         </div>
         """
     else:
@@ -394,14 +434,15 @@ def render_match_card(m, large=False, center=False):
             <div style="display:flex;align-items:center;gap:8px;">
                 {img_a_html}
                 <span class="player-name">{pa_name}</span> {sa} {ea}
+                <span class="set-scores">{pa_sets_html}</span>
             </div>
             <div class="vs-text" style="margin-left:40px;">VS</div>
             <div style="display:flex;align-items:center;gap:8px;">
                 {img_b_html}
                 <span class="player-name">{pb_name}</span> {sb} {eb}
+                <span class="set-scores">{pb_sets_html}</span>
             </div>
             <div class="ranking-text" style="margin-left:40px;">{pa_rank} · {pb_rank}</div>
-            {'<div style="margin-top:6px;margin-left:40px;font-size:1em;font-weight:600;color:#333;">' + score + '</div>' if score else ''}
         </div>
         """
     
