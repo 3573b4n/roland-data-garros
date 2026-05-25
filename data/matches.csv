@@ -28,7 +28,7 @@ SM089,SM,Men's Singles,1,First Round,FINISHED,Completed,Court 5,20260525,132,Fal
 SM090,SM,Men's Singles,1,First Round,NOT_STARTED,Upcoming,Court 4,20260526,,False,,,42339,F.DIAZ ACOSTA,151,ARG,,Q,,0,32885,Z.ZHANG,224,CHN,,,,0
 SM091,SM,Men's Singles,1,First Round,NOT_STARTED,Upcoming,Court 6,20260526,,False,,,26967,C.GARIN,114,CHI,,,,0,49322,L.TIEN,18,USA,18,,,0
 SM092,SM,Men's Singles,1,First Round,FINISHED,Completed,Court 4,20260525,217,False,"6-3, 6-4, 6-7(7), 6-4",,40998,F.CERUNDOLO,26,ARG,25,,True,4,30238,B.VAN DE ZANDSCHULP,55,NED,,,False,4
-SM093,SM,Men's Singles,1,First Round,IN_PROGRESS,Live,Court Philippe-Chatrier,20260525,28,True,"6-2, 6-3, 0-0*",,38551,H.GASTON,118,FRA,,W,,3,9525,G.MONFILS,218,FRA,,W,,3
+SM093,SM,Men's Singles,1,First Round,IN_PROGRESS,Live,Court Philippe-Chatrier,20260525,28,True,"6-2, 6-3, 3-6, 2-6, 1-0*",,38551,H.GASTON,118,FRA,,W,,5,9525,G.MONFILS,218,FRA,,W,,5
 SM094,SM,Men's Singles,1,First Round,NOT_STARTED,Upcoming,Court 13,20260526,,False,,11:00,36373,A.POPYRIN,61,AUS,,,,0,45140,Z.SVAJDA,85,USA,,,,0
 SM095,SM,Men's Singles,1,First Round,NOT_STARTED,Upcoming,Court Suzanne-Lenglen,20260526,,False,,11:00,39851,A.WALTON,97,AUS,,W,,0,28836,D.MEDVEDEV,8,---,6,,,0
 SM096,SM,Men's Singles,1,First Round,FINISHED,Completed,Court 14,20260525,112,False,"6-4, 6-4, 6-2",,36276,A.DE MINAUR,7,AUS,8,,True,3,45427,T.SAMUEL,159,GBR,,Q,False,3
@@ -139,7 +139,7 @@ SD073,SD,Women's Singles,1,First Round,NOT_STARTED,Upcoming,Court 13,20260526,,F
 SD074,SD,Women's Singles,1,First Round,NOT_STARTED,Upcoming,Court 8,20260526,,False,,,45694,A.RUZIC,64,CRO,,,,0,46834,A.KRUEGER,120,USA,,Q,,0
 SD075,SD,Women's Singles,1,First Round,NOT_STARTED,Upcoming,Court Simonne-Mathieu,20260526,,False,,,45770,H.VANDEWINKEL,99,BEL,,,,0,24265,M.KEYS,19,USA,19,,,0
 SD076,SD,Women's Singles,1,First Round,FINISHED,Completed,Court 14,20260525,84,False,"6-4, 6-1",,45655,D.SHNAIDER,23,---,25,,True,2,31392,R.ZARAZUA,74,MEX,,,False,2
-SD077,SD,Women's Singles,1,First Round,IN_PROGRESS,Live,Court 13,20260525,128,False,"6-4, 6-7(1), 3-2*",,36499,H.GUO,166,CHN,,Q,,3,42617,M.KESSLER,48,USA,,,,3
+SD077,SD,Women's Singles,1,First Round,FINISHED,Completed,Court 13,20260525,168,False,"6-4, 6-7(1), 5-7",,36499,H.GUO,166,CHN,,Q,False,3,42617,M.KESSLER,48,USA,,,True,3
 SD078,SD,Women's Singles,1,First Round,NOT_STARTED,Upcoming,Court 9,20260526,,False,,,47434,E.PRIDANKINA,218,---,,Q,,0,42629,O.OLIYNYKOVA,65,UKR,,,,0
 SD079,SD,Women's Singles,1,First Round,NOT_STARTED,Upcoming,Court Simonne-Mathieu,20260526,,False,,,32938,K.BIRRELL,83,AUS,,,,0,21863,J.PEGULA,5,USA,5,,,0
 SD080,SD,Women's Singles,1,First Round,NOT_STARTED,Upcoming,Court Philippe-Chatrier,20260526,,False,,,44185,C.GAUFF,4,USA,4,,,0,28420,T.TOWNSEND,75,USA,,,,0
@@ -181,7 +181,7 @@ SD115,SD,Women's Singles,1,First Round,FINISHED,Completed,Court 6,20260524,69,Fa
 SD116,SD,Women's Singles,1,First Round,FINISHED,Completed,Court 4,20260525,96,False,"4-6, 4-6",,33732,L.SAMSONOVA,27,---,20,,False,2,31367,J.TEICHMANN,170,SUI,,,True,2
 SD117,SD,Women's Singles,1,First Round,FINISHED,Completed,Court 12,20260524,92,False,"7-6(7), 2-1",,33031,M.FRECH,46,POL,,,True,2,33731,EG.RUSE,77,ROU,,,False,2
 SD118,SD,Women's Singles,1,First Round,FINISHED,Completed,Court 12,20260525,174,False,"6-3, 4-6, 6-4",,40622,K.RAKHIMOVA,89,UZB,,,True,3,32989,J.CRISTIAN,32,ROU,,,False,3
-SD119,SD,Women's Singles,1,First Round,IN_PROGRESS,Live,Court Suzanne-Lenglen,20260525,73,False,"5-7, 2-4*",,47135,A.ZAKHAROVA,80,---,,,,2,35961,K.MUCHOVA,10,CZE,10,,,2
+SD119,SD,Women's Singles,1,First Round,FINISHED,Completed,Court Suzanne-Lenglen,20260525,86,False,"5-7, 2-6",,47135,A.ZAKHAROVA,80,---,,,False,2,35961,K.MUCHOVA,10,CZE,10,,True,2
 SD120,SD,Women's Singles,1,First Round,FINISHED,Completed,Court Simonne-Mathieu,20260525,100,False,"7-5, 6-3",,33206,J.PAOLINI,13,ITA,13,,True,2,38338,D.YASTREMSKA,45,UKR,,,False,2
 SD121,SD,Women's Singles,1,First Round,FINISHED,Completed,Court 13,20260524,105,False,"0-6, 6-7(4)",,42575,E.RADUCANU,39,GBR,,,False,2,47053,S.SIERRA,68,ARG,,,True,2
 SD122,SD,Women's Singles,1,First Round,FINISHED,Completed,Court 5,20260525,66,False,"3-6, 0-6",,47397,P.MARCINKO,51,CRO,,,False,2,43748,E.LYS,81,GER,,,True,2
@@ -196,7 +196,7 @@ SD034,SD,Women's Singles,2,Second Round,NOT_STARTED,Upcoming,,20260525,,,,,,,,,,
 SD035,SD,Women's Singles,2,Second Round,NOT_STARTED,Upcoming,,20260525,,,,,,,,,,,,0,,,,,,,,0
 SD036,SD,Women's Singles,2,Second Round,NOT_STARTED,Upcoming,,20260525,,,,,,,,,,,,0,,,,,,,,0
 SD037,SD,Women's Singles,2,Second Round,NOT_STARTED,Upcoming,,20260525,,,,,,,,,,,,0,,,,,,,,0
-SD038,SD,Women's Singles,2,Second Round,NOT_STARTED,Upcoming,,20260525,,,,,45655,D.SHNAIDER,23,---,25,,,0,,,,,,,,0
+SD038,SD,Women's Singles,2,Second Round,NOT_STARTED,Upcoming,,20260525,,,,,45655,D.SHNAIDER,23,---,25,,,0,42617,M.KESSLER,48,USA,,,,0
 SD039,SD,Women's Singles,2,Second Round,NOT_STARTED,Upcoming,,20260525,,,,,,,,,,,,0,,,,,,,,0
 SD040,SD,Women's Singles,2,Second Round,NOT_STARTED,Upcoming,,20260525,,,,,,,,,,,,0,,,,,,,,0
 SD041,SD,Women's Singles,2,Second Round,NOT_STARTED,Upcoming,,20260525,,,,,28673,K.BOULTER,71,GBR,,,,0,38726,A.POTAPOVA,30,AUT,28,,,0
@@ -217,7 +217,7 @@ SD055,SD,Women's Singles,2,Second Round,NOT_STARTED,Upcoming,,20260525,,,,,47532
 SD056,SD,Women's Singles,2,Second Round,NOT_STARTED,Upcoming,,20260525,,,,,48819,M.ANDREEVA,8,---,8,,,0,39917,M.BASSOLS RIBERA,175,ESP,,,,0
 SD057,SD,Women's Singles,2,Second Round,NOT_STARTED,Upcoming,,20260525,,,,,40621,F.JONES,102,GBR,,,,0,31217,M.BOUZKOVA,28,CZE,27,,,0
 SD058,SD,Women's Singles,2,Second Round,NOT_STARTED,Upcoming,,20260525,,,,,31367,J.TEICHMANN,170,SUI,,,,0,33031,M.FRECH,46,POL,,,,0
-SD059,SD,Women's Singles,2,Second Round,NOT_STARTED,Upcoming,,20260525,,,,,40622,K.RAKHIMOVA,89,UZB,,,,0,,,,,,,,0
+SD059,SD,Women's Singles,2,Second Round,NOT_STARTED,Upcoming,,20260525,,,,,40622,K.RAKHIMOVA,89,UZB,,,,0,35961,K.MUCHOVA,10,CZE,10,,,0
 SD060,SD,Women's Singles,2,Second Round,NOT_STARTED,Upcoming,,20260525,,,,,33206,J.PAOLINI,13,ITA,13,,,0,47053,S.SIERRA,68,ARG,,,,0
 SD061,SD,Women's Singles,2,Second Round,NOT_STARTED,Upcoming,,20260525,,,,,43748,E.LYS,81,GER,,,,0,14440,S.CIRSTEA,18,ROU,18,,,0
 SD062,SD,Women's Singles,2,Second Round,NOT_STARTED,Upcoming,,20260525,,,,,42515,H.BAPTISTE,26,USA,26,,,0,38639,X.WANG,148,CHN,,,,0
