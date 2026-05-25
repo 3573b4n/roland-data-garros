@@ -51,7 +51,6 @@ if "dark_mode" not in st.session_state:
 dark_css = ""
 if st.session_state.dark_mode:
     dark_css = f"""
-    <style>
         .stApp {{ background-color: {DM_BG} !important; color: {DM_TEXT} !important; }}
         h1, h2, h3, h4, h5, h6, p, span, div {{ color: {DM_TEXT} !important; }}
         div[data-testid="metric-container"] {{ background: {DM_CARD} !important; border-color: {DM_CARD_BORDER} !important; }}
@@ -85,11 +84,11 @@ if st.session_state.dark_mode:
         .st-emotion-cache-1wmy9hl {{ background-color: {DM_CARD} !important; }}
         .st-emotion-cache-1mi2ry5 {{ background-color: {DM_CARD} !important; }}
         .st-emotion-cache-1vt4y43 {{ background-color: {DM_BG} !important; }}
-    </style>
     """
 
 st.markdown(f"""
 <style>
+    {dark_css}
     /* Global */
     .stApp {{ background-color: {RG_BG}; }}
     h1, h2, h3 {{ color: {RG_DARK} !important; }}
@@ -970,8 +969,24 @@ def show_today():
                 # Round
                 rnd = round_label(m["round_number"])
                 
-                # Score
-                score = str(m["score"]) if m["score"] and str(m["score"]) != "nan" else ""
+                # Build inline set scores
+                raw_score = str(m["score"]) if m["score"] and str(m["score"]) != "nan" else ""
+                pa_s = ""
+                pb_s = ""
+                if raw_score:
+                    set_parts = [s.strip() for s in raw_score.split(",")]
+                    for sp in set_parts:
+                        clean = sp.replace("*", "")
+                        tb_match = re.search(r"\((\d+)\)", clean)
+                        tb_html = ""
+                        if tb_match:
+                            tb_html = f'<sup>({tb_match.group(1)})</sup>'
+                            clean = re.sub(r"\(\d+\)", "", clean)
+                        games = clean.split("-")
+                        if len(games) == 2:
+                            in_prog = "*" if sp.endswith("*") else ""
+                            pa_s += f'<span class="set-score">{games[0]}{tb_html}{in_prog}</span>'
+                            pb_s += f'<span class="set-score">{games[1]}{tb_html}{in_prog}</span>'
                 
                 night = "🌙" if m["is_night_session"] else ""
                 
@@ -980,14 +995,15 @@ def show_today():
                         <span>{star}{icon_s} {m['status_label']} · {rnd}</span>
                         <span>{time_str} {night}</span>
                     </div>
-                    <div style="margin:4px 0;">
+                    <div style="display:flex;align-items:center;gap:8px;margin:4px 0;">
                         <strong>{m['player_a_name']}</strong> {seed_badge(m['player_a_seed'])}
+                        <span class="set-scores">{pa_s}</span>
                     </div>
-                    <div class="vs-text" style="font-size:0.8em;">VS</div>
-                    <div style="margin:4px 0;">
+                    <div class="vs-text" style="font-size:0.8em;margin-left:0;">VS</div>
+                    <div style="display:flex;align-items:center;gap:8px;margin:4px 0;">
                         <strong>{m['player_b_name']}</strong> {seed_badge(m['player_b_seed'])}
+                        <span class="set-scores">{pb_s}</span>
                     </div>
-                    {f'<div style="font-size:0.85em;font-weight:600;color:{RG_GREEN if status=="FINISHED" else RG_ORANGE};">{score}</div>' if score else ''}
                 </div>"""
                 st.markdown(html, unsafe_allow_html=True)
         
