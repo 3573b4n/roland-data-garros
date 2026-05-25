@@ -32,8 +32,62 @@ RG_ORANGE_LIGHT = "#e38045"
 RG_DARK = "#242424"
 RG_GREY = "#848484"
 RG_BG = "#fafafa"
+RG_CARD = "#ffffff"
+RG_CARD_BORDER = "#e0e0e0"
+RG_TEXT = "#242424"
+
+# Dark mode colors
+DM_BG = "#1a1a2e"
+DM_CARD = "#16213e"
+DM_CARD_BORDER = "#2a2a4a"
+DM_TEXT = "#e0e0e0"
+DM_GREY = "#888"
+
+# ─── Session state ──────────────────────────────────────────────────────────
+if "dark_mode" not in st.session_state:
+    st.session_state.dark_mode = False
 
 # ─── Custom CSS ─────────────────────────────────────────────────────────────
+dark_css = ""
+if st.session_state.dark_mode:
+    dark_css = f"""
+    <style>
+        .stApp {{ background-color: {DM_BG} !important; color: {DM_TEXT} !important; }}
+        h1, h2, h3, h4, h5, h6, p, span, div {{ color: {DM_TEXT} !important; }}
+        div[data-testid="metric-container"] {{ background: {DM_CARD} !important; border-color: {DM_CARD_BORDER} !important; }}
+        .player-card {{ background: {DM_CARD} !important; border-color: {DM_CARD_BORDER} !important; }}
+        .match-card {{ background: {DM_CARD} !important; border-color: {DM_CARD_BORDER} !important; }}
+        .set-score {{ background: #2a2a4a !important; color: {DM_TEXT} !important; }}
+        .stSelectbox, .stTextInput, input, select, textarea {{ background-color: {DM_CARD} !important; color: {DM_TEXT} !important; border-color: {DM_CARD_BORDER} !important; }}
+        .header-title {{ color: {RG_GREEN_LIGHT} !important; }}
+        .header-subtitle {{ color: {DM_GREY} !important; }}
+        .ranking-text {{ color: {DM_GREY} !important; }}
+        .vs-text {{ color: {RG_ORANGE_LIGHT} !important; }}
+        .seed-badge {{ background: {RG_GREEN_LIGHT} !important; }}
+        section[data-testid="stSidebar"] {{ background-color: {DM_CARD} !important; }}
+        section[data-testid="stSidebar"] p, section[data-testid="stSidebar"] div {{ color: {DM_TEXT} !important; }}
+        .st-b7 {{ background-color: {DM_CARD} !important; }}
+        .st-bb {{ background-color: {DM_CARD} !important; }}
+        .st-at {{ background-color: {DM_CARD} !important; }}
+        /* Buttons */
+        .stButton button {{ background-color: {RG_GREEN_LIGHT} !important; color: white !important; }}
+        .stButton button:hover {{ background-color: {RG_GREEN} !important; }}
+        /* Divider */
+        .rg-divider {{ background: linear-gradient(90deg, {RG_GREEN_LIGHT}, {RG_ORANGE_LIGHT}) !important; }}
+        /* Head to head table */
+        table, th, td {{ background: {DM_CARD} !important; color: {DM_TEXT} !important; border-color: {DM_CARD_BORDER} !important; }}
+        /* Status badges */
+        .status-upcoming {{ background: #2a2a4a !important; color: {DM_GREY} !important; }}
+        .status-live {{ background: #3d1a00 !important; color: #ff8c42 !important; }}
+        .status-done {{ background: #0a2e24 !important; color: {RG_GREEN_LIGHT} !important; }}
+        .highlight-star {{ color: #ffd700 !important; }}
+        /* Streamlit specific */
+        .st-emotion-cache-1wmy9hl {{ background-color: {DM_CARD} !important; }}
+        .st-emotion-cache-1mi2ry5 {{ background-color: {DM_CARD} !important; }}
+        .st-emotion-cache-1vt4y43 {{ background-color: {DM_BG} !important; }}
+    </style>
+    """
+
 st.markdown(f"""
 <style>
     /* Global */
@@ -240,9 +294,17 @@ with st.sidebar:
     
     page = st.radio(
         "Sección:",
-        ["🏆 Cuadro", "👤 Jugadores", "📊 Estadísticas", "⚔️ Head-to-Head"],
+        ["🏆 Cuadro", "📅 Hoy", "👤 Jugadores", "📊 Estadísticas", "⚔️ Head-to-Head"],
         label_visibility="collapsed",
     )
+    
+    st.divider()
+    
+    # Dark mode toggle
+    dark_old = st.session_state.dark_mode
+    st.session_state.dark_mode = st.toggle("🌙 Modo oscuro", value=st.session_state.dark_mode)
+    if st.session_state.dark_mode != dark_old:
+        st.rerun()
     
     st.divider()
     
@@ -810,6 +872,128 @@ def show_stats():
             </div>""", unsafe_allow_html=True)
 
 
+# ─── PAGE: Today's matches ──────────────────────────────────────────────────
+
+def show_today():
+    show_header("📅 Partidos del día", "Programación, pistas y horarios")
+    
+    from datetime import datetime
+    
+    # Get available dates with matches
+    available_dates = sorted(matches_df["date_schedule"].unique())
+    available_dates = [d for d in available_dates if d and str(d) != "nan"]
+    
+    if not available_dates:
+        st.info("No hay fechas disponibles en los datos.")
+        return
+    
+    today_str = datetime.now().strftime("%Y%m%d")
+    default_idx = 0
+    for i, d in enumerate(available_dates):
+        if str(d) == today_str:
+            default_idx = i
+            break
+    
+    col1, col2 = st.columns([2, 1])
+    with col1:
+        date_opts = {str(d): f"{d[:4]}-{d[4:6]}-{d[6:8]}" for d in available_dates}
+        selected_date = st.selectbox(
+            "Fecha:",
+            options=list(date_opts.keys()),
+            format_func=lambda x: date_opts[x],
+            index=default_idx,
+            key="date_sel",
+        )
+    
+    day_matches = matches_df[matches_df["date_schedule"] == selected_date]
+    
+    # Stats for the day
+    total = len(day_matches)
+    completed = len(day_matches[day_matches["status"] == "FINISHED"])
+    live = len(day_matches[day_matches["status"] == "IN_PROGRESS"])
+    
+    col1, col2, col3, col4 = st.columns(4)
+    col1.metric("🎾 Partidos", total)
+    col2.metric("✅ Completados", completed)
+    col3.metric("🔴 En vivo", live)
+    col4.metric("⏳ Pendientes", total - completed - live)
+    
+    # Top seeded / interesting players lookup
+    top_players = set()
+    if players_df is not None:
+        # Top 10 ranked players from players table
+        top_ranked = set(players_df[(players_df["ranking"].notna()) & (players_df["ranking"].astype(float) <= 10)]["short_name"].str.upper().values)
+        top_players = top_ranked
+    
+    def is_interesting(row):
+        """Check if a match is interesting (top player or big upset potential)."""
+        name_a = str(row["player_a_name"]).upper() if row["player_a_name"] else ""
+        name_b = str(row["player_b_name"]).upper() if row["player_b_name"] else ""
+        if name_a in top_players or name_b in top_players:
+            return True
+        # Check if either player is seeded in this match
+        if row["player_a_seed"] is not None and row["player_a_seed"] <= 16:
+            return True
+        if row["player_b_seed"] is not None and row["player_b_seed"] <= 16:
+            return True
+        return False
+    
+    # Group by court
+    courts = day_matches["court_name"].fillna("Sin pista asignada").unique()
+    courts = sorted([c for c in courts if c])
+    
+    st.markdown("### 🏟️ Por pistas")
+    
+    for court in courts:
+        court_df = day_matches[day_matches["court_name"].fillna("Sin pista asignada") == court]
+        if len(court_df) == 0:
+            continue
+        
+        # Court header
+        is_main = court in ["Court Philippe-Chatrier", "Court Suzanne-Lenglen", "Court Simonne-Mathieu"]
+        icon = "🏟️" if is_main else "🏸"
+        st.markdown(f"**{icon} {court}** ({len(court_df)} partidos)")
+        
+        cols = st.columns(2)
+        for i, (_, m) in enumerate(court_df.iterrows()):
+            with cols[i % 2]:
+                interesting = is_interesting(m)
+                star = '<span class="highlight-star">⭐</span> ' if interesting else ""
+                
+                status = m["status"]
+                icon_s = status_icon(status)
+                
+                # Time display
+                start = str(m["starting_at"]).strip() if m["starting_at"] and str(m["starting_at"]) != "nan" else ""
+                time_str = f"🕐 {start}" if start else ""
+                
+                # Round
+                rnd = round_label(m["round_number"])
+                
+                # Score
+                score = str(m["score"]) if m["score"] and str(m["score"]) != "nan" else ""
+                
+                night = "🌙" if m["is_night_session"] else ""
+                
+                html = f"""<div class="match-card {status_class(status)}" style="padding:10px;">
+                    <div style="display:flex;justify-content:space-between;font-size:0.7em;color:#aaa;">
+                        <span>{star}{icon_s} {m['status_label']} · {rnd}</span>
+                        <span>{time_str} {night}</span>
+                    </div>
+                    <div style="margin:4px 0;">
+                        <strong>{m['player_a_name']}</strong> {seed_badge(m['player_a_seed'])}
+                    </div>
+                    <div class="vs-text" style="font-size:0.8em;">VS</div>
+                    <div style="margin:4px 0;">
+                        <strong>{m['player_b_name']}</strong> {seed_badge(m['player_b_seed'])}
+                    </div>
+                    {f'<div style="font-size:0.85em;font-weight:600;color:{RG_GREEN if status=="FINISHED" else RG_ORANGE};">{score}</div>' if score else ''}
+                </div>"""
+                st.markdown(html, unsafe_allow_html=True)
+        
+        st.markdown("<br>", unsafe_allow_html=True)
+
+
 # ─── PAGE: Head-to-Head ─────────────────────────────────────────────────────
 
 def show_h2h():
@@ -970,6 +1154,8 @@ if not DATA_OK:
 else:
     if page == "🏆 Cuadro":
         show_bracket()
+    elif page == "📅 Hoy":
+        show_today()
     elif page == "👤 Jugadores":
         show_players()
     elif page == "📊 Estadísticas":
