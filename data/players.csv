@@ -572,6 +572,7 @@ player_id,first_name,last_name,short_name,ranking,ranking_double,country,sex,age
 52787,Luoyao,GUO,L.GUO,,,CHN,F,24 years-old,(11 November 2001),-,-,-,,/en-us/players/52787-l.guo
 11298,Robin,HAASE,R.HAASE,,51,NED,M,39 years-old,(6 April 1987),Right,-,-,https://images.prismic.io/fft-rg-site/aeopAMBOoF08xQGT_20260119_PJ_HaaseRobin_US.png,/en-us/players/11298-r.haase
 53057,Keaton,HANCE,K.HANCE,,,USA,M,18 years-old,(6 March 2008),Right,-,-,https://images.prismic.io/fft-rg-site/aDwX4rh8WN-LVcz5_53057_G.png,/en-us/players/53057-k.hance
+44025,Cleeve,HARPER,C.HARPER,,102,CAN,M,25 years-old,(24 December 2000),Right,-,-,,/en-us/players/44025-c.harper
 27046,Christian,HARRISON,C.HARRISON,,13,USA,M,31 years-old,(29 May 1994),Right,-,-,https://images.prismic.io/fft-rg-site/aDV73idWJ-7kSkQ__27046_G-1-.png,/en-us/players/27046-c.harrison
 43672,Isabelle,HAVERLAG,I.HAVERLAG,,68,NED,F,25 years-old,(4 March 2001),Left,-,-,https://images.prismic.io/fft-rg-site/ahLsUrK9tuLqEGdi_20260524_PJ_HaverlagIsabelle_US.png,/en-us/players/43672-i.haverlag
 56769,Jordyn,HAZELITT,J.HAZELITT,,,USA,F,16 years-old,(3 April 2010),-,-,-,,/en-us/players/56769-j.hazelitt
@@ -702,6 +703,7 @@ player_id,first_name,last_name,short_name,ranking,ranking_double,country,sex,age
 54789,Vincent Jakob,REISACH,VJ.REISACH,,,GER,M,17 years-old,(13 March 2009),Left,-,-,,/en-us/players/54789-vj.reisach
 25355,Miguel,REYES-VARELA,M.REYES-VARELA,,81,MEX,M,38 years-old,(21 June 1987),Right,-,-,https://images.prismic.io/fft-rg-site/b87aea59-0552-40f0-a440-631264ec07d8_20240112_PJ_ReyesVarelaMiguelAngel_US.png,/en-us/players/25355-m.reyes-varela
 37631,Arthur,REYMOND,A.REYMOND,,88,FRA,M,27 years-old,(2 April 1999),Left,-,-,,/en-us/players/37631-a.reymond
+40475,Finn,REYNOLDS,F.REYNOLDS,,85,NZL,M,26 years-old,(4 January 2000),Left,-,-,,/en-us/players/40475-f.reynolds
 38362,Patrik,RIKL,P.RIKL,,49,CZE,M,27 years-old,(6 January 1999),Right,-,-,https://images.prismic.io/fft-rg-site/ahHVDLK9tuLqEGON_20260523_PJ_RiklPatrik_US.png,/en-us/players/38362-p.rikl
 47736,Daniel,RODRIGUES,D.RODRIGUES,,,BRA,M,39 years-old,(10 November 1986),-,-,-,,/en-us/players/47736-d.rodrigues
 7773,Edouard,ROGER-VASSELIN,E.ROGER-VASSELIN,,19,FRA,M,42 years-old,(28 November 1983),Right,-,-,https://images.prismic.io/fft-rg-site/e9e5e670-9a3c-418e-a5bc-e012b4d7339c_20240113_PJ_RogerVasselinEdouard_US.png,/en-us/players/7773-e.roger-vasselin
@@ -727,6 +729,7 @@ player_id,first_name,last_name,short_name,ranking,ranking_double,country,sex,age
 54488,Hollie,SMART,H.SMART,,,GBR,F,-,,-,-,-,,/en-us/players/54488-h.smart
 15272,John-Patrick,SMITH,JP.SMITH,,54,AUS,M,37 years-old,(24 January 1989),Left,-,-,https://images.prismic.io/fft-rg-site/aeooscBOoF08xQE1_20260116_PJ_SmithJohnPatrick_US.png,/en-us/players/15272-jp.smith
 47740,Ruben,SPAARGAREN,R.SPAARGAREN,,,NED,M,26 years-old,(12 June 1999),-,-,-,https://images.prismic.io/fft-rg-site/Zl7FhZm069VX1bmv_47740_G.png,/en-us/players/47740-r.spaargaren
+37761,Reese,STALDER,R.STALDER,,89,USA,M,29 years-old,(12 November 1996),Right,-,-,,/en-us/players/37761-r.stalder
 36148,Luisa,STEFANI,L.STEFANI,,9,BRA,F,28 years-old,(9 August 1997),Right,-,-,https://images.prismic.io/fft-rg-site/aetafcBOoF08xRzG_20260228_PJ_StefaniLuisa_US.png,/en-us/players/36148-l.stefani
 38509,Bart,STEVENS,B.STEVENS,,58,NED,M,28 years-old,(29 January 1998),Right,-,-,https://images.prismic.io/fft-rg-site/04f3201d-b0d8-48e8-9aaf-bd3728440041_20240113_PJ_StevensBart_US.png,/en-us/players/38509-b.stevens
 36599,Fanny,STOLLAR,F.STOLLAR,,33,HUN,F,27 years-old,(12 November 1998),Right,-,-,https://images.prismic.io/fft-rg-site/aetamsBOoF08xRzj_20260303_PJ_StollarFanny_US.png,/en-us/players/36599-f.stollar
@@ -757,6 +760,7 @@ player_id,first_name,last_name,short_name,ranking,ranking_double,country,sex,age
 50349,Mark,WALLNER,M.WALLNER,,35,GER,M,26 years-old,(20 July 1999),Right,-,-,https://images.prismic.io/fft-rg-site/aDlefSdWJ-7kSuCM_50349_G.png,/en-us/players/50349-m.wallner
 52788,Ziying,WANG,Z.WANG,,,CHN,F,27 years-old,(15 August 1998),-,-,-,https://images.prismic.io/fft-rg-site/Zl7NjZm069VX1brE_52788_G.png,/en-us/players/52788-z.wang
 56695,Kanta,WATANABE,K.WATANABE,,,JPN,M,17 years-old,(31 March 2009),-,-,-,,/en-us/players/56695-k.watanabe
+50351,James,WATT,J.WATT,,86,NZL,M,25 years-old,(9 June 2000),Right,-,-,,/en-us/players/50351-j.watt
 19622,Marcus,WILLIS,M.WILLIS,,75,GBR,M,35 years-old,(9 October 1990),Left,-,-,,/en-us/players/19622-m.willis
 54852,Ida,WOBKER,I.WOBKER,,,GER,F,15 years-old,(8 September 2010),-,-,-,,/en-us/players/54852-i.wobker
 52752,Jin,WOODMAN,J.WOODMAN,,,AUS,M,17 years-old,(1 May 2009),-,-,-,,/en-us/players/52752-j.woodman
