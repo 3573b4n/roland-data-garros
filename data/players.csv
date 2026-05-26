@@ -106,7 +106,7 @@ player_id,first_name,last_name,short_name,ranking,ranking_double,country,sex,age
 40999,Juan Manuel,CERUNDOLO,JM.CERUNDOLO,56,491,ARG,M,24 years-old,(15 November 2001),Left,-,-,https://images.prismic.io/fft-rg-site/aeooucBOoF08xQE__20260117_PJ_CerundoloJuanManuel_US.png,/en-us/players/40999-jm.cerundolo
 42560,Qinwen,ZHENG,Q.ZHENG,56,,CHN,F,23 years-old,(8 October 2002),Right,-,-,https://images.prismic.io/fft-rg-site/5ee917df-b017-4181-b733-e37daac1cd7c_20240303_PJ_QinwenZheng_US.png,/en-us/players/42560-q.zheng
 33851,Daniel,ALTMAIER,D.ALTMAIER,57,,GER,M,27 years-old,(12 September 1998),Right,-,-,https://images.prismic.io/fft-rg-site/aeoozcBOoF08xQFV_20260118_PJ_AltmaierDaniel_US.png,/en-us/players/33851-d.altmaier
-33616,Anna,BONDAR,A.BONDAR,57,131,HUN,F,28 years-old,(27 May 1997),Right,-,-,https://images.prismic.io/fft-rg-site/aetagcBOoF08xRzK_20260301_PJ_BondarAnna_US.png,/en-us/players/33616-a.bondar
+33616,Anna,BONDAR,A.BONDAR,57,131,HUN,F,29 years-old,(27 May 1997),Right,-,-,https://images.prismic.io/fft-rg-site/aetagcBOoF08xRzK_20260301_PJ_BondarAnna_US.png,/en-us/players/33616-a.bondar
 45842,Talia,GIBSON,T.GIBSON,58,128,AUS,F,21 years-old,(18 June 2004),Right,-,-,https://images.prismic.io/fft-rg-site/aCoU_ydWJ-7kSQwm_45842_G.png,/en-us/players/45842-t.gibson
 45423,Hamad,MEDJEDOVIC,H.MEDJEDOVIC,58,,SRB,M,22 years-old,(18 July 2003),Right,-,-,https://images.prismic.io/fft-rg-site/d222075e-dbd3-4a2e-81b5-6b20ef10aa55_20240112_PJ_MedjedovicHamad_US.png,/en-us/players/45423-h.medjedovic
 38582,Panna,UDVARDY,P.UDVARDY,59,201,HUN,F,27 years-old,(28 September 1998),Right,-,-,https://images.prismic.io/fft-rg-site/aCoEBSdWJ-7kSQtt_38582_G.png,/en-us/players/38582-p.udvardy
@@ -242,7 +242,7 @@ player_id,first_name,last_name,short_name,ranking,ranking_double,country,sex,age
 40133,Suzan,LAMENS,S.LAMENS,128,,NED,F,26 years-old,(5 July 1999),Right,-,-,https://images.prismic.io/fft-rg-site/aDQaMydWJ-7kSiJE_40133_G.png,/en-us/players/40133-s.lamens
 44902,Francesco,MAESTRELLI,F.MAESTRELLI,128,,ITA,M,23 years-old,(21 December 2002),Right,-,-,https://images.prismic.io/fft-rg-site/aeoo5sBOoF08xQFy_20260118_PJ_MaestrelliFrancesco_US.png,/en-us/players/44902-f.maestrelli
 28369,Mayar,SHERIF,M.SHERIF,129,,EGY,F,30 years-old,(5 May 1996),Right,-,-,https://images.prismic.io/fft-rg-site/8411b977-757b-45ed-a27d-f0d14fb2fae5_20240305_PJ_SherifMayar_US.png,/en-us/players/28369-m.sherif
-42516,Alina,CHARAEVA,A.CHARAEVA,130,,---,F,23 years-old,(27 May 2002),Right,-,-,https://images.prismic.io/fft-rg-site/244718d0-ad1e-4fbe-97e3-8d54568382cf_20190601_PJ_CharaevaAlina_US.png,/en-us/players/42516-a.charaeva
+42516,Alina,CHARAEVA,A.CHARAEVA,130,,---,F,24 years-old,(27 May 2002),Right,-,-,https://images.prismic.io/fft-rg-site/244718d0-ad1e-4fbe-97e3-8d54568382cf_20190601_PJ_CharaevaAlina_US.png,/en-us/players/42516-a.charaeva
 44009,Shintaro,MOCHIZUKI,S.MOCHIZUKI,130,,JPN,M,22 years-old,(2 June 2003),Right,-,-,https://images.prismic.io/fft-rg-site/aeoo6cBOoF08xQF1_20260118_PJ_MochizukiShintaro_US.png,/en-us/players/44009-s.mochizuki
 44196,Himeno,SAKATSUME,H.SAKATSUME,131,,JPN,F,24 years-old,(3 August 2001),Right,-,-,https://images.prismic.io/fft-rg-site/agnwWKYofJOwHTXK_20260517_PJ_SakatsumeHimeno_US.png,/en-us/players/44196-h.sakatsume
 43948,Dane,SWEENY,D.SWEENY,131,261,AUS,M,25 years-old,(12 February 2001),Right,-,-,https://images.prismic.io/fft-rg-site/ZkpCCCol0Zci9RHO_20240516_PJ_SweenyDane_US.png,/en-us/players/43948-d.sweeny
