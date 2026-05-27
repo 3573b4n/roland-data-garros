@@ -83,7 +83,7 @@ SM048,SM,Men's Singles,2,Second Round,FINISHED,Completed,,20260528,,,,,36276,A.D
 SM049,SM,Men's Singles,2,Second Round,FINISHED,Completed,Court 6,20260527,281,False,"3-6, 6-2, 4-6, 6-1, 6-7(11)",,44967,M.NAVONE,38,ARG,,,False,5,47921,J.MENSIK,27,CZE,26,,True,5
 SM050,SM,Men's Singles,2,Second Round,FINISHED,Completed,Court 12,20260527,131,False,"3-6, 6-2, 6-1, 6-2",,36781,N.BORGES,51,POR,,,True,4,38353,M.KECMANOVIC,48,SRB,,,False,4
 SM051,SM,Men's Singles,2,Second Round,FINISHED,Completed,Court Simonne-Mathieu,20260527,186,False,"1-6, 6-1, 3-6, 6-7(5)",,38437,C.UGO CARABELLI,59,ARG,,,False,4,31132,A.RUBLEV,13,---,11,,True,4
-SM052,SM,Men's Singles,2,Second Round,IN_PROGRESS,Live,Court Suzanne-Lenglen,20260527,88,False,"6-3, 6-2, 5-4*",,36389,C.RUUD,16,NOR,15,,,3,45423,H.MEDJEDOVIC,58,SRB,,,,3
+SM052,SM,Men's Singles,2,Second Round,FINISHED,Completed,Court Suzanne-Lenglen,20260527,123,False,"6-3, 6-2, 6-4",,36389,C.RUUD,16,NOR,15,,True,3,45423,H.MEDJEDOVIC,58,SRB,,,False,3
 SM053,SM,Men's Singles,2,Second Round,FINISHED,Completed,Court 7,20260527,128,False,"3-6, 2-6, 4-6",,35289,L.SONEGO,70,ITA,,,False,3,33541,T.PAUL,21,USA,24,,True,3
 SM054,SM,Men's Singles,2,Second Round,FINISHED,Completed,Court 14,20260527,207,False,"3-6, 4-6, 6-3, 6-1, 6-2",,48336,J.FONSECA,30,BRA,28,,True,5,47952,D.PRIZMIC,72,CRO,,,False,5
 SM055,SM,Men's Singles,2,Second Round,FINISHED,Completed,Court Philippe-Chatrier,20260527,224,False,"3-6, 2-6, 7-6(9), 3-6",,42348,V.ROYER,74,FRA,,,False,4,9801,N.DJOKOVIC,4,SRB,3,,True,4
@@ -105,7 +105,7 @@ SM022,SM,Men's Singles,3,Third Round,NOT_STARTED,Upcoming,,20260527,,,,,,,,,,,,0
 SM023,SM,Men's Singles,3,Third Round,NOT_STARTED,Upcoming,,20260527,,,,,,,,,,,,0,,,,,,,,0
 SM024,SM,Men's Singles,3,Third Round,NOT_STARTED,Upcoming,,20260527,,,,,36276,A.DE MINAUR,7,AUS,8,,,0,47921,J.MENSIK,27,CZE,26,,,0
 SM025,SM,Men's Singles,3,Third Round,NOT_STARTED,Upcoming,,20260527,,,,,36781,N.BORGES,51,POR,,,,0,31132,A.RUBLEV,13,---,11,,,0
-SM026,SM,Men's Singles,3,Third Round,NOT_STARTED,Upcoming,,20260527,,,,,,,,,,,,0,33541,T.PAUL,21,USA,24,,,0
+SM026,SM,Men's Singles,3,Third Round,NOT_STARTED,Upcoming,,20260527,,,,,36389,C.RUUD,16,NOR,15,,,0,33541,T.PAUL,21,USA,24,,,0
 SM027,SM,Men's Singles,3,Third Round,NOT_STARTED,Upcoming,,20260527,,,,,48336,J.FONSECA,30,BRA,28,,,0,9801,N.DJOKOVIC,4,SRB,3,,,0
 SM028,SM,Men's Singles,3,Third Round,NOT_STARTED,Upcoming,,20260527,,,,,49300,A.MICHELSEN,42,USA,,,,0,49822,R.JODAR,29,ESP,27,,,0
 SM029,SM,Men's Singles,3,Third Round,NOT_STARTED,Upcoming,,20260527,,,,,41715,TA.TIRANTE,60,ARG,,,,0,21578,P.CARRENO BUSTA,89,ESP,,,,0
