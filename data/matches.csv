@@ -69,10 +69,10 @@ SM034,SM,Men's Singles,2,Second Round,FINISHED,Completed,Court Philippe-Chatrier
 SM035,SM,Men's Singles,2,Second Round,FINISHED,Completed,Court 6,20260528,250,False,"7-6(7), 4-6, 6-4, 2-6, 6-4",,42330,F.COMESANA,102,ARG,,,True,5,45420,L.DARDERI,17,ITA,14,,False,5
 SM036,SM,Men's Singles,2,Second Round,FINISHED,Completed,Court 12,20260528,150,False,"5-7, 6-7(1), 2-6",,23386,JL.STRUFF,80,GER,,,False,3,47931,J.FARIA,115,POR,,,True,3
 SM037,SM,Men's Singles,2,Second Round,FINISHED,Completed,Court 14,20260528,283,False,"7-6(7), 6-7(5), 4-6, 7-6(7), 4-6",,31976,H.HURKACZ,99,POL,,,False,5,35361,F.TIAFOE,22,USA,19,,True,5
-SM038,SM,Men's Singles,2,Second Round,IN_PROGRESS,Live,Court 14,20260528,173,False,"7-6(7), 5-7, 6-3, 2-2*",,43964,M.ARNALDI,104,ITA,,,,4,35398,S.TSITSIPAS,79,GRE,,,,4
+SM038,SM,Men's Singles,2,Second Round,FINISHED,Completed,Court 14,20260528,197,False,"7-6(7), 5-7, 6-3, 6-2",,43964,M.ARNALDI,104,ITA,,,True,4,35398,S.TSITSIPAS,79,GRE,,,False,4
 SM039,SM,Men's Singles,2,Second Round,FINISHED,Completed,Court Suzanne-Lenglen,20260528,121,False,"6-4, 7-5, 6-4",,45429,R.COLLIGNON,62,BEL,,,True,3,47345,B.SHELTON,5,USA,5,,False,3
 SM040,SM,Men's Singles,2,Second Round,FINISHED,Completed,Court Simonne-Mathieu,20260528,184,False,"4-6, 6-0, 7-5, 6-1",,36701,F.AUGER-ALIASSIME,6,CAN,4,,True,4,43963,RA.BURRUCHAGA,68,ARG,,,False,4
-SM041,SM,Men's Singles,2,Second Round,IN_PROGRESS,Live,Court 7,20260528,261,False,"7-6(7), 4-6, 7-5, 1-6, 3-5*",,46560,L.VAN ASSCHE,100,FRA,,,,5,41418,B.NAKASHIMA,35,USA,31,,,5
+SM041,SM,Men's Singles,2,Second Round,FINISHED,Completed,Court 7,20260528,274,False,"7-6(7), 4-6, 7-5, 1-6, 3-6",,46560,L.VAN ASSCHE,100,FRA,,,False,5,41418,B.NAKASHIMA,35,USA,31,,True,5
 SM042,SM,Men's Singles,2,Second Round,FINISHED,Completed,Court Suzanne-Lenglen,20260528,296,False,"3-6, 5-7, 6-3, 6-2, 6-7(8)",,46559,AD.VALLEJO,71,PAR,,,False,5,53021,M.KOUAME,318,FRA,,,True,5
 SM043,SM,Men's Singles,2,Second Round,FINISHED,Completed,Court 13,20260528,0,False,,,33575,A.TABILO,36,CHI,,,True,0,37843,V.VACHEROT,19,MON,16,,False,0
 SM044,SM,Men's Singles,2,Second Round,FINISHED,Completed,Court 7,20260528,129,False,"6-4, 6-4, 6-4",,42928,F.COBOLLI,14,ITA,10,,True,3,38355,Y.WU,92,CHN,,,False,3
@@ -98,8 +98,8 @@ SM063,SM,Men's Singles,2,Second Round,FINISHED,Completed,Court Philippe-Chatrier
 SM016,SM,Men's Singles,3,Third Round,NOT_STARTED,Upcoming,,20260527,,,,,40999,JM.CERUNDOLO,56,ARG,,,,0,48028,M.LANDALUCE,69,ESP,,,,0
 SM017,SM,Men's Singles,3,Third Round,NOT_STARTED,Upcoming,,20260527,,,,,29046,M.BERRETTINI,105,ITA,,,,0,42330,F.COMESANA,102,ARG,,,,0
 SM018,SM,Men's Singles,3,Third Round,NOT_STARTED,Upcoming,,20260527,,,,,47931,J.FARIA,115,POR,,,,0,35361,F.TIAFOE,22,USA,19,,,0
-SM019,SM,Men's Singles,3,Third Round,NOT_STARTED,Upcoming,,20260527,,,,,,,,,,,,0,45429,R.COLLIGNON,62,BEL,,,,0
-SM020,SM,Men's Singles,3,Third Round,NOT_STARTED,Upcoming,,20260527,,,,,36701,F.AUGER-ALIASSIME,6,CAN,4,,,0,,,,,,,,0
+SM019,SM,Men's Singles,3,Third Round,NOT_STARTED,Upcoming,,20260527,,,,,43964,M.ARNALDI,104,ITA,,,,0,45429,R.COLLIGNON,62,BEL,,,,0
+SM020,SM,Men's Singles,3,Third Round,NOT_STARTED,Upcoming,,20260527,,,,,36701,F.AUGER-ALIASSIME,6,CAN,4,,,0,41418,B.NAKASHIMA,35,USA,31,,,0
 SM021,SM,Men's Singles,3,Third Round,NOT_STARTED,Upcoming,,20260527,,,,,53021,M.KOUAME,318,FRA,,,,0,33575,A.TABILO,36,CHI,,,,0
 SM022,SM,Men's Singles,3,Third Round,NOT_STARTED,Upcoming,,20260527,,,,,42928,F.COBOLLI,14,ITA,10,,,0,49322,L.TIEN,18,USA,18,,,0
 SM023,SM,Men's Singles,3,Third Round,NOT_STARTED,Upcoming,,20260527,,,,,40998,F.CERUNDOLO,26,ARG,25,,,0,45140,Z.SVAJDA,85,USA,,,,0
