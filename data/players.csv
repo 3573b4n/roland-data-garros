@@ -2,7 +2,7 @@ player_id,first_name,last_name,short_name,ranking,ranking_double,country,sex,age
 33249,Aryna,SABALENKA,A.SABALENKA,1,,---,F,28 years-old,(5 May 1998),Right,-,-,https://images.prismic.io/fft-rg-site/ahTZpbK9tuLqEIIV_20260302_PJ_SabalenkaAryna_US.png,/en-us/players/33249-a.sabalenka
 39723,Jannik,SINNER,J.SINNER,1,,ITA,M,24 years-old,(16 August 2001),Right,-,-,https://images.prismic.io/fft-rg-site/aeoo8cBOoF08xQF__20260118_PJ_SinnerJannik_US.png,/en-us/players/39723-j.sinner
 38569,Elena,RYBAKINA,E.RYBAKINA,2,276,KAZ,F,26 years-old,(17 June 1999),Right,-,-,https://images.prismic.io/fft-rg-site/aetaisBOoF08xRzT_20260302_PJ_RybakinaElena_US.png,/en-us/players/38569-e.rybakina
-40613,Iga,SWIATEK,I.SWIATEK,3,,POL,F,24 years-old,(31 May 2001),Right,-,-,https://images.prismic.io/fft-rg-site/aetanMBOoF08xRzl_20260303_PJ_SwiatekIga_US.png,/en-us/players/40613-i.swiatek
+40613,Iga,SWIATEK,I.SWIATEK,3,,POL,F,25 years-old,(31 May 2001),Right,-,-,https://images.prismic.io/fft-rg-site/aetanMBOoF08xRzl_20260303_PJ_SwiatekIga_US.png,/en-us/players/40613-i.swiatek
 30350,Alexander,ZVEREV,A.ZVEREV,3,127,GER,M,29 years-old,(20 April 1997),Right,-,-,https://images.prismic.io/fft-rg-site/aeooosBOoF08xQEk_20260116_PJ_AlexanderZverev_US.png,/en-us/players/30350-a.zverev
 9801,Novak,DJOKOVIC,N.DJOKOVIC,4,,SRB,M,39 years-old,(22 May 1987),Right,-,-,https://images.prismic.io/fft-rg-site/aeoovMBOoF08xQFC_20260117_PJ_DjokovicNovak_US.png,/en-us/players/9801-n.djokovic
 44185,Coco,GAUFF,C.GAUFF,4,65,USA,F,22 years-old,(13 March 2004),Right,-,-,https://images.prismic.io/fft-rg-site/aetakMBOoF08xRzZ_20260303_PJ_GauffCoco_US.png,/en-us/players/44185-c.gauff
@@ -197,7 +197,7 @@ player_id,first_name,last_name,short_name,ranking,ranking_double,country,sex,age
 47392,Victoria,JIMENEZ KASINTSEVA,V.JIMENEZ KASINTSEVA,104,,AND,F,20 years-old,(9 August 2005),Left,-,-,https://images.prismic.io/fft-rg-site/agmM16YofJOwHTGk_20260517_PJ_VictoriaKasintsevaJimenez_US.png,/en-us/players/47392-v.jimenez-kasintseva
 29046,Matteo,BERRETTINI,M.BERRETTINI,105,,ITA,M,30 years-old,(12 April 1996),Right,-,-,https://images.prismic.io/fft-rg-site/b1b0b3dd-38ed-46a6-8052-e78d8c989581_20240112_PJ_BerretiniMatteo_US.png,/en-us/players/29046-m.berrettini
 28052,Beatriz,HADDAD MAIA,B.HADDAD MAIA,105,91,BRA,F,30 years-old,(30 May 1996),Left,-,-,https://images.prismic.io/fft-rg-site/aetaeMBOoF08xRzB_20260228_PJ_HaddadMaiaBeatriz_US.png,/en-us/players/28052-b.haddad-maia
-42304,Jesper,DE JONG,J.DE JONG,106,,NED,M,25 years-old,(31 May 2000),Right,-,-,https://images.prismic.io/fft-rg-site/aeoo2MBOoF08xQFh_20260118_PJ_DeJongJesper_US.png,/en-us/players/42304-j.de-jong
+42304,Jesper,DE JONG,J.DE JONG,106,,NED,M,26 years-old,(31 May 2000),Right,-,-,https://images.prismic.io/fft-rg-site/aeoo2MBOoF08xQFh_20260118_PJ_DeJongJesper_US.png,/en-us/players/42304-j.de-jong
 18274,Karolina,PLISKOVA,Ka.PLISKOVA,106,,CZE,F,34 years-old,(21 March 1992),Right,-,-,https://images.prismic.io/fft-rg-site/14a0938d-0c4e-41dd-b448-c8f66d31e88a_20240305_PJ_PliskovaKarolina_US.png,/en-us/players/18274-ka.pliskova
 43951,Titouan,DROGUET,T.DROGUET,107,,FRA,M,24 years-old,(15 June 2001),Right,-,-,https://images.prismic.io/fft-rg-site/aCwp2ydWJ-7kSU05_43951_G.png,/en-us/players/43951-t.droguet
 42529,Moyuka,UCHIJIMA,M.UCHIJIMA,107,221,JPN,F,24 years-old,(11 August 2001),Right,-,-,https://images.prismic.io/fft-rg-site/aDFarCdWJ-7kSgxg_42529_G.png,/en-us/players/42529-m.uchijima
@@ -674,7 +674,7 @@ player_id,first_name,last_name,short_name,ranking,ranking_double,country,sex,age
 54823,Oliver,MAJDANDZIC,O.MAJDANDZIC,,,GER,M,-,,-,-,-,,/en-us/players/54823-o.majdandzic
 54856,Mariia,MAKAROVA,M.MAKAROVA,,,---,F,16 years-old,(14 January 2010),-,-,-,,/en-us/players/54856-m.makarova
 28184,Jesika,MALECKOVA,J.MALECKOVA,,49,CZE,F,31 years-old,(16 August 1994),Right,-,-,,/en-us/players/28184-j.maleckova
-54885,Alexandra,MALOVA,A.MALOVA,,,---,F,17 years-old,(31 May 2008),-,-,-,,/en-us/players/54885-a.malova
+54885,Alexandra,MALOVA,A.MALOVA,,,---,F,18 years-old,(31 May 2008),-,-,-,,/en-us/players/54885-a.malova
 56585,Matisse,MARTIN,M.MARTIN,,,FRA,M,17 years-old,(8 February 2009),-,-,-,,/en-us/players/56585-m.martin
 12085,Fabrice,MARTIN,F.MARTIN,,,FRA,M,39 years-old,(11 September 1986),Right,-,-,https://images.prismic.io/fft-rg-site/30c3014f-b976-4eb5-a3ee-dcecfbcf973b_20220310_PJ_MartinFabrice_US.png,/en-us/players/12085-f.martin
 31250,Ingrid,MARTINS,I.MARTINS,,85,BRA,F,29 years-old,(22 August 1996),Right,-,-,https://images.prismic.io/fft-rg-site/ahipHLK9tuLqEPPK_20260528_PJ_MartinsIngrid_US.png,/en-us/players/31250-i.martins
