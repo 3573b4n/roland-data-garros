@@ -101,8 +101,8 @@ SM018,SM,Men's Singles,3,Third Round,NOT_STARTED,Upcoming,Court Suzanne-Lenglen,
 SM019,SM,Men's Singles,3,Third Round,NOT_STARTED,Upcoming,Court 14,20260530,,False,,,43964,M.ARNALDI,104,ITA,,,,0,45429,R.COLLIGNON,62,BEL,,,,0
 SM020,SM,Men's Singles,3,Third Round,NOT_STARTED,Upcoming,Court Philippe-Chatrier,20260530,,True,,,36701,F.AUGER-ALIASSIME,6,CAN,4,,,0,41418,B.NAKASHIMA,35,USA,31,,,0
 SM021,SM,Men's Singles,3,Third Round,NOT_STARTED,Upcoming,Court Suzanne-Lenglen,20260530,,False,,,53021,M.KOUAME,318,FRA,,,,0,33575,A.TABILO,36,CHI,,,,0
-SM022,SM,Men's Singles,3,Third Round,NOT_STARTED,Upcoming,Court Philippe-Chatrier,20260530,,False,,12:00,42928,F.COBOLLI,14,ITA,10,,,0,49322,L.TIEN,18,USA,18,,,0
-SM023,SM,Men's Singles,3,Third Round,IN_PROGRESS,Live,Court 14,20260530,,False,2-1*,11:00,40998,F.CERUNDOLO,26,ARG,25,,,1,45140,Z.SVAJDA,85,USA,,,,1
+SM022,SM,Men's Singles,3,Third Round,IN_PROGRESS,Live,Court Philippe-Chatrier,20260530,,False,"6-2, 3-0*",12:00,42928,F.COBOLLI,14,ITA,10,,,2,49322,L.TIEN,18,USA,18,,,2
+SM023,SM,Men's Singles,3,Third Round,IN_PROGRESS,Live,Court 14,20260530,,False,"3-6, 4-6, 5-3*",11:00,40998,F.CERUNDOLO,26,ARG,25,,,3,45140,Z.SVAJDA,85,USA,,,,3
 SM024,SM,Men's Singles,3,Third Round,FINISHED,Completed,Court Simonne-Mathieu,20260529,145,False,"6-0, 2-6, 2-6, 3-6",,36276,A.DE MINAUR,7,AUS,8,,False,4,47921,J.MENSIK,27,CZE,26,,True,4
 SM025,SM,Men's Singles,3,Third Round,FINISHED,Completed,Court Suzanne-Lenglen,20260529,162,False,"5-7, 6-7(2), 6-7(2)",,36781,N.BORGES,51,POR,,,False,3,31132,A.RUBLEV,13,---,11,,True,3
 SM026,SM,Men's Singles,3,Third Round,FINISHED,Completed,Court Suzanne-Lenglen,20260529,283,False,"4-6, 6-7(4), 6-4, 7-6(7), 7-5",,36389,C.RUUD,16,NOR,15,,True,5,33541,T.PAUL,21,USA,24,,False,5
@@ -223,12 +223,12 @@ SD061,SD,Women's Singles,2,Second Round,FINISHED,Completed,Court 9,20260527,63,F
 SD062,SD,Women's Singles,2,Second Round,FINISHED,Completed,Court 6,20260527,51,False,4-5,,42515,H.BAPTISTE,26,USA,26,,False,1,38639,X.WANG,148,CHN,,,True,1
 SD063,SD,Women's Singles,2,Second Round,FINISHED,Completed,Court Suzanne-Lenglen,20260527,148,False,"3-6, 6-1, 7-6(10)",,42203,Y.STARODUBTSEVA,55,UKR,,,True,3,38569,E.RYBAKINA,2,KAZ,2,,False,3
 SD016,SD,Women's Singles,3,Third Round,NOT_STARTED,Upcoming,Court Suzanne-Lenglen,20260530,,False,,,33249,A.SABALENKA,1,---,1,,,0,31281,D.KASATKINA,53,AUS,,,,0
-SD017,SD,Women's Singles,3,Third Round,IN_PROGRESS,Live,Court Suzanne-Lenglen,20260530,,False,1-2*,11:00,50685,I.JOVIC,17,USA,17,,,1,30764,N.OSAKA,16,JPN,16,,,1
+SD017,SD,Women's Singles,3,Third Round,IN_PROGRESS,Live,Court Suzanne-Lenglen,20260530,,False,"6-7(5), 5-4*",11:00,50685,I.JOVIC,17,USA,17,,,2,30764,N.OSAKA,16,JPN,16,,,2
 SD018,SD,Women's Singles,3,Third Round,NOT_STARTED,Upcoming,Court Simonne-Mathieu,20260530,,False,,,47486,V.MBOKO,9,CAN,9,,,0,24265,M.KEYS,19,USA,19,,,0
-SD019,SD,Women's Singles,3,Third Round,NOT_STARTED,Upcoming,Court 7,20260530,,False,,12:00,45655,D.SHNAIDER,23,---,25,,,0,42629,O.OLIYNYKOVA,65,UKR,,,,0
+SD019,SD,Women's Singles,3,Third Round,IN_PROGRESS,Live,Court 7,20260530,,False,4-5*,12:00,45655,D.SHNAIDER,23,---,25,,,1,42629,O.OLIYNYKOVA,65,UKR,,,,1
 SD020,SD,Women's Singles,3,Third Round,NOT_STARTED,Upcoming,Court Philippe-Chatrier,20260530,,False,,,44185,C.GAUFF,4,USA,4,,,0,38726,A.POTAPOVA,30,AUT,28,,,0
 SD021,SD,Women's Singles,3,Third Round,NOT_STARTED,Upcoming,Court 14,20260530,,False,,,33663,A.KALINSKAYA,24,---,22,,,0,40720,C.OSORIO,86,COL,,,,0
-SD022,SD,Women's Singles,3,Third Round,IN_PROGRESS,Live,Court Simonne-Mathieu,20260530,,False,2-1*,11:00,28771,M.SAKKARI,49,GRE,,,,1,40630,M.CHWALINSKA,114,POL,,,,1
+SD022,SD,Women's Singles,3,Third Round,IN_PROGRESS,Live,Court Simonne-Mathieu,20260530,,False,"6-1, 3-6, 1-3*",11:00,28771,M.SAKKARI,49,GRE,,,,3,40630,M.CHWALINSKA,114,POL,,,,3
 SD023,SD,Women's Singles,3,Third Round,NOT_STARTED,Upcoming,Court Philippe-Chatrier,20260530,,False,,,40849,D.PARRY,92,FRA,,,,0,40607,A.ANISIMOVA,6,USA,6,,,0
 SD024,SD,Women's Singles,3,Third Round,FINISHED,Completed,Court Suzanne-Lenglen,20260529,91,False,"6-2, 6-3",,23968,E.SVITOLINA,7,UKR,7,,True,2,30642,T.KORPATSCH,95,GER,,,False,2
 SD025,SD,Women's Singles,3,Third Round,FINISHED,Completed,Court Simonne-Mathieu,20260529,81,False,"3-6, 3-6",,42566,P.STEARNS,78,USA,,,False,2,28865,B.BENCIC,11,SUI,11,,True,2
