@@ -243,9 +243,9 @@ SD009,SD,Women's Singles,4,Fourth Round,NOT_STARTED,Upcoming,,20260529,,,,11:00,
 SD010,SD,Women's Singles,4,Fourth Round,NOT_STARTED,Upcoming,,20260529,,,,11:00,38726,A.POTAPOVA,30,AUT,28,,,0,33663,A.KALINSKAYA,24,---,22,,,0
 SD011,SD,Women's Singles,4,Fourth Round,NOT_STARTED,Upcoming,,20260529,,,,11:00,40630,M.CHWALINSKA,114,POL,,,,0,40849,D.PARRY,92,FRA,,,,0
 SD012,SD,Women's Singles,4,Fourth Round,NOT_STARTED,Upcoming,Court Philippe-Chatrier,20260531,,False,,,23968,E.SVITOLINA,7,UKR,7,,,0,28865,B.BENCIC,11,SUI,11,,,0
-SD013,SD,Women's Singles,4,Fourth Round,NOT_STARTED,Upcoming,Court Philippe-Chatrier,20260531,,False,,11:00,40683,M.KOSTYUK,15,UKR,15,,,0,40613,I.SWIATEK,3,POL,3,,,0
+SD013,SD,Women's Singles,4,Fourth Round,IN_PROGRESS,Live,Court Philippe-Chatrier,20260531,,False,2-2*,11:00,40683,M.KOSTYUK,15,UKR,15,,,1,40613,I.SWIATEK,3,POL,3,,,1
 SD014,SD,Women's Singles,4,Fourth Round,NOT_STARTED,Upcoming,Court Suzanne-Lenglen,20260531,,False,,,48819,M.ANDREEVA,8,---,8,,,0,31367,J.TEICHMANN,170,SUI,,,,0
-SD015,SD,Women's Singles,4,Fourth Round,NOT_STARTED,Upcoming,Court Suzanne-Lenglen,20260531,,False,,11:00,14440,S.CIRSTEA,18,ROU,18,,,0,38639,X.WANG,148,CHN,,,,0
+SD015,SD,Women's Singles,4,Fourth Round,IN_PROGRESS,Live,Court Suzanne-Lenglen,20260531,,False,3-1*,11:00,14440,S.CIRSTEA,18,ROU,18,,,1,38639,X.WANG,148,CHN,,,,1
 SD004,SD,Women's Singles,5,Quarterfinals,NOT_STARTED,Upcoming,,20260531,,,,11:00,,,,,,,,0,,,,,,,,0
 SD005,SD,Women's Singles,5,Quarterfinals,NOT_STARTED,Upcoming,,20260531,,,,11:00,,,,,,,,0,,,,,,,,0
 SD006,SD,Women's Singles,5,Quarterfinals,NOT_STARTED,Upcoming,,20260531,,,,11:00,,,,,,,,0,,,,,,,,0
