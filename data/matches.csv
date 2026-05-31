@@ -116,12 +116,12 @@ SM009,SM,Men's Singles,4,Fourth Round,NOT_STARTED,Upcoming,Court Suzanne-Lenglen
 SM010,SM,Men's Singles,4,Fourth Round,NOT_STARTED,Upcoming,Court Philippe-Chatrier,20260601,,False,,,36701,F.AUGER-ALIASSIME,6,CAN,4,,,0,33575,A.TABILO,36,CHI,,,,0
 SM011,SM,Men's Singles,4,Fourth Round,NOT_STARTED,Upcoming,Court Philippe-Chatrier,20260601,,False,,11:00,42928,F.COBOLLI,14,ITA,10,,,0,45140,Z.SVAJDA,85,USA,,,,0
 SM012,SM,Men's Singles,4,Fourth Round,FINISHED,Completed,Court Suzanne-Lenglen,20260531,225,False,"6-3, 7-6(8), 4-6, 2-6, 6-3",,47921,J.MENSIK,27,CZE,26,,True,5,31132,A.RUBLEV,13,---,11,,False,5
-SM013,SM,Men's Singles,4,Fourth Round,IN_PROGRESS,Live,Court Philippe-Chatrier,20260531,161,True,"5-7, 6-7(8), 2-2*",,36389,C.RUUD,16,NOR,15,,,3,48336,J.FONSECA,30,BRA,28,,,3
+SM013,SM,Men's Singles,4,Fourth Round,FINISHED,Completed,Court Philippe-Chatrier,20260531,235,True,"5-7, 6-7(8), 7-5, 2-6",,36389,C.RUUD,16,NOR,15,,False,4,48336,J.FONSECA,30,BRA,28,,True,4
 SM014,SM,Men's Singles,4,Fourth Round,FINISHED,Completed,Court Suzanne-Lenglen,20260531,221,False,"4-6, 4-6, 6-1, 6-2, 6-2",,49822,R.JODAR,29,ESP,27,,True,5,21578,P.CARRENO BUSTA,89,ESP,,,False,5
 SM015,SM,Men's Singles,4,Fourth Round,FINISHED,Completed,Court Philippe-Chatrier,20260531,134,False,"6-7(3), 4-6, 1-6",,42304,J.DE JONG,106,NED,,,False,3,30350,A.ZVEREV,3,GER,2,,True,3
 SM004,SM,Men's Singles,5,Quarterfinals,NOT_STARTED,Upcoming,,20260531,,,,,,,,,,,,0,,,,,,,,0
 SM005,SM,Men's Singles,5,Quarterfinals,NOT_STARTED,Upcoming,,20260531,,,,,,,,,,,,0,,,,,,,,0
-SM006,SM,Men's Singles,5,Quarterfinals,NOT_STARTED,Upcoming,,20260531,,,,,47921,J.MENSIK,27,CZE,26,,,0,,,,,,,,0
+SM006,SM,Men's Singles,5,Quarterfinals,NOT_STARTED,Upcoming,,20260531,,,,,47921,J.MENSIK,27,CZE,26,,,0,48336,J.FONSECA,30,BRA,28,,,0
 SM007,SM,Men's Singles,5,Quarterfinals,NOT_STARTED,Upcoming,,20260531,,,,,49822,R.JODAR,29,ESP,27,,,0,30350,A.ZVEREV,3,GER,2,,,0
 SM002,SM,Men's Singles,6,Semifinals,NOT_STARTED,Upcoming,,20260531,,,,,,,,,,,,0,,,,,,,,0
 SM003,SM,Men's Singles,6,Semifinals,NOT_STARTED,Upcoming,,20260531,,,,,,,,,,,,0,,,,,,,,0
