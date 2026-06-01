@@ -112,14 +112,14 @@ SM029,SM,Men's Singles,3,Third Round,FINISHED,Completed,Court 14,20260529,213,Fa
 SM030,SM,Men's Singles,3,Third Round,FINISHED,Completed,Court 14,20260529,259,False,"5-7, 7-5, 2-6, 7-6(7), 2-6",,29528,K.KHACHANOV,15,---,13,,False,5,42304,J.DE JONG,106,NED,,,True,5
 SM031,SM,Men's Singles,3,Third Round,FINISHED,Completed,Court Philippe-Chatrier,20260529,187,True,"4-6, 3-6, 7-5, 2-6",,31036,Q.HALYS,90,FRA,,,False,4,30350,A.ZVEREV,3,GER,2,,True,4
 SM008,SM,Men's Singles,4,Fourth Round,FINISHED,Completed,Court Suzanne-Lenglen,20260601,152,False,"3-6, 6-7(2), 6-7(6)",,40999,JM.CERUNDOLO,56,ARG,,,False,3,29046,M.BERRETTINI,105,ITA,,,True,3
-SM009,SM,Men's Singles,4,Fourth Round,IN_PROGRESS,Live,Court Suzanne-Lenglen,20260601,,False,"6-7(5), 7-6(7), 6-3, 6-7(3), 2-3*",,35361,F.TIAFOE,22,USA,19,,,5,43964,M.ARNALDI,104,ITA,,,,5
+SM009,SM,Men's Singles,4,Fourth Round,FINISHED,Completed,Court Suzanne-Lenglen,20260601,326,False,"6-7(5), 7-6(7), 6-3, 6-7(3), 4-6",,35361,F.TIAFOE,22,USA,19,,False,5,43964,M.ARNALDI,104,ITA,,,True,5
 SM010,SM,Men's Singles,4,Fourth Round,FINISHED,Completed,Court Philippe-Chatrier,20260601,126,False,"6-3, 7-5, 6-1",,36701,F.AUGER-ALIASSIME,6,CAN,4,,True,3,33575,A.TABILO,36,CHI,,,False,3
 SM011,SM,Men's Singles,4,Fourth Round,FINISHED,Completed,Court Philippe-Chatrier,20260601,199,False,"6-2, 6-3, 6-7(3), 7-6(7)",,42928,F.COBOLLI,14,ITA,10,,True,4,45140,Z.SVAJDA,85,USA,,,False,4
 SM012,SM,Men's Singles,4,Fourth Round,FINISHED,Completed,Court Suzanne-Lenglen,20260531,225,False,"6-3, 7-6(8), 4-6, 2-6, 6-3",,47921,J.MENSIK,27,CZE,26,,True,5,31132,A.RUBLEV,13,---,11,,False,5
 SM013,SM,Men's Singles,4,Fourth Round,FINISHED,Completed,Court Philippe-Chatrier,20260531,235,True,"5-7, 6-7(8), 7-5, 2-6",,36389,C.RUUD,16,NOR,15,,False,4,48336,J.FONSECA,30,BRA,28,,True,4
 SM014,SM,Men's Singles,4,Fourth Round,FINISHED,Completed,Court Suzanne-Lenglen,20260531,221,False,"4-6, 4-6, 6-1, 6-2, 6-2",,49822,R.JODAR,29,ESP,27,,True,5,21578,P.CARRENO BUSTA,89,ESP,,,False,5
 SM015,SM,Men's Singles,4,Fourth Round,FINISHED,Completed,Court Philippe-Chatrier,20260531,134,False,"6-7(3), 4-6, 1-6",,42304,J.DE JONG,106,NED,,,False,3,30350,A.ZVEREV,3,GER,2,,True,3
-SM004,SM,Men's Singles,5,Quarterfinals,NOT_STARTED,Upcoming,,20260531,,,,,29046,M.BERRETTINI,105,ITA,,,,0,,,,,,,,0
+SM004,SM,Men's Singles,5,Quarterfinals,NOT_STARTED,Upcoming,,20260531,,,,,29046,M.BERRETTINI,105,ITA,,,,0,43964,M.ARNALDI,104,ITA,,,,0
 SM005,SM,Men's Singles,5,Quarterfinals,NOT_STARTED,Upcoming,,20260531,,,,,36701,F.AUGER-ALIASSIME,6,CAN,4,,,0,42928,F.COBOLLI,14,ITA,10,,,0
 SM006,SM,Men's Singles,5,Quarterfinals,NOT_STARTED,Upcoming,Court Philippe-Chatrier,20260602,,True,,,47921,J.MENSIK,27,CZE,26,,,0,48336,J.FONSECA,30,BRA,28,,,0
 SM007,SM,Men's Singles,5,Quarterfinals,NOT_STARTED,Upcoming,Court Philippe-Chatrier,20260602,,False,,,49822,R.JODAR,29,ESP,27,,,0,30350,A.ZVEREV,3,GER,2,,,0
