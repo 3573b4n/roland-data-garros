@@ -276,7 +276,7 @@ player_id,first_name,last_name,short_name,ranking,ranking_double,country,sex,age
 28697,Julia,GRABHER,J.GRABHER,121,386,AUT,F,29 years-old,(2 July 1996),Right,-,-,https://images.prismic.io/fft-rg-site/f36bf080-02f1-4949-be7d-71f490eb071b_20230402_PJ_GrabherJulia_US.png,/en-us/players/28697-j.grabher
 24367,Leolia,JEANJEAN,L.JEANJEAN,122,198,FRA,F,30 years-old,(14 August 1995),Right,-,-,https://images.prismic.io/fft-rg-site/Zkrpjiol0Zci9Rc6_20240518_PJ_JeanjeanLeolia_US.png,/en-us/players/24367-l.jeanjean
 44472,Pablo,LLAMAS RUIZ,P.LLAMAS RUIZ,122,209,ESP,M,23 years-old,(13 October 2002),Right,-,-,https://images.prismic.io/fft-rg-site/aghxAqYofJOwHSxG_20260515_PJ_LlamasRuizPablo_US.png,/en-us/players/44472-p.llamas-ruiz
-44191,Polina,KUDERMETOVA,P.KUDERMETOVA,123,228,UZB,F,22 years-old,(4 June 2003),Right,-,-,https://images.prismic.io/fft-rg-site/aDQjuidWJ-7kSiRX_44191_G.png,/en-us/players/44191-p.kudermetova
+44191,Polina,KUDERMETOVA,P.KUDERMETOVA,123,228,UZB,F,23 years-old,(4 June 2003),Right,-,-,https://images.prismic.io/fft-rg-site/aDQjuidWJ-7kSiRX_44191_G.png,/en-us/players/44191-p.kudermetova
 42504,Tristan,SCHOOLKATE,T.SCHOOLKATE,123,228,AUS,M,25 years-old,(26 February 2001),Right,-,-,https://images.prismic.io/fft-rg-site/aeooyMBOoF08xQFP_20260117_PJ_SchoolkateTristan_US.png,/en-us/players/42504-t.schoolkate
 32437,Andrea,PELLEGRINO,A.PELLEGRINO,124,,ITA,M,29 years-old,(23 March 1997),Right,-,-,https://images.prismic.io/fft-rg-site/agh-jqYofJOwHS0W_20260516_PJ_PellegrinoAndrea_US.png,/en-us/players/32437-a.pellegrino
 26058,Aliaksandra,SASNOVICH,A.SASNOVICH,124,,---,F,32 years-old,(22 March 1994),Right,-,-,https://images.prismic.io/fft-rg-site/aCsF6idWJ-7kSSUY_26058_G.png,/en-us/players/26058-a.sasnovich
@@ -513,7 +513,7 @@ player_id,first_name,last_name,short_name,ranking,ranking_double,country,sex,age
 45483,Sean,CUENIN,S.CUENIN,381,,FRA,M,22 years-old,(16 February 2004),Right,-,-,https://images.prismic.io/fft-rg-site/afc7fa81-f56b-4689-9021-d429d16fbdbd_20201007_PJ_CueninSean_US.png,/en-us/players/45483-s.cuenin
 28480,Carol,ZHAO,C.ZHAO,406,,CAN,F,30 years-old,(20 June 1995),Right,-,-,https://images.prismic.io/fft-rg-site/Zkppbyol0Zci9RLc_20240518_PJ_ZhaoCarol_US.png,/en-us/players/28480-c.zhao
 19884,Amandine,HESSE,A.HESSE,418,,FRA,F,33 years-old,(16 January 1993),Right,-,-,https://images.prismic.io/fft-rg-site/51c547ea-911d-409d-9a7b-4d88085f6f0a_20201127_PJ_HesseAmandine_US.png,/en-us/players/19884-a.hesse
-52978,Jack,KENNEDY,J.KENNEDY,426,,USA,M,17 years-old,(4 June 2008),Right,-,-,https://images.prismic.io/fft-rg-site/Zl1-nqWtHYXtUAr8_52978_J.KENNEDY.png,/en-us/players/52978-j.kennedy
+52978,Jack,KENNEDY,J.KENNEDY,426,,USA,M,18 years-old,(4 June 2008),Right,-,-,https://images.prismic.io/fft-rg-site/Zl1-nqWtHYXtUAr8_52978_J.KENNEDY.png,/en-us/players/52978-j.kennedy
 21892,Martina,TREVISAN,M.TREVISAN,492,,ITA,F,32 years-old,(3 November 1993),Left,-,-,https://images.prismic.io/fft-rg-site/021256c1-87a3-4766-b8ad-48482f3ed1cd_20240305_PJ_TrevisanMartina_US.png,/en-us/players/21892-m.trevisan
 50726,Tahlia,KOKKINIS,T.KOKKINIS,495,,AUS,F,17 years-old,(11 August 2008),-,-,-,,/en-us/players/50726-t.kokkinis
 53202,Motoharu,ABE,M.ABE,,,JPN,M,17 years-old,(4 February 2009),Left,-,-,https://images.prismic.io/fft-rg-site/ahxddgeQX7-eWdVr_20260530_PJ_MotoharuAbe_US.png,/en-us/players/53202-m.abe
@@ -627,7 +627,7 @@ player_id,first_name,last_name,short_name,ranking,ranking_double,country,sex,age
 27046,Christian,HARRISON,C.HARRISON,,13,USA,M,32 years-old,(29 May 1994),Right,-,-,https://images.prismic.io/fft-rg-site/aDV73idWJ-7kSkQ__27046_G-1-.png,/en-us/players/27046-c.harrison
 43672,Isabelle,HAVERLAG,I.HAVERLAG,,68,NED,F,25 years-old,(4 March 2001),Left,-,-,https://images.prismic.io/fft-rg-site/ahLsUrK9tuLqEGdi_20260524_PJ_HaverlagIsabelle_US.png,/en-us/players/43672-i.haverlag
 56769,Jordyn,HAZELITT,J.HAZELITT,,,USA,F,16 years-old,(3 April 2010),-,-,-,https://images.prismic.io/fft-rg-site/ahroAgeQX7-eWc3A_20260530_PJ_HazelittJordyn_US.png,/en-us/players/56769-j.hazelitt
-13677,Harri,HELIOVAARA,H.HELIOVAARA,,4,FIN,M,36 years-old,(4 June 1989),Right,-,-,https://images.prismic.io/fft-rg-site/ahipzrK9tuLqEPPY_20260528_PJ_HeliovaaraHarri_US.png,/en-us/players/13677-h.heliovaara
+13677,Harri,HELIOVAARA,H.HELIOVAARA,,4,FIN,M,37 years-old,(4 June 1989),Right,-,-,https://images.prismic.io/fft-rg-site/ahipzrK9tuLqEPPY_20260528_PJ_HeliovaaraHarri_US.png,/en-us/players/13677-h.heliovaara
 54921,Tereza,HERMANOVA,T.HERMANOVA,,,CZE,F,16 years-old,(27 June 2009),-,-,-,https://images.prismic.io/fft-rg-site/ahxSNweQX7-eWdSG_20260530_PJ_HermanovaTereza_US.png,/en-us/players/54921-t.hermanova
 53156,Sofie,HETTLEROVA,S.HETTLEROVA,,,CZE,F,17 years-old,(21 March 2009),-,-,-,https://images.prismic.io/fft-rg-site/ahxSgweQX7-eWdST_20260530_PJ_HettlerovaSofie_US.png,/en-us/players/53156-s.hettlerova
 20471,Diego,HIDALGO,D.HIDALGO,,74,ECU,M,33 years-old,(18 April 1993),Left,-,-,https://images.prismic.io/fft-rg-site/aDV4tSdWJ-7kSkPA_20471_G.png,/en-us/players/20471-d.hidalgo
