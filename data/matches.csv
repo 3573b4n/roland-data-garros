@@ -124,7 +124,7 @@ SM005,SM,Men's Singles,5,Quarterfinals,FINISHED,Completed,Court Philippe-Chatrie
 SM006,SM,Men's Singles,5,Quarterfinals,FINISHED,Completed,Court Philippe-Chatrier,20260602,164,True,"6-4, 6-3, 7-6(7)",,47921,J.MENSIK,27,CZE,26,,True,3,48336,J.FONSECA,30,BRA,28,,False,3
 SM007,SM,Men's Singles,5,Quarterfinals,FINISHED,Completed,Court Philippe-Chatrier,20260602,145,False,"6-7(3), 1-6, 3-6",,49822,R.JODAR,29,ESP,27,,False,3,30350,A.ZVEREV,3,GER,2,,True,3
 SM002,SM,Men's Singles,6,Semifinals,NOT_STARTED,Upcoming,,20260602,,,,,43964,M.ARNALDI,104,ITA,,,,0,42928,F.COBOLLI,14,ITA,10,,,0
-SM003,SM,Men's Singles,6,Semifinals,NOT_STARTED,Upcoming,,20260602,,,,,47921,J.MENSIK,27,CZE,26,,,0,30350,A.ZVEREV,3,GER,2,,,0
+SM003,SM,Men's Singles,6,Semifinals,IN_PROGRESS,Live,,20260602,,,"5-7, 0-0*",,47921,J.MENSIK,27,CZE,26,,,2,30350,A.ZVEREV,3,GER,2,,,2
 SM001,SM,Men's Singles,7,Final,NOT_STARTED,Upcoming,,20260602,,,,,,,,,,,,0,,,,,,,,0
 SD064,SD,Women's Singles,1,First Round,FINISHED,Completed,Court Philippe-Chatrier,20260526,75,False,"6-4, 6-2",,33249,A.SABALENKA,1,---,1,,True,2,44201,J.BOUZAS MANEIRO,50,ESP,,,False,2
 SD065,SD,Women's Singles,1,First Round,FINISHED,Completed,Court 7,20260526,112,False,"4-6, 3-6",,45668,L.FRUHVIRTOVA,149,CZE,,Q,False,2,43689,E.JACQUEMOT,67,FRA,,,True,2
