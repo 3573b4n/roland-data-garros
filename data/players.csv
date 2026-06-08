@@ -234,7 +234,7 @@ player_id,first_name,last_name,short_name,ranking,ranking_double,country,sex,age
 40621,Francesca,JONES,F.JONES,98,,GBR,F,25 years-old,(19 September 2000),Right,-,-,https://images.prismic.io/fft-rg-site/aeuB88BOoF08xSLJ_20260228_PJ_JonesFrancesca_US.png,/en-us/players/40621-f.jones
 46560,Luca,VAN ASSCHE,L.VAN ASSCHE,98,,FRA,M,22 years-old,(11 May 2004),Right,-,-,https://images.prismic.io/fft-rg-site/aeoo9cBOoF08xQGD_20260118_PJ_VanAsscheLuca_US.png,/en-us/players/46560-l.van-assche
 38581,Emiliana,ARANGO,E.ARANGO,99,258,COL,F,25 years-old,(28 November 2000),Right,-,-,https://images.prismic.io/fft-rg-site/245abf06-0851-498a-a4a5-cee2ac6ac7a2_20240305_PJ_ArangoEmiliana_US.png,/en-us/players/38581-e.arango
-33416,Benjamin,BONZI,B.BONZI,99,233,FRA,M,29 years-old,(9 June 1996),Right,-,-,https://images.prismic.io/fft-rg-site/d3643bf5-25af-4c5e-9cbd-56cbd530dbba_20220308_PJ_BonziBenjamin_US.png,/en-us/players/33416-b.bonzi
+33416,Benjamin,BONZI,B.BONZI,99,233,FRA,M,30 years-old,(9 June 1996),Right,-,-,https://images.prismic.io/fft-rg-site/d3643bf5-25af-4c5e-9cbd-56cbd530dbba_20220308_PJ_BonziBenjamin_US.png,/en-us/players/33416-b.bonzi
 32829,Aleksandar,VUKIC,A.VUKIC,100,,AUS,M,30 years-old,(6 April 1996),Right,-,-,https://images.prismic.io/fft-rg-site/588abedb-cd6a-417d-ac49-d35eec21a948_20240111_PJ_VukicAleksandar_US.png,/en-us/players/32829-a.vukic
 38639,Xiyu,WANG,X.WANG,100,,CHN,F,25 years-old,(28 March 2001),Left,-,-,https://images.prismic.io/fft-rg-site/aCoFJidWJ-7kSQuI_38639_G.png,/en-us/players/38639-x.wang
 42557,Katie,VOLYNETS,K.VOLYNETS,101,,USA,F,24 years-old,(31 December 2001),Right,-,-,https://images.prismic.io/fft-rg-site/aetagMBOoF08xRzJ_20260228_PJ_VolynetsKatie_US.png,/en-us/players/42557-k.volynets
@@ -815,7 +815,7 @@ player_id,first_name,last_name,short_name,ranking,ranking_double,country,sex,age
 57551,Mario,VUKOVIC,M.VUKOVIC,,,FRA,M,-,,-,-,-,,/en-us/players/57551-m.vukovic
 50349,Mark,WALLNER,M.WALLNER,,35,GER,M,26 years-old,(20 July 1999),Right,-,-,https://images.prismic.io/fft-rg-site/aDlefSdWJ-7kSuCM_50349_G.png,/en-us/players/50349-m.wallner
 56695,Kanta,WATANABE,K.WATANABE,,,JPN,M,17 years-old,(31 March 2009),-,-,-,https://images.prismic.io/fft-rg-site/ahxtZQeQX7-eWdYN_20260530_PJ_WatanabeKanta_US.png,/en-us/players/56695-k.watanabe
-50351,James,WATT,J.WATT,,86,NZL,M,25 years-old,(9 June 2000),Right,-,-,,/en-us/players/50351-j.watt
+50351,James,WATT,J.WATT,,86,NZL,M,26 years-old,(9 June 2000),Right,-,-,,/en-us/players/50351-j.watt
 53115,Zhang-Qian,WEI,ZQ.WEI,,,CHN,F,18 years-old,(30 January 2008),-,-,-,,/en-us/players/53115-zq.wei
 185,Mats,WILANDER,M.WILANDER,,,SWE,M,-,,-,-,-,https://images.prismic.io/fft-rg-site/6a409052-0d8e-402d-a6c9-0052986e6ce9_19830605_PJ_WillanderMats_US.png,/en-us/players/185-m.wilander
 19622,Marcus,WILLIS,M.WILLIS,,75,GBR,M,35 years-old,(9 October 1990),Left,-,-,https://images.prismic.io/fft-rg-site/ahin4bK9tuLqEPO4_20260528_PJ_WillisMarcus_US.png,/en-us/players/19622-m.willis
