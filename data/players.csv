@@ -201,7 +201,7 @@ player_id,first_name,last_name,short_name,ranking,ranking_double,country,sex,age
 35854,Sofia,KENIN,S.KENIN,103,34,USA,F,27 years-old,(14 November 1998),Right,-,-,https://images.prismic.io/fft-rg-site/aetakcBOoF08xRza_20260303_PJ_KeninSofia_US.png,/en-us/players/35854-s.kenin
 37726,Sho,SHIMABUKURO,S.SHIMABUKURO,104,,JPN,M,28 years-old,(30 July 1997),Right,-,-,https://images.prismic.io/fft-rg-site/aghjuKYofJOwHSt0_20260514_PJ_ShimabukuroSho_US.png,/en-us/players/37726-s.shimabukuro
 33614,Anna,BLINKOVA,A.BLINKOVA,105,246,---,F,27 years-old,(10 September 1998),Right,-,-,https://images.prismic.io/fft-rg-site/aa83fef0-4d54-410c-85e0-7f299cacc07b_20240305_PJ_BlinkovaAnna_US.png,/en-us/players/33614-a.blinkova
-31662,Jan,CHOINSKI,J.CHOINSKI,105,,GBR,M,29 years-old,(10 June 1996),Right,-,-,https://images.prismic.io/fft-rg-site/aCn5eidWJ-7kSQrp_31662_G.png,/en-us/players/31662-j.choinski
+31662,Jan,CHOINSKI,J.CHOINSKI,105,,GBR,M,30 years-old,(10 June 1996),Right,-,-,https://images.prismic.io/fft-rg-site/aCn5eidWJ-7kSQrp_31662_G.png,/en-us/players/31662-j.choinski
 41202,Rinky,HIJIKATA,R.HIJIKATA,106,64,AUS,M,25 years-old,(23 February 2001),Right,-,-,https://images.prismic.io/fft-rg-site/aeoo38BOoF08xQFr_20260118_PJ_HijikataRinky_US.png,/en-us/players/41202-r.hijikata
 18274,Karolina,PLISKOVA,Ka.PLISKOVA,106,,CZE,F,34 years-old,(21 March 1992),Right,-,-,https://images.prismic.io/fft-rg-site/14a0938d-0c4e-41dd-b448-c8f66d31e88a_20240305_PJ_PliskovaKarolina_US.png,/en-us/players/18274-ka.pliskova
 49363,Kaitlin,QUEVEDO,K.QUEVEDO,107,,ESP,F,20 years-old,(13 February 2006),Right,-,-,https://images.prismic.io/fft-rg-site/agh-dqYofJOwHSz__20260515_PJ_QuevedoKaitlin_US.png,/en-us/players/49363-k.quevedo
@@ -350,7 +350,7 @@ player_id,first_name,last_name,short_name,ranking,ranking_double,country,sex,age
 28346,Storm,HUNTER,S.HUNTER,187,19,AUS,F,31 years-old,(11 August 1994),Left,-,-,https://images.prismic.io/fft-rg-site/aDQYiCdWJ-7kSiHw_28346_G.png,/en-us/players/28346-s.hunter
 42590,Yeonwoo,KU,Y.KU,188,440,KOR,F,23 years-old,(15 March 2003),-,-,-,https://images.prismic.io/fft-rg-site/agnQU6YofJOwHTSP_20260517_PJ_KuYeonwoo_US.png,/en-us/players/42590-y.ku
 17690,Bernard,TOMIC,B.TOMIC,188,491,AUS,M,33 years-old,(21 October 1992),Right,-,-,https://images.prismic.io/fft-rg-site/aCnjmydWJ-7kSQne_17690_G.png,/en-us/players/17690-b.tomic
-38708,Ye-Xin,MA,YX.MA,189,,CHN,F,26 years-old,(10 June 1999),Right,-,-,https://images.prismic.io/fft-rg-site/Zkr0gCol0Zci9RgP_Ye-XinMa.png,/en-us/players/38708-yx.ma
+38708,Ye-Xin,MA,YX.MA,189,,CHN,F,27 years-old,(10 June 1999),Right,-,-,https://images.prismic.io/fft-rg-site/Zkr0gCol0Zci9RgP_Ye-XinMa.png,/en-us/players/38708-yx.ma
 30798,Jessika,PONCHET,J.PONCHET,190,205,FRA,F,29 years-old,(26 September 1996),Right,-,-,https://images.prismic.io/fft-rg-site/agh7nKYofJOwHSy6_20260515_PJ_PonchetJessika_US.png,/en-us/players/30798-j.ponchet
 40451,Clement,TABUR,C.TABUR,190,,FRA,M,26 years-old,(24 January 2000),Right,-,-,https://images.prismic.io/fft-rg-site/ZkrwSSol0Zci9Rem_40451_G.png,/en-us/players/40451-c.tabur
 26219,Roberto,CARBALLES BAENA,R.CARBALLES BAENA,191,,ESP,M,33 years-old,(23 March 1993),Right,-,-,https://images.prismic.io/fft-rg-site/aghjrKYofJOwHSto_20260514_PJ_CarballesBaenaRoberto_US.png,/en-us/players/26219-r.carballes-baena
@@ -526,7 +526,7 @@ player_id,first_name,last_name,short_name,ranking,ranking_double,country,sex,age
 53339,Matei Victor,CHELEMEN,MV.CHELEMEN,,,ROU,M,16 years-old,(16 October 2009),-,-,-,https://images.prismic.io/fft-rg-site/ahxDggeQX7-eWdP3_20260530_PJ_ChelemenMateiVictor_US.png,/en-us/players/53339-mv.chelemen
 53007,Kuan-Shou,CHEN,KS.CHEN,,,TPE,M,18 years-old,(26 April 2008),Left,-,-,https://images.prismic.io/fft-rg-site/ahrn_QeQX7-eWc27_20260530_PJ_ChenKuanShou_US.png,/en-us/players/53007-ks.chen
 30452,Eudice,CHONG,E.CHONG,,61,HKG,F,30 years-old,(22 April 1996),Right,-,-,,/en-us/players/30452-e.chong
-50494,Luna Maria,CINALLI,LM.CINALLI,,,ARG,F,17 years-old,(10 June 2008),-,-,-,https://images.prismic.io/fft-rg-site/aDxM6rh8WN-LVdEw_50494_G.png,/en-us/players/50494-lm.cinalli
+50494,Luna Maria,CINALLI,LM.CINALLI,,,ARG,F,18 years-old,(10 June 2008),-,-,-,https://images.prismic.io/fft-rg-site/aDxM6rh8WN-LVdEw_50494_G.png,/en-us/players/50494-lm.cinalli
 53348,Raffaele,CIURNELLI,R.CIURNELLI,,,ITA,M,18 years-old,(4 March 2008),Left,-,-,https://images.prismic.io/fft-rg-site/ahrn_geQX7-eWc28_20260530_PJ_CiurnelliRaffaele_US.png,/en-us/players/53348-r.ciurnelli
 54127,Chukwumelije,CLARKE,C.CLARKE,,,USA,F,16 years-old,(14 August 2009),-,-,-,https://images.prismic.io/fft-rg-site/ahwWWgeQX7-eWdLu_20260530_PJ_ClarkeChukwumelije_US.png,/en-us/players/54127-c.clarke
 706,Arnaud,CLEMENT,A.CLEMENT,,,FRA,M,-,,-,-,-,https://images.prismic.io/fft-rg-site/03fb435e-9416-4c8e-821d-03c14cb85b73_20220530_PJ_ClementArnaud_US.png,/en-us/players/706-a.clement
@@ -663,7 +663,7 @@ player_id,first_name,last_name,short_name,ranking,ranking_double,country,sex,age
 54861,Ha Eum,LEE,HE.LEE,,,KOR,F,17 years-old,(24 June 2008),-,-,-,https://images.prismic.io/fft-rg-site/ahxZWAeQX7-eWdVL_20260530_PJ_LeeHaEum_US.png,/en-us/players/54861-he.lee
 52956,Nauhany Vitoria,LEME DA SILVA,NV.LEME DA SILVA,,,BRA,F,16 years-old,(13 March 2010),-,-,-,https://images.prismic.io/fft-rg-site/ahxZlAeQX7-eWdVR_20260530_PJ_LemeDaSilvaNauhanyVitoria_US.png,/en-us/players/52956-nv.leme-da-silva
 52786,Xiaohui,LI,X.LI,,,CHN,F,26 years-old,(28 September 1999),-,-,-,https://images.prismic.io/fft-rg-site/ah1b9QeQX7-eWeqP_20260531_PJ_LiXiaohui_US.png,/en-us/players/52786-x.li
-56201,Yu Jun,LIN,YJ.LIN,,,CHN,F,15 years-old,(10 June 2010),-,-,-,https://images.prismic.io/fft-rg-site/ahxaegeQX7-eWdVV_20260530_PJ_LinYuJun_US.png,/en-us/players/56201-yj.lin
+56201,Yu Jun,LIN,YJ.LIN,,,CHN,F,16 years-old,(10 June 2010),-,-,-,https://images.prismic.io/fft-rg-site/ahxaegeQX7-eWdVV_20260530_PJ_LinYuJun_US.png,/en-us/players/56201-yj.lin
 53145,Yu-Chen,LIN,YC.LIN,,,TPE,F,16 years-old,(29 July 2009),-,-,-,https://images.prismic.io/fft-rg-site/ahxZ4QeQX7-eWdVS_20260530_PJ_LinYuChen_US.png,/en-us/players/53145-yc.lin
 53631,Ferdinand,LIVET NOVKIRICHKA,F.LIVET NOVKIRICHKA,,,FRA,M,18 years-old,(28 March 2008),Left,-,-,https://images.prismic.io/fft-rg-site/ahxa1QeQX7-eWdVb_20260530_PJ_LivetNovkirichkaFerdinand_US.png,/en-us/players/53631-f.livet-novkirichka
 53157,Anastasia,LIZUNOVA,A.LIZUNOVA,,,---,F,17 years-old,(18 November 2008),-,-,-,,/en-us/players/53157-a.lizunova
@@ -787,7 +787,7 @@ player_id,first_name,last_name,short_name,ranking,ranking_double,country,sex,age
 26498,Aldila,SUTJIADI,A.SUTJIADI,,47,INA,F,31 years-old,(2 May 1995),Right,-,-,https://images.prismic.io/fft-rg-site/34393b5d-63ac-459a-9403-e67d4389d2c7_Sutjiadi.png,/en-us/players/26498-a.sutjiadi
 53038,Ryo,TABATA,R.TABATA,,,JPN,M,18 years-old,(6 January 2008),Right,-,-,https://images.prismic.io/fft-rg-site/ahxryAeQX7-eWdYC_20260530_PJ_TabataRio_US.png,/en-us/players/53038-r.tabata
 47751,Saki,TAKAMURO,S.TAKAMURO,,,JPN,F,31 years-old,(2 January 1995),-,-,-,https://images.prismic.io/fft-rg-site/aD6psrh8WN-LVgm6_47751_G.png,/en-us/players/47751-s.takamuro
-45947,Manami,TANAKA,M.TANAKA,,,JPN,F,29 years-old,(10 June 1996),-,-,-,https://images.prismic.io/fft-rg-site/ah1eBgeQX7-eWerf_20260531_PJ_TanakaManami_US.png,/en-us/players/45947-m.tanaka
+45947,Manami,TANAKA,M.TANAKA,,,JPN,F,30 years-old,(10 June 1996),-,-,-,https://images.prismic.io/fft-rg-site/ah1eBgeQX7-eWerf_20260531_PJ_TanakaManami_US.png,/en-us/players/45947-m.tanaka
 38290,Qianhui,TANG,Q.TANG,,67,CHN,F,25 years-old,(10 September 2000),Right,-,-,https://images.prismic.io/fft-rg-site/ahW3V7K9tuLqEKCl_20260526_PJ_TangQuianhui_US.png,/en-us/players/38290-q.tang
 54863,Alisa,TERENTYEVA,A.TERENTYEVA,,,---,F,15 years-old,(9 July 2010),-,-,-,,/en-us/players/54863-a.terentyeva
 52676,Mariella,THAMM,M.THAMM,,,GER,F,16 years-old,(21 August 2009),-,-,-,https://images.prismic.io/fft-rg-site/aDxzQLh8WN-LVdM1_52676_G.png,/en-us/players/52676-m.thamm
