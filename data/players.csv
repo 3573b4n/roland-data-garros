@@ -363,7 +363,7 @@ player_id,first_name,last_name,short_name,ranking,ranking_double,country,sex,age
 40800,Francisca,JORGE,F.JORGE,196,186,POR,F,26 years-old,(21 April 2000),Right,-,-,https://images.prismic.io/fft-rg-site/ZkpwBiol0Zci9RM6_20240518_PJ_JorgeFrancisca_US.png,/en-us/players/40800-f.jorge
 44577,Alex,BARRENA,A.BARRENA,197,,ARG,M,23 years-old,(10 October 2002),Right,-,-,https://images.prismic.io/fft-rg-site/aghjqaYofJOwHStl_20260514_PJ_BarrenaAlex_US.png,/en-us/players/44577-a.barrena
 51129,Matej,DODIG,M.DODIG,199,,CRO,M,20 years-old,(19 July 2005),Right,-,-,https://images.prismic.io/fft-rg-site/agyJl6YofJOwHYoC_20260519_PJ_DodigMatej_US.png,/en-us/players/51129-m.dodig
-41006,Clement,CHIDEKH,C.CHIDEKH,200,216,FRA,M,24 years-old,(13 June 2001),Right,-,-,https://images.prismic.io/fft-rg-site/agiPMqYofJOwHS2f_20260516_PJ_ChidekhClement_US.png,/en-us/players/41006-c.chidekh
+41006,Clement,CHIDEKH,C.CHIDEKH,200,216,FRA,M,25 years-old,(13 June 2001),Right,-,-,https://images.prismic.io/fft-rg-site/agiPMqYofJOwHS2f_20260516_PJ_ChidekhClement_US.png,/en-us/players/41006-c.chidekh
 44144,Jerome,KYM,J.KYM,201,,SUI,M,23 years-old,(12 February 2003),Right,-,-,https://images.prismic.io/fft-rg-site/agh-i6YofJOwHS0T_20260516_PJ_KymJerome_US.png,/en-us/players/44144-j.kym
 33271,Iryna,SHYMANOVICH,I.SHYMANOVICH,201,71,---,F,28 years-old,(30 June 1997),Right,-,-,https://images.prismic.io/fft-rg-site/Zkpttiol0Zci9RMj_20240518_PJ_ShymanovichIryna_US.png,/en-us/players/33271-i.shymanovich
 31313,Greet,MINNEN,G.MINNEN,202,,BEL,F,28 years-old,(14 August 1997),Right,-,-,https://images.prismic.io/fft-rg-site/ZkpcUyol0Zci9RJT_20240516_PJ_MinnenGreet_US.png,/en-us/players/31313-g.minnen
@@ -643,7 +643,7 @@ player_id,first_name,last_name,short_name,ranking,ranking_double,country,sex,age
 54267,Yui,KOMADA,Y.KOMADA,,,JPN,F,15 years-old,(15 June 2010),-,-,-,https://images.prismic.io/fft-rg-site/ahroAweQX7-eWc3B_20260530_PJ_KomadaYui_US.png,/en-us/players/54267-y.komada
 55368,Tanishk,KONDURI,T.KONDURI,,,USA,M,17 years-old,(3 March 2009),Left,-,-,https://images.prismic.io/fft-rg-site/ahxXDgeQX7-eWdTM_20260530_PJ_KonduriTanishk_US.png,/en-us/players/55368-t.konduri
 54760,Kaan Isik,KOSANER,KI.KOSANER,,,TUR,M,17 years-old,(2 June 2009),Left,-,-,,/en-us/players/54760-ki.kosaner
-54273,Jana,KOVACKOVA,J.KOVACKOVA,,388,CZE,F,15 years-old,(13 June 2010),-,-,-,https://images.prismic.io/fft-rg-site/ahxXZweQX7-eWdTN_20260530_PJ_KovackovaJana_US.png,/en-us/players/54273-j.kovackova
+54273,Jana,KOVACKOVA,J.KOVACKOVA,,388,CZE,F,16 years-old,(13 June 2010),-,-,-,https://images.prismic.io/fft-rg-site/ahxXZweQX7-eWdTN_20260530_PJ_KovackovaJana_US.png,/en-us/players/54273-j.kovackova
 25890,Danka,KOVINIC,D.KOVINIC,,,MNE,F,31 years-old,(18 November 1994),Right,-,-,https://images.prismic.io/fft-rg-site/50923182-d4f9-4d89-aae6-58b5ebef72cf_20170525_PJ_KovinicDanka_US.png,/en-us/players/25890-d.kovinic
 40654,Mariia,KOZYREVA,M.KOZYREVA,,59,---,F,27 years-old,(22 May 1999),Right,-,-,https://images.prismic.io/fft-rg-site/ahA_krK9tuLqEEtz_20260522_PJ_KozyrevaMariia_US.png,/en-us/players/40654-m.kozyreva
 19021,Austin,KRAJICEK,A.KRAJICEK,,37,USA,M,35 years-old,(16 June 1990),Left,-,-,https://images.prismic.io/fft-rg-site/f7d81b72-9dfd-40ba-8775-3d0d3466565a_20240113_PJ_KrajicekAustin_US.png,/en-us/players/19021-a.krajicek
