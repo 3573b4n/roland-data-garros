@@ -349,7 +349,7 @@ player_id,first_name,last_name,short_name,ranking,ranking_double,country,sex,age
 42560,Qinwen,ZHENG,Q.ZHENG,160,,CHN,F,23 years-old,(8 October 2002),Right,-,-,https://images.prismic.io/fft-rg-site/5ee917df-b017-4181-b733-e37daac1cd7c_20240303_PJ_QinwenZheng_US.png,/en-us/players/42560-q.zheng
 33462,Lloyd,HARRIS,L.HARRIS,161,,RSA,M,29 years-old,(24 February 1997),Right,-,-,https://images.prismic.io/fft-rg-site/aghuW6YofJOwHSvu_20260515_PJ_HarrisLloyd_US.png,/en-us/players/33462-l.harris
 45668,Linda,FRUHVIRTOVA,L.FRUHVIRTOVA,162,,CZE,F,21 years-old,(1 May 2005),Right,-,-,https://images.prismic.io/fft-rg-site/046a70f8-0e37-4f9f-88c4-c26fcd0699e3_20240305_PJ_FurhvirtovaLinda_US.png,/en-us/players/45668-l.fruhvirtova
-24660,Hugo,DELLIEN,H.DELLIEN,163,,BOL,M,32 years-old,(16 June 1993),Right,-,-,https://images.prismic.io/fft-rg-site/aDQSmCdWJ-7kSiC__24660_G.png,/en-us/players/24660-h.dellien
+24660,Hugo,DELLIEN,H.DELLIEN,163,,BOL,M,33 years-old,(16 June 1993),Right,-,-,https://images.prismic.io/fft-rg-site/aDQSmCdWJ-7kSiC__24660_G.png,/en-us/players/24660-h.dellien
 36596,Lucrezia,STEFANINI,L.STEFANINI,163,,ITA,F,28 years-old,(15 May 1998),Right,-,-,https://images.prismic.io/fft-rg-site/agh-faYofJOwHS0G_20260515_PJ_StefaniniLucrezia_US.png,/en-us/players/36596-l.stefanini
 40829,Nicolas,MEJIA,N.MEJIA,164,,COL,M,26 years-old,(11 February 2000),Right,-,-,https://images.prismic.io/fft-rg-site/aghxBKYofJOwHSxI_20260515_PJ_MejiaNicolas_US.png,/en-us/players/40829-n.mejia
 40702,Elizabeth,MANDLIK,E.MANDLIK,165,,USA,F,25 years-old,(19 May 2001),Right,-,-,https://images.prismic.io/fft-rg-site/aetaecBOoF08xRzC_20260228_PJ_MandlikElizabeth_US.png,/en-us/players/40702-e.mandlik
@@ -377,7 +377,7 @@ player_id,first_name,last_name,short_name,ranking,ranking_double,country,sex,age
 51052,Akasha,URHOBO,A.URHOBO,176,,USA,F,19 years-old,(19 January 2007),Right,-,-,,/en-us/players/51052-a.urhobo
 17152,Arantxa,RUS,A.RUS,177,146,NED,F,35 years-old,(13 December 1990),Left,-,-,https://images.prismic.io/fft-rg-site/bf8841bf-b4ac-493b-b6ae-c1f6fcfdaf4a_20240305_PJ_RusArantxa_US.png,/en-us/players/17152-a.rus
 47220,Colton,SMITH,C.SMITH,177,,USA,M,23 years-old,(5 March 2003),Right,-,-,https://images.prismic.io/fft-rg-site/agrRcKYofJOwHULP_20260518_PJ_SmithColton_US.png,/en-us/players/47220-c.smith
-38570,Bianca,ANDREESCU,B.ANDREESCU,178,220,CAN,F,25 years-old,(16 June 2000),Right,-,-,https://images.prismic.io/fft-rg-site/e9ec33af-150e-4574-b0a4-32fbc31642db_20200120_PJ_AndreescuBianca_US.png,/en-us/players/38570-b.andreescu
+38570,Bianca,ANDREESCU,B.ANDREESCU,178,220,CAN,F,26 years-old,(16 June 2000),Right,-,-,https://images.prismic.io/fft-rg-site/e9ec33af-150e-4574-b0a4-32fbc31642db_20200120_PJ_AndreescuBianca_US.png,/en-us/players/38570-b.andreescu
 40173,Guiomar,MARISTANY ZULETA DE REALES,G.MARISTANY ZULETA DE REALES,179,,ESP,F,27 years-old,(19 February 1999),Right,-,-,https://images.prismic.io/fft-rg-site/aghxA6YofJOwHSxH_20260515_PJ_MaristanyZuletaDeRealesGuiomar_US.png,/en-us/players/40173-g.maristany-zuleta-de-reales
 44023,Chris,RODESCH,C.RODESCH,179,,LUX,M,24 years-old,(18 July 2001),Right,-,-,https://images.prismic.io/fft-rg-site/aCnNgSdWJ-7kSQkj_44023_G.png,/en-us/players/44023-c.rodesch
 45720,Julia,RIERA,J.RIERA,180,310,ARG,F,24 years-old,(29 May 2002),Right,-,-,https://images.prismic.io/fft-rg-site/aCoUkidWJ-7kSQwh_45720_G.png,/en-us/players/45720-j.riera
@@ -477,7 +477,7 @@ player_id,first_name,last_name,short_name,ranking,ranking_double,country,sex,age
 38594,Katarina,ZAVATSKA,K.ZAVATSKA,252,,UKR,F,26 years-old,(5 February 2000),Right,-,-,https://images.prismic.io/fft-rg-site/ZkpvWSol0Zci9RM1_20240517_PJ_ZavatskaKatarina_US.png,/en-us/players/38594-k.zavatska
 50382,Yi,ZHOU,Y.ZHOU,253,,CHN,M,21 years-old,(14 March 2005),Right,-,-,https://images.prismic.io/fft-rg-site/f309e1da-3107-488d-8b07-13f11286065a_Zhou.png,/en-us/players/50382-y.zhou
 23461,Kaichi,UCHIDA,K.UCHIDA,254,,JPN,M,31 years-old,(23 August 1994),Right,-,-,https://images.prismic.io/fft-rg-site/0a29de2f-7926-474f-bd22-0c14f1291049_Uchida.png,/en-us/players/23461-k.uchida
-40500,Florent,BAX,F.BAX,256,,FRA,M,26 years-old,(16 June 1999),Right,-,-,https://images.prismic.io/fft-rg-site/agn09aYofJOwHTXa_20260517_PJ_BaxFlorent_US.png,/en-us/players/40500-f.bax
+40500,Florent,BAX,F.BAX,256,,FRA,M,27 years-old,(16 June 1999),Right,-,-,https://images.prismic.io/fft-rg-site/agn09aYofJOwHTXa_20260517_PJ_BaxFlorent_US.png,/en-us/players/40500-f.bax
 36490,Xinyu,GAO,X.GAO,256,,CHN,F,28 years-old,(21 November 1997),Right,-,-,https://images.prismic.io/fft-rg-site/ZkrqMiol0Zci9Rc9_20240517_PJ_GaoXinyu_US.png,/en-us/players/36490-x.gao
 37982,Miriam,BULGARU,M.BULGARU,258,,ROU,F,27 years-old,(8 October 1998),Right,-,-,https://images.prismic.io/fft-rg-site/agh-gqYofJOwHS0L_20260516_PJ_BulgaruMiriam_US.png,/en-us/players/37982-m.bulgaru
 9525,Gael,MONFILS,G.MONFILS,259,,FRA,M,39 years-old,(1 September 1986),Right,-,-,https://images.prismic.io/fft-rg-site/d6287cdb-9a2d-418a-97ae-d67ce1fefc6a_20240112_PJ_MonfilsGael_US.png,/en-us/players/9525-g.monfils
@@ -669,7 +669,7 @@ player_id,first_name,last_name,short_name,ranking,ranking_double,country,sex,age
 54273,Jana,KOVACKOVA,J.KOVACKOVA,,284,CZE,F,16 years-old,(13 June 2010),-,-,-,https://images.prismic.io/fft-rg-site/ahxXZweQX7-eWdTN_20260530_PJ_KovackovaJana_US.png,/en-us/players/54273-j.kovackova
 25890,Danka,KOVINIC,D.KOVINIC,,,MNE,F,31 years-old,(18 November 1994),Right,-,-,https://images.prismic.io/fft-rg-site/50923182-d4f9-4d89-aae6-58b5ebef72cf_20170525_PJ_KovinicDanka_US.png,/en-us/players/25890-d.kovinic
 40654,Mariia,KOZYREVA,M.KOZYREVA,,63,---,F,27 years-old,(22 May 1999),Right,-,-,https://images.prismic.io/fft-rg-site/ahA_krK9tuLqEEtz_20260522_PJ_KozyrevaMariia_US.png,/en-us/players/40654-m.kozyreva
-19021,Austin,KRAJICEK,A.KRAJICEK,,42,USA,M,35 years-old,(16 June 1990),Left,-,-,https://images.prismic.io/fft-rg-site/f7d81b72-9dfd-40ba-8775-3d0d3466565a_20240113_PJ_KrajicekAustin_US.png,/en-us/players/19021-a.krajicek
+19021,Austin,KRAJICEK,A.KRAJICEK,,42,USA,M,36 years-old,(16 June 1990),Left,-,-,https://images.prismic.io/fft-rg-site/f7d81b72-9dfd-40ba-8775-3d0d3466565a_20240113_PJ_KrajicekAustin_US.png,/en-us/players/19021-a.krajicek
 25892,Desirae,KRAWCZYK,D.KRAWCZYK,,27,USA,F,32 years-old,(11 January 1994),Left,-,-,https://images.prismic.io/fft-rg-site/aDQaEydWJ-7kSiJD_25892_G.png,/en-us/players/25892-d.krawczyk
 21648,Kevin,KRAWIETZ,K.KRAWIETZ,,10,GER,M,34 years-old,(24 January 1992),Right,-,-,https://images.prismic.io/fft-rg-site/16ba3976-7b84-4384-8605-17b280a6f254_20240112_PJ_KrawietzKevin_US.png,/en-us/players/21648-k.krawietz
 21835,Aleksandra,KRUNIC,A.KRUNIC,,5,SRB,F,33 years-old,(15 March 1993),Right,-,-,https://images.prismic.io/fft-rg-site/d56b2ce6-b997-41fb-89e6-5d2cea2b27ec_20180523_PJ_KrunicAleksandra_US.png,/en-us/players/21835-a.krunic
@@ -796,7 +796,7 @@ player_id,first_name,last_name,short_name,ranking,ranking_double,country,sex,age
 38290,Qianhui,TANG,Q.TANG,,67,CHN,F,25 years-old,(10 September 2000),Right,-,-,https://images.prismic.io/fft-rg-site/ahW3V7K9tuLqEKCl_20260526_PJ_TangQuianhui_US.png,/en-us/players/38290-q.tang
 54863,Alisa,TERENTYEVA,A.TERENTYEVA,,,---,F,15 years-old,(9 July 2010),-,-,-,,/en-us/players/54863-a.terentyeva
 52676,Mariella,THAMM,M.THAMM,,,GER,F,16 years-old,(21 August 2009),-,-,-,https://images.prismic.io/fft-rg-site/aDxzQLh8WN-LVdM1_52676_G.png,/en-us/players/52676-m.thamm
-38299,Karman,THANDI,K.THANDI,,,IND,F,27 years-old,(16 June 1998),-,-,-,https://images.prismic.io/fft-rg-site/agh-kKYofJOwHS0Y_20260516_PJ_ThandiKarman_US.png,/en-us/players/38299-k.thandi
+38299,Karman,THANDI,K.THANDI,,,IND,F,28 years-old,(16 June 1998),-,-,-,https://images.prismic.io/fft-rg-site/agh-kKYofJOwHS0Y_20260516_PJ_ThandiKarman_US.png,/en-us/players/38299-k.thandi
 54816,Christopher,THIES,C.THIES,,,GER,M,18 years-old,(22 February 2008),-,-,-,https://images.prismic.io/fft-rg-site/ahxsFQeQX7-eWdYF_20260530_PJ_ThiesChristopher_US.png,/en-us/players/54816-c.thies
 52074,Flynn,THOMAS,F.THOMAS,,,SUI,M,17 years-old,(9 July 2008),Left,-,-,https://images.prismic.io/fft-rg-site/aDwa3bh8WN-LVc0I_52074_G.png,/en-us/players/52074-f.thomas
 54775,Kai,THOMPSON,K.THOMPSON,,,HKG,M,17 years-old,(25 July 2008),Left,-,-,https://images.prismic.io/fft-rg-site/ahroDQeQX7-eWc3L_20260530_PJ_ThompsonKai_US.png,/en-us/players/54775-k.thompson
