@@ -10,7 +10,7 @@ player_id,first_name,last_name,short_name,ranking,ranking_double,country,sex,age
 42775,Alfie,HEWETT,A.HEWETT,2,1,GBR,M,28 years-old,(6 December 1997),-,-,-,https://images.prismic.io/fft-rg-site/ah8LRweQX7-eWkon_20260601_PJ_HewettAlfie_US.png,/en-us/players/42775-a.hewett
 52749,Alexander,LANTERMANN,A.LANTERMANN,2,,BEL,M,16 years-old,(13 July 2009),-,-,-,https://images.prismic.io/fft-rg-site/aiEijweQX7-eWt85_20260603_PJ_LantermannAlexandre_US.png,/en-us/players/52749-a.lantermann
 52776,Seira,MATSUOKA,S.MATSUOKA,2,,JPN,F,16 years-old,(13 January 2010),-,-,-,https://images.prismic.io/fft-rg-site/aiEi-AeQX7-eWt9K_20260603_PJ_MatsuokaSeira_US.png,/en-us/players/52776-s.matsuoka
-38569,Elena,RYBAKINA,E.RYBAKINA,2,393,KAZ,F,26 years-old,(17 June 1999),Right,-,-,https://images.prismic.io/fft-rg-site/aetaisBOoF08xRzT_20260302_PJ_RybakinaElena_US.png,/en-us/players/38569-e.rybakina
+38569,Elena,RYBAKINA,E.RYBAKINA,2,393,KAZ,F,27 years-old,(17 June 1999),Right,-,-,https://images.prismic.io/fft-rg-site/aetaisBOoF08xRzT_20260302_PJ_RybakinaElena_US.png,/en-us/players/38569-e.rybakina
 45954,Sam,SCHRODER,S.SCHRODER,2,8,NED,M,26 years-old,(25 September 1999),-,-,-,https://images.prismic.io/fft-rg-site/ah2fsgeQX7-eWfvK_20260601_PJ_SchroderSam_US.png,/en-us/players/45954-s.schroder
 47737,Martin,DE LA PUENTE,M.DE LA PUENTE,3,3,ESP,M,26 years-old,(22 June 1999),-,-,-,https://images.prismic.io/fft-rg-site/ah1Z-QeQX7-eWepd_20260531_PJ_DeLaPuenteMartin_US.png,/en-us/players/47737-m.de-la-puente
 52771,Lucy,HEALD,L.HEALD,3,,USA,F,16 years-old,(22 December 2009),-,-,-,https://images.prismic.io/fft-rg-site/aiEiJAeQX7-eWt83_20260603_PJ_HealdLucy_US.PNG,/en-us/players/52771-l.heald
@@ -54,7 +54,7 @@ player_id,first_name,last_name,short_name,ranking,ranking_double,country,sex,age
 35961,Karolina,MUCHOVA,K.MUCHOVA,10,161,CZE,F,29 years-old,(21 August 1996),Right,-,-,https://images.prismic.io/fft-rg-site/2ada83e7-832b-4023-b1f5-4d4fe5394585_20200311_PJ_MuchovaKarolina_US.png,/en-us/players/35961-k.muchova
 47740,Ruben,SPAARGAREN,R.SPAARGAREN,10,4,NED,M,27 years-old,(12 June 1999),-,-,-,https://images.prismic.io/fft-rg-site/ah2faAeQX7-eWfvD_20260601_PJ_SpaargarenRuben_US.png,/en-us/players/47740-r.spaargaren
 28865,Belinda,BENCIC,B.BENCIC,11,,SUI,F,29 years-old,(10 March 1997),Right,-,-,https://images.prismic.io/fft-rg-site/aetahcBOoF08xRzO_20260302_PJ_BencicBelinda_US.png,/en-us/players/28865-b.bencic
-29098,Alexander,BUBLIK,A.BUBLIK,11,374,KAZ,M,28 years-old,(17 June 1997),Right,-,-,https://images.prismic.io/fft-rg-site/aeoo1sBOoF08xQFf_20260118_PJ_BublikAlexander_US.png,/en-us/players/29098-a.bublik
+29098,Alexander,BUBLIK,A.BUBLIK,11,374,KAZ,M,29 years-old,(17 June 1997),Right,-,-,https://images.prismic.io/fft-rg-site/aeoo1sBOoF08xQFf_20260118_PJ_BublikAlexander_US.png,/en-us/players/29098-a.bublik
 47755,Daniel,CAVERZASCHI,D.CAVERZASCHI,11,5,ESP,M,32 years-old,(11 July 1993),-,-,-,https://images.prismic.io/fft-rg-site/ah1ZeweQX7-eWepK_20260531_PJ_CaverzaschiDaniel_US.png,/en-us/players/47755-d.caverzaschi
 47743,Zhenzhen,ZHU,Z.ZHU,11,1,CHN,F,37 years-old,(6 April 1989),-,-,-,https://images.prismic.io/fft-rg-site/ah1eXgeQX7-eWerv_20260531_PJ_ZhuZhenzhen_US.png,/en-us/players/47743-z.zhu
 21987,Jiske,GRIFFIOEN,J.GRIFFIOEN,12,20,NED,F,41 years-old,(17 April 1985),-,-,-,https://images.prismic.io/fft-rg-site/ah1akweQX7-eWepp_20260531_PJ_GriffioenJiske_US.png,/en-us/players/21987-j.griffioen
@@ -159,8 +159,8 @@ player_id,first_name,last_name,short_name,ranking,ranking_double,country,sex,age
 30238,Botic,VAN DE ZANDSCHULP,B.VAN DE ZANDSCHULP,56,255,NED,M,30 years-old,(4 October 1995),Right,-,-,https://images.prismic.io/fft-rg-site/aeooysBOoF08xQFR_20260117_PJ_VanDeZandschulpBotic_US.png,/en-us/players/30238-b.van-de-zandschulp
 40442,Sebastian,BAEZ,S.BAEZ,57,,ARG,M,25 years-old,(28 December 2000),Right,-,-,https://images.prismic.io/fft-rg-site/b9ad2a56-db89-4097-ac3e-e885e211d978_20240111_PJ_BaezSebastian_US.png,/en-us/players/40442-s.baez
 45694,Antonia,RUZIC,A.RUZIC,57,,CRO,F,23 years-old,(20 January 2003),Right,-,-,https://images.prismic.io/fft-rg-site/aetagsBOoF08xRzL_20260301_PJ_RuzicAntonia_US.png,/en-us/players/45694-a.ruzic
-47053,Solana,SIERRA,S.SIERRA,58,377,ARG,F,21 years-old,(17 June 2004),Right,-,-,https://images.prismic.io/fft-rg-site/aCoWKydWJ-7kSQxB_47053_G.png,/en-us/players/47053-s.sierra
-38437,Camilo,UGO CARABELLI,C.UGO CARABELLI,58,187,ARG,M,26 years-old,(17 June 1999),Right,-,-,https://images.prismic.io/fft-rg-site/aeoo9MBOoF08xQGC_20260118_PJ_UgoCarabelliCamilo_US.png,/en-us/players/38437-c.ugo-carabelli
+47053,Solana,SIERRA,S.SIERRA,58,377,ARG,F,22 years-old,(17 June 2004),Right,-,-,https://images.prismic.io/fft-rg-site/aCoWKydWJ-7kSQxB_47053_G.png,/en-us/players/47053-s.sierra
+38437,Camilo,UGO CARABELLI,C.UGO CARABELLI,58,187,ARG,M,27 years-old,(17 June 1999),Right,-,-,https://images.prismic.io/fft-rg-site/aeoo9MBOoF08xQGC_20260118_PJ_UgoCarabelliCamilo_US.png,/en-us/players/38437-c.ugo-carabelli
 22568,Yannick,HANFMANN,Y.HANFMANN,59,279,GER,M,34 years-old,(13 November 1991),Right,-,-,https://images.prismic.io/fft-rg-site/ahMrFrK9tuLqEGxW_20260524_PJ_HanfmannYannick_US.png,/en-us/players/22568-y.hanfmann
 42203,Yuliia,STARODUBTSEVA,Y.STARODUBTSEVA,59,444,UKR,F,26 years-old,(17 February 2000),Right,-,-,https://images.prismic.io/fft-rg-site/aetamcBOoF08xRzi_20260303_PJ_StarodubtsevaYulia_US.png,/en-us/players/42203-y.starodubtseva
 40849,Diane,PARRY,D.PARRY,60,,FRA,F,23 years-old,(1 September 2002),Right,-,-,https://images.prismic.io/fft-rg-site/ebc19f5b-c68d-4921-a90d-35629f04f687_20240304_PJ_ParryDiane_US.png,/en-us/players/40849-d.parry
