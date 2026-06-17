@@ -173,7 +173,7 @@ player_id,first_name,last_name,short_name,ranking,ranking_double,country,sex,age
 42566,Peyton,STEARNS,P.STEARNS,64,98,USA,F,24 years-old,(8 October 2001),Right,-,-,https://images.prismic.io/fft-rg-site/93841b3d-cdeb-465e-985e-e2df03358660_20240304_PJ_StearnsPeyton_US.png,/en-us/players/42566-p.stearns
 40622,Kamilla,RAKHIMOVA,K.RAKHIMOVA,65,73,UZB,F,24 years-old,(28 August 2001),Right,-,-,https://images.prismic.io/fft-rg-site/aDFbUidWJ-7kSgxh_40622_G.png,/en-us/players/40622-k.rakhimova
 35289,Lorenzo,SONEGO,L.SONEGO,65,95,ITA,M,31 years-old,(11 May 1995),Right,-,-,https://images.prismic.io/fft-rg-site/aeopBMBOoF08xQGX_20260119_PJ_SonegoLorenzo_US.png,/en-us/players/35289-l.sonego
-45842,Talia,GIBSON,T.GIBSON,66,112,AUS,F,21 years-old,(18 June 2004),Right,-,-,https://images.prismic.io/fft-rg-site/aCoU_ydWJ-7kSQwm_45842_G.png,/en-us/players/45842-t.gibson
+45842,Talia,GIBSON,T.GIBSON,66,112,AUS,F,22 years-old,(18 June 2004),Right,-,-,https://images.prismic.io/fft-rg-site/aCoU_ydWJ-7kSQwm_45842_G.png,/en-us/players/45842-t.gibson
 48134,Ethan,QUINN,E.QUINN,66,,USA,M,22 years-old,(12 March 2004),Right,-,-,https://images.prismic.io/fft-rg-site/aeooxcBOoF08xQFM_20260117_PJ_QuinnEthan_US.png,/en-us/players/48134-e.quinn
 45423,Hamad,MEDJEDOVIC,H.MEDJEDOVIC,67,,SRB,M,22 years-old,(18 July 2003),Right,-,-,https://images.prismic.io/fft-rg-site/d222075e-dbd3-4a2e-81b5-6b20ef10aa55_20240112_PJ_MedjedovicHamad_US.png,/en-us/players/45423-h.medjedovic
 11362,Shuai,ZHANG,S.ZHANG,67,8,CHN,F,37 years-old,(21 January 1989),Right,-,-,https://images.prismic.io/fft-rg-site/aCnwdSdWJ-7kSQpX_11362_G.png,/en-us/players/11362-s.zhang
@@ -357,7 +357,7 @@ player_id,first_name,last_name,short_name,ranking,ranking_double,country,sex,age
 40829,Nicolas,MEJIA,N.MEJIA,164,,COL,M,26 years-old,(11 February 2000),Right,-,-,https://images.prismic.io/fft-rg-site/aghxBKYofJOwHSxI_20260515_PJ_MejiaNicolas_US.png,/en-us/players/40829-n.mejia
 40702,Elizabeth,MANDLIK,E.MANDLIK,165,,USA,F,25 years-old,(19 May 2001),Right,-,-,https://images.prismic.io/fft-rg-site/aetaecBOoF08xRzC_20260228_PJ_MandlikElizabeth_US.png,/en-us/players/40702-e.mandlik
 44059,Lukas,NEUMAYER,L.NEUMAYER,165,,AUT,M,23 years-old,(6 September 2002),Right,-,-,https://images.prismic.io/fft-rg-site/agh-jaYofJOwHS0V_20260516_PJ_NeumayerLukas_US.png,/en-us/players/44059-l.neumayer
-45916,Linda,KLIMOVICOVA,L.KLIMOVICOVA,166,,POL,F,21 years-old,(18 June 2004),Right,-,-,https://images.prismic.io/fft-rg-site/aCoVQidWJ-7kSQwo_45916_G.png,/en-us/players/45916-l.klimovicova
+45916,Linda,KLIMOVICOVA,L.KLIMOVICOVA,166,,POL,F,22 years-old,(18 June 2004),Right,-,-,https://images.prismic.io/fft-rg-site/aCoVQidWJ-7kSQwo_45916_G.png,/en-us/players/45916-l.klimovicova
 47186,Mark,LAJAL,M.LAJAL,166,,EST,M,23 years-old,(12 May 2003),Right,-,-,https://images.prismic.io/fft-rg-site/aghxAKYofJOwHSxC_20260515_PJ_LajalMark_US.png,/en-us/players/47186-m.lajal
 24584,Marco,CECCHINATO,M.CECCHINATO,167,,ITA,M,33 years-old,(30 September 1992),Right,-,-,https://images.prismic.io/fft-rg-site/aghjw6YofJOwHSuA_20260515_PJ_CecchinatoMarco_US.png,/en-us/players/24584-m.cecchinato
 26111,Viktoriya,TOMOVA,V.TOMOVA,167,,BUL,F,31 years-old,(25 February 1995),Right,-,-,https://images.prismic.io/fft-rg-site/c5c2494d-7ad0-45f9-a273-87d35e367e50_20240305_PJ_TomovaViktoriya_US.png,/en-us/players/26111-v.tomova
@@ -544,7 +544,7 @@ player_id,first_name,last_name,short_name,ranking,ranking_double,country,sex,age
 54735,Thilo,BEHRMANN,T.BEHRMANN,,,AUT,M,18 years-old,(27 January 2008),-,-,-,https://images.prismic.io/fft-rg-site/ahw9NgeQX7-eWdPM_20260530_PJ_BehrmannThilo_US.png,/en-us/players/54735-t.behrmann
 51459,Nikita,BELOZERTSEV,N.BELOZERTSEV,,,UZB,M,17 years-old,(28 November 2008),Left,-,-,https://images.prismic.io/fft-rg-site/aDwZwbh8WN-LVc0E_51459_G.png,/en-us/players/51459-n.belozertsev
 18563,Yuki,BHAMBRI,Y.BHAMBRI,,24,IND,M,33 years-old,(4 July 1992),Right,-,-,https://images.prismic.io/fft-rg-site/8611f892-ea8a-45e0-8e5d-c867086f1ddd_20240112_PJ_BhambriYuki_US.png,/en-us/players/18563-y.bhambri
-56723,Sofiia,BIELINSKA,S.BIELINSKA,,,UKR,F,14 years-old,(18 June 2011),-,-,-,https://images.prismic.io/fft-rg-site/ahw-mgeQX7-eWdPZ_20260530_PJ_BielinskaSofia_US.png,/en-us/players/56723-s.bielinska
+56723,Sofiia,BIELINSKA,S.BIELINSKA,,,UKR,F,15 years-old,(18 June 2011),-,-,-,https://images.prismic.io/fft-rg-site/ahw-mgeQX7-eWdPZ_20260530_PJ_BielinskaSofia_US.png,/en-us/players/56723-s.bielinska
 9677,Simone,BOLELLI,S.BOLELLI,,9,ITA,M,40 years-old,(8 October 1985),Right,-,-,https://images.prismic.io/fft-rg-site/ec625bd7-2d52-47b5-b3c0-1890038d5b31_20190113_PJ_BolelliSimone_US.png,/en-us/players/9677-s.bolelli
 54758,Juan Miguel,BOLIVAR IDARRAGA,JM.BOLIVAR IDARRAGA,,,COL,M,17 years-old,(22 May 2009),Left,-,-,https://images.prismic.io/fft-rg-site/ahr5mQeQX7-eWc5c_20260530_PJ_BolivarIdarragaJuanMiguel_US.png,/en-us/players/54758-jm.bolivar-idarraga
 54824,Dan,BRAND,D.BRAND,,,ISR,M,16 years-old,(16 July 2009),-,-,-,,/en-us/players/54824-d.brand
