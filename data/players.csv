@@ -255,7 +255,7 @@ player_id,first_name,last_name,short_name,ranking,ranking_double,country,sex,age
 47331,Nishesh,BASAVAREDDY,N.BASAVAREDDY,134,,USA,M,21 years-old,(2 May 2005),Right,-,-,https://images.prismic.io/fft-rg-site/aeoo0cBOoF08xQFa_20260118_PJ_BasavareddyNishesh_US.png,/en-us/players/47331-n.basavareddy
 40133,Suzan,LAMENS,S.LAMENS,134,,NED,F,26 years-old,(5 July 1999),Right,-,-,https://images.prismic.io/fft-rg-site/aDQaMydWJ-7kSiJE_40133_G.png,/en-us/players/40133-s.lamens
 47950,Arthur,GEA,A.GEA,135,,FRA,M,21 years-old,(2 January 2005),Right,-,-,https://images.prismic.io/fft-rg-site/aCshvSdWJ-7kSS7v_47950_G.png,/en-us/players/47950-a.gea
-43819,Lisa,PIGATO,L.PIGATO,135,,ITA,F,22 years-old,(21 June 2003),Right,-,-,https://images.prismic.io/fft-rg-site/agiPL6YofJOwHS2c_20260516_PJ_PigatoLisa_US.png,/en-us/players/43819-l.pigato
+43819,Lisa,PIGATO,L.PIGATO,135,,ITA,F,23 years-old,(21 June 2003),Right,-,-,https://images.prismic.io/fft-rg-site/agiPL6YofJOwHS2c_20260516_PJ_PigatoLisa_US.png,/en-us/players/43819-l.pigato
 50683,Emerson,JONES,E.JONES,136,,AUS,F,17 years-old,(7 July 2008),Right,-,-,https://images.prismic.io/fft-rg-site/d8c342ec-020a-4f62-a287-119fc8e45966_Jones.png,/en-us/players/50683-e.jones
 32244,Pedro,MARTINEZ,P.MARTINEZ,136,375,ESP,M,29 years-old,(26 April 1997),Right,-,-,https://images.prismic.io/fft-rg-site/aeooq8BOoF08xQEu_20260116_PJ_MartinezPedro_US.png,/en-us/players/32244-p.martinez
 33931,Tomas,BARRIOS VERA,T.BARRIOS VERA,137,,CHI,M,28 years-old,(10 December 1997),Right,-,-,https://images.prismic.io/fft-rg-site/aghjv6YofJOwHSt8_20260515_PJ_BarriosVeraTomas_US.png,/en-us/players/33931-t.barrios-vera
@@ -298,7 +298,7 @@ player_id,first_name,last_name,short_name,ranking,ranking_double,country,sex,age
 46815,Anouk,KOEVERMANS,A.KOEVERMANS,158,,NED,F,22 years-old,(2 January 2004),Right,-,-,https://images.prismic.io/fft-rg-site/aCoV7SdWJ-7kSQwt_46815_G.png,/en-us/players/46815-a.koevermans
 43968,Liam,DRAXL,L.DRAXL,159,268,CAN,M,24 years-old,(5 December 2001),Right,-,-,https://images.prismic.io/fft-rg-site/aCoR6ydWJ-7kSQwD_43968_G.png,/en-us/players/43968-l.draxl
 43804,Jazmin,ORTENZI,J.ORTENZI,159,362,ARG,F,24 years-old,(20 November 2001),Right,-,-,https://images.prismic.io/fft-rg-site/agnvZqYofJOwHTW7_20260517_PJ_OrtenziJazmin_US.png,/en-us/players/43804-j.ortenzi
-41774,Otto,VIRTANEN,O.VIRTANEN,160,,FIN,M,24 years-old,(21 June 2001),Right,-,-,https://images.prismic.io/fft-rg-site/agiPLqYofJOwHS2b_20260516_PJ_VirtanenOtto_US.png,/en-us/players/41774-o.virtanen
+41774,Otto,VIRTANEN,O.VIRTANEN,160,,FIN,M,25 years-old,(21 June 2001),Right,-,-,https://images.prismic.io/fft-rg-site/agiPLqYofJOwHS2b_20260516_PJ_VirtanenOtto_US.png,/en-us/players/41774-o.virtanen
 42560,Qinwen,ZHENG,Q.ZHENG,160,,CHN,F,23 years-old,(8 October 2002),Right,-,-,https://images.prismic.io/fft-rg-site/5ee917df-b017-4181-b733-e37daac1cd7c_20240303_PJ_QinwenZheng_US.png,/en-us/players/42560-q.zheng
 33462,Lloyd,HARRIS,L.HARRIS,161,,RSA,M,29 years-old,(24 February 1997),Right,-,-,https://images.prismic.io/fft-rg-site/aghuW6YofJOwHSvu_20260515_PJ_HarrisLloyd_US.png,/en-us/players/33462-l.harris
 45668,Linda,FRUHVIRTOVA,L.FRUHVIRTOVA,162,,CZE,F,21 years-old,(1 May 2005),Right,-,-,https://images.prismic.io/fft-rg-site/046a70f8-0e37-4f9f-88c4-c26fcd0699e3_20240305_PJ_FurhvirtovaLinda_US.png,/en-us/players/45668-l.fruhvirtova
@@ -686,7 +686,7 @@ player_id,first_name,last_name,short_name,ranking,ranking_double,country,sex,age
 14963,Nikola,MEKTIC,N.MEKTIC,,18,CRO,M,37 years-old,(24 December 1988),Right,-,-,https://images.prismic.io/fft-rg-site/602a9d41-90b6-4f24-a97b-7a144e389ba8_Mektic.N_11820_LR+CUT.png,/en-us/players/14963-n.mektic
 23852,Nicole,MELICHAR-MARTINEZ,N.MELICHAR-MARTINEZ,,15,USA,F,32 years-old,(29 July 1993),Right,-,-,https://images.prismic.io/fft-rg-site/aetalMBOoF08xRzd_20260303_PJ_MelicharNicole_US.png,/en-us/players/23852-n.melichar-martinez
 4912,Marcelo,MELO,M.MELO,,45,BRA,M,42 years-old,(23 September 1983),Right,-,-,https://images.prismic.io/fft-rg-site/dbea6717-ca23-4e3c-802f-28a90c9c7e4b_20200117_PJ_MeloMarcelo_US.png,/en-us/players/4912-m.melo
-31094,Lucas,MIEDLER,L.MIEDLER,,21,AUT,M,29 years-old,(21 June 1996),Right,-,-,https://images.prismic.io/fft-rg-site/67d01baf-51de-4d66-84ad-2360e443c2ce_20240108_PJ_MiedlerLucas_US.png,/en-us/players/31094-l.miedler
+31094,Lucas,MIEDLER,L.MIEDLER,,21,AUT,M,30 years-old,(21 June 1996),Right,-,-,https://images.prismic.io/fft-rg-site/67d01baf-51de-4d66-84ad-2360e443c2ce_20240108_PJ_MiedlerLucas_US.png,/en-us/players/31094-l.miedler
 53043,Luis Guto,MIGUEL,LG.MIGUEL,,172,BRA,M,17 years-old,(26 February 2009),Right,-,-,https://images.prismic.io/fft-rg-site/ahxc6AeQX7-eWdVp_20260530_PJ_MiguelLuisGuto_US.png,/en-us/players/53043-lg.miguel
 33686,Tereza,MIHALIKOVA,T.MIHALIKOVA,,22,SVK,F,28 years-old,(2 June 1998),Right,-,-,https://images.prismic.io/fft-rg-site/ag3OdaYofJOwHb3W_20260520_PJ_MihalikovaTereza_US.png,/en-us/players/33686-t.mihalikova
 36632,Takuya,MIKI,T.MIKI,,,JPN,M,37 years-old,(30 April 1989),-,-,-,https://images.prismic.io/fft-rg-site/ah1y1QeQX7-eWfAI_20260601_PJ_MikiTakuya_US.png,/en-us/players/36632-t.miki
@@ -740,7 +740,7 @@ player_id,first_name,last_name,short_name,ranking,ranking_double,country,sex,age
 28609,Fabien,REBOUL,F.REBOUL,,28,FRA,M,30 years-old,(9 September 1995),Right,-,-,https://images.prismic.io/fft-rg-site/14b46c5c-7dd7-4ae4-b915-1104f8fa6ebc_20201207_PJ_ReboulFabien_US.png,/en-us/players/28609-f.reboul
 33799,Gordon,REID,G.REID,,,GBR,M,34 years-old,(2 October 1991),-,-,-,https://images.prismic.io/fft-rg-site/ah1cXQeQX7-eWeqe_20260531_PJ_ReidGordon_US.png,/en-us/players/33799-g.reid
 54789,Vincent Jakob,REISACH,VJ.REISACH,,,GER,M,17 years-old,(13 March 2009),Left,-,-,https://images.prismic.io/fft-rg-site/ahxpEweQX7-eWdX3_20260530_PJ_ReisachVincentJakob_US.png,/en-us/players/54789-vj.reisach
-25355,Miguel,REYES-VARELA,M.REYES-VARELA,,77,MEX,M,38 years-old,(21 June 1987),Right,-,-,https://images.prismic.io/fft-rg-site/b87aea59-0552-40f0-a440-631264ec07d8_20240112_PJ_ReyesVarelaMiguelAngel_US.png,/en-us/players/25355-m.reyes-varela
+25355,Miguel,REYES-VARELA,M.REYES-VARELA,,77,MEX,M,39 years-old,(21 June 1987),Right,-,-,https://images.prismic.io/fft-rg-site/b87aea59-0552-40f0-a440-631264ec07d8_20240112_PJ_ReyesVarelaMiguelAngel_US.png,/en-us/players/25355-m.reyes-varela
 37631,Arthur,REYMOND,A.REYMOND,,81,FRA,M,27 years-old,(2 April 1999),Left,-,-,,/en-us/players/37631-a.reymond
 40475,Finn,REYNOLDS,F.REYNOLDS,,91,NZL,M,26 years-old,(4 January 2000),Left,-,-,,/en-us/players/40475-f.reynolds
 38362,Patrik,RIKL,P.RIKL,,40,CZE,M,27 years-old,(6 January 1999),Right,-,-,https://images.prismic.io/fft-rg-site/ahHVDLK9tuLqEGON_20260523_PJ_RiklPatrik_US.png,/en-us/players/38362-p.rikl
