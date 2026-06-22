@@ -224,7 +224,7 @@ player_id,first_name,last_name,short_name,ranking,ranking_double,country,sex,age
 39851,Adam,WALTON,A.WALTON,92,500,AUS,M,27 years-old,(17 April 1999),Right,-,-,https://images.prismic.io/fft-rg-site/aeoo9sBOoF08xQGE_20260118_PJ_WaltonAdam_US.png,/en-us/players/39851-a.walton
 33416,Benjamin,BONZI,B.BONZI,93,229,FRA,M,30 years-old,(9 June 1996),Right,-,-,https://images.prismic.io/fft-rg-site/d3643bf5-25af-4c5e-9cbd-56cbd530dbba_20220308_PJ_BonziBenjamin_US.png,/en-us/players/33416-b.bonzi
 44194,Sinja,KRAUS,S.KRAUS,93,338,AUT,F,24 years-old,(29 April 2002),Right,-,-,https://images.prismic.io/fft-rg-site/aghw_6YofJOwHSxA_20260515_PJ_KrausSinja_US.png,/en-us/players/44194-s.kraus
-49017,Alina,KORNEEVA,A.KORNEEVA,94,301,---,F,18 years-old,(23 June 2007),Right,-,-,https://images.prismic.io/fft-rg-site/44b2e00d-920d-4789-ae31-9a45161c2fff_Korneeva.png,/en-us/players/49017-a.korneeva
+49017,Alina,KORNEEVA,A.KORNEEVA,94,301,---,F,19 years-old,(23 June 2007),Right,-,-,https://images.prismic.io/fft-rg-site/44b2e00d-920d-4789-ae31-9a45161c2fff_Korneeva.png,/en-us/players/49017-a.korneeva
 21069,Marco,TRUNGELLITI,M.TRUNGELLITI,94,,ARG,M,36 years-old,(31 January 1990),Right,-,-,https://images.prismic.io/fft-rg-site/aCsCmydWJ-7kSSMb_21069_G.png,/en-us/players/21069-m.trungelliti
 31976,Hubert,HURKACZ,H.HURKACZ,95,,POL,M,29 years-old,(11 February 1997),Right,-,-,https://images.prismic.io/fft-rg-site/aeoo4MBOoF08xQFs_20260118_PJ_HurkaczHubert_US.png,/en-us/players/31976-h.hurkacz
 45779,Lanlana,TARARUDEE,L.TARARUDEE,95,,THA,F,21 years-old,(7 July 2004),Right,-,-,https://images.prismic.io/fft-rg-site/aCnPZidWJ-7kSQky_45779_G.png,/en-us/players/45779-l.tararudee
@@ -676,7 +676,7 @@ player_id,first_name,last_name,short_name,ranking,ranking_double,country,sex,age
 52443,Adelina,LACINOVA,A.LACINOVA,,,LAT,F,18 years-old,(10 February 2008),-,-,-,https://images.prismic.io/fft-rg-site/ahxXogeQX7-eWdTO_20260530_PJ_LachinovaAdelina_US.png,/en-us/players/52443-a.lacinova
 51212,Nadia,LAGAEV,N.LAGAEV,,,CAN,F,18 years-old,(18 January 2008),-,-,-,https://images.prismic.io/fft-rg-site/aDxOf7h8WN-LVdE5_51212_G.png,/en-us/players/51212-n.lagaev
 49289,Guilhem,LAGET,G.LAGET,,,FRA,M,28 years-old,(30 April 1998),-,-,-,https://images.prismic.io/fft-rg-site/ah1bMAeQX7-eWep5_20260531_PJ_LagetGuilhem_US.png,/en-us/players/49289-g.laget
-52447,Cindy,LANGLAIS,C.LANGLAIS,,,FRA,F,16 years-old,(23 June 2009),-,-,-,https://images.prismic.io/fft-rg-site/aCsnHCdWJ-7kSTDB_52447_G.png,/en-us/players/52447-c.langlais
+52447,Cindy,LANGLAIS,C.LANGLAIS,,,FRA,F,17 years-old,(23 June 2009),-,-,-,https://images.prismic.io/fft-rg-site/aCsnHCdWJ-7kSTDB_52447_G.png,/en-us/players/52447-c.langlais
 50744,Sol Ailin,LARRAYA GUIDI,SA.LARRAYA GUIDI,,,ARG,F,18 years-old,(21 February 2008),-,-,-,https://images.prismic.io/fft-rg-site/aDwfhLh8WN-LVc09_50744_G.png,/en-us/players/50744-sa.larraya-guidi
 56191,Marija,LAUVA,M.LAUVA,,,LAT,F,18 years-old,(1 February 2008),-,-,-,https://images.prismic.io/fft-rg-site/ahxYeAeQX7-eWdTx_20260530_PJ_LauvaMarija_US.png,/en-us/players/56191-m.lauva
 55399,Rhys,LAWLOR,R.LAWLOR,,,GBR,M,17 years-old,(22 February 2009),Left,-,-,https://images.prismic.io/fft-rg-site/ahxY-AeQX7-eWdU3_20260530_PJ_LawlorRhys_US.png,/en-us/players/55399-r.lawlor
