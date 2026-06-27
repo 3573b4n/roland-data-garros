@@ -22,7 +22,7 @@ player_id,first_name,last_name,short_name,ranking,ranking_double,country,sex,age
 35961,Karolina,MUCHOVA,K.MUCHOVA,11,162,CZE,F,29 years-old,(21 August 1996),Right,-,-,https://images.prismic.io/fft-rg-site/2ada83e7-832b-4023-b1f5-4d4fe5394585_20200311_PJ_MuchovaKarolina_US.png,/en-us/players/35961-k.muchova
 28865,Belinda,BENCIC,B.BENCIC,12,,SUI,F,29 years-old,(10 March 1997),Right,-,-,https://images.prismic.io/fft-rg-site/aetahcBOoF08xRzO_20260302_PJ_BencicBelinda_US.png,/en-us/players/28865-b.bencic
 36389,Casper,RUUD,C.RUUD,12,,NOR,M,27 years-old,(22 December 1998),Right,-,-,https://images.prismic.io/fft-rg-site/aeoox8BOoF08xQFO_20260117_PJ_RuudCasper_US.png,/en-us/players/36389-c.ruud
-40683,Marta,KOSTYUK,M.KOSTYUK,13,215,UKR,F,23 years-old,(28 June 2002),Right,-,-,https://images.prismic.io/fft-rg-site/aDQZzydWJ-7kSiI-_40683_G.png,/en-us/players/40683-m.kostyuk
+40683,Marta,KOSTYUK,M.KOSTYUK,13,215,UKR,F,24 years-old,(28 June 2002),Right,-,-,https://images.prismic.io/fft-rg-site/aDQZzydWJ-7kSiI-_40683_G.png,/en-us/players/40683-m.kostyuk
 31132,Andrey,RUBLEV,A.RUBLEV,13,142,---,M,28 years-old,(20 October 1997),Right,-,-,https://images.prismic.io/fft-rg-site/aeoosMBOoF08xQE0_20260116_PJ_RublevAndrey_US.png,/en-us/players/31132-a.rublev
 43155,Jiri,LEHECKA,J.LEHECKA,14,252,CZE,M,24 years-old,(8 November 2001),Right,-,-,https://images.prismic.io/fft-rg-site/aeooqsBOoF08xQEt_20260116_PJ_LeheckaJiri_US.png,/en-us/players/43155-j.lehecka
 33206,Jasmine,PAOLINI,J.PAOLINI,14,15,ITA,F,30 years-old,(4 January 1996),Right,-,-,https://images.prismic.io/fft-rg-site/aDQbRCdWJ-7kSiK__33206_G.png,/en-us/players/33206-j.paolini
@@ -64,7 +64,7 @@ player_id,first_name,last_name,short_name,ranking,ranking_double,country,sex,age
 36989,Tomas Martin,ETCHEVERRY,TM.ETCHEVERRY,32,162,ARG,M,26 years-old,(18 July 1999),Right,-,-,https://images.prismic.io/fft-rg-site/aeoo2cBOoF08xQFi_20260118_PJ_EtcheverryTomasMartin_US.png,/en-us/players/36989-tm.etcheverry
 42575,Emma,RADUCANU,E.RADUCANU,32,375,GBR,F,23 years-old,(13 November 2002),Right,-,-,https://images.prismic.io/fft-rg-site/aeof6sBOoF08xP9y_42575_G.png,/en-us/players/42575-e.raducanu
 33575,Alejandro,TABILO,A.TABILO,33,227,CHI,M,29 years-old,(2 June 1997),Left,-,-,https://images.prismic.io/fft-rg-site/aeopBcBOoF08xQGY_20260119_PJ_TabiloAlejandro_US.png,/en-us/players/33575-a.tabilo
-26513,Donna,VEKIC,D.VEKIC,33,,CRO,F,29 years-old,(28 June 1996),Right,-,-,https://images.prismic.io/fft-rg-site/aDQg5idWJ-7kSiP0_26513_G.png,/en-us/players/26513-d.vekic
+26513,Donna,VEKIC,D.VEKIC,33,,CRO,F,30 years-old,(28 June 1996),Right,-,-,https://images.prismic.io/fft-rg-site/aDQg5idWJ-7kSiP0_26513_G.png,/en-us/players/26513-d.vekic
 46070,Ignacio,BUSE,I.BUSE,34,,PER,M,22 years-old,(25 March 2004),Right,-,-,https://images.prismic.io/fft-rg-site/aCoVVidWJ-7kSQwp_46070_G.png,/en-us/players/46070-i.buse
 28779,Katerina,SINIAKOVA,K.SINIAKOVA,34,1,CZE,F,30 years-old,(10 May 1996),Right,-,-,https://images.prismic.io/fft-rg-site/aetajcBOoF08xRzW_20260302_PJ_SiniakovaKatarina_US.png,/en-us/players/28779-k.siniakova
 43964,Matteo,ARNALDI,M.ARNALDI,35,,ITA,M,25 years-old,(22 February 2001),Right,-,-,https://images.prismic.io/fft-rg-site/aeooz8BOoF08xQFY_20260118_PJ_ArnaldiMatteo_US.png,/en-us/players/43964-m.arnaldi
@@ -245,7 +245,7 @@ player_id,first_name,last_name,short_name,ranking,ranking_double,country,sex,age
 37977,Lucia,BRONZETTI,L.BRONZETTI,127,,ITA,F,27 years-old,(10 December 1998),Right,-,-,https://images.prismic.io/fft-rg-site/cd1d2345-99b2-4e6d-9402-f45d2bd78786_20240305_PJ_BronzettiLucia_US.png,/en-us/players/37977-l.bronzetti
 33560,Roman,SAFIULLIN,R.SAFIULLIN,127,,---,M,28 years-old,(7 August 1997),Right,-,-,https://images.prismic.io/fft-rg-site/aDLFNCdWJ-7kShOZ_33560_G.png,/en-us/players/33560-r.safiullin
 44902,Francesco,MAESTRELLI,F.MAESTRELLI,128,467,ITA,M,23 years-old,(21 December 2002),Right,-,-,https://images.prismic.io/fft-rg-site/aeoo5sBOoF08xQFy_20260118_PJ_MaestrelliFrancesco_US.png,/en-us/players/44902-f.maestrelli
-47452,Dominika,SALKOVA,D.SALKOVA,128,137,CZE,F,21 years-old,(28 June 2004),Right,-,-,https://images.prismic.io/fft-rg-site/aCoYIidWJ-7kSQxk_47452_G.png,/en-us/players/47452-d.salkova
+47452,Dominika,SALKOVA,D.SALKOVA,128,137,CZE,F,22 years-old,(28 June 2004),Right,-,-,https://images.prismic.io/fft-rg-site/aCoYIidWJ-7kSQxk_47452_G.png,/en-us/players/47452-d.salkova
 46190,Vilius,GAUBAS,V.GAUBAS,129,,LTU,M,21 years-old,(29 December 2004),Right,-,-,https://images.prismic.io/fft-rg-site/aghs7KYofJOwHSvF_20260515_PJ_GaubasVilius_US.png,/en-us/players/46190-v.gaubas
 40133,Suzan,LAMENS,S.LAMENS,129,,NED,F,26 years-old,(5 July 1999),Right,-,-,https://images.prismic.io/fft-rg-site/aDQaMydWJ-7kSiJE_40133_G.png,/en-us/players/40133-s.lamens
 40087,Kaja,JUVAN,K.JUVAN,130,,SLO,F,25 years-old,(25 November 2000),Right,-,-,https://images.prismic.io/fft-rg-site/aCsFCydWJ-7kSSSR_40087_G.png,/en-us/players/40087-k.juvan
@@ -345,7 +345,7 @@ player_id,first_name,last_name,short_name,ranking,ranking_double,country,sex,age
 45720,Julia,RIERA,J.RIERA,182,325,ARG,F,24 years-old,(29 May 2002),Right,-,-,https://images.prismic.io/fft-rg-site/aCoUkidWJ-7kSQwh_45720_G.png,/en-us/players/45720-j.riera
 40667,Whitney,OSUIGWE,W.OSUIGWE,183,,USA,F,24 years-old,(17 April 2002),Right,-,-,https://images.prismic.io/fft-rg-site/aCni8idWJ-7kSQnc_40667_G.png,/en-us/players/40667-w.osuigwe
 37028,Alexis,GALARNEAU,A.GALARNEAU,184,,CAN,M,27 years-old,(2 March 1999),Right,-,-,https://images.prismic.io/fft-rg-site/aCn-ySdWJ-7kSQsj_37028_G.png,/en-us/players/37028-a.galarneau
-51314,Teodora,KOSTOVIC,T.KOSTOVIC,184,,SRB,F,18 years-old,(28 June 2007),Right,-,-,https://images.prismic.io/fft-rg-site/agxjQKYofJOwHXiB_20260517_PJ_KostovicTeodora_US.PNG,/en-us/players/51314-t.kostovic
+51314,Teodora,KOSTOVIC,T.KOSTOVIC,184,,SRB,F,19 years-old,(28 June 2007),Right,-,-,https://images.prismic.io/fft-rg-site/agxjQKYofJOwHXiB_20260517_PJ_KostovicTeodora_US.PNG,/en-us/players/51314-t.kostovic
 28346,Storm,HUNTER,S.HUNTER,185,20,AUS,F,31 years-old,(11 August 1994),Left,-,-,https://images.prismic.io/fft-rg-site/aDQYiCdWJ-7kSiHw_28346_G.png,/en-us/players/28346-s.hunter
 31184,Elias,YMER,E.YMER,185,,SWE,M,30 years-old,(10 April 1996),Right,-,-,https://images.prismic.io/fft-rg-site/c2bbfe13-4a57-44bd-9779-1b1e794abb7b_20220309_PJ_YmerElias_US.png,/en-us/players/31184-e.ymer
 36751,Remy,BERTOLA,R.BERTOLA,187,,SUI,M,27 years-old,(31 August 1998),Right,-,-,https://images.prismic.io/fft-rg-site/agmMK6YofJOwHTGh_20260517_PJ_BertolaRemy_US.png,/en-us/players/36751-r.bertola
