@@ -291,7 +291,7 @@ player_id,first_name,last_name,short_name,ranking,ranking_double,country,sex,age
 43948,Dane,SWEENY,D.SWEENY,127,265,AUS,M,25 years-old,(12 February 2001),Right,-,-,https://images.prismic.io/fft-rg-site/ZkpCCCol0Zci9RHO_20240516_PJ_SweenyDane_US.png,/en-us/players/43948-d.sweeny
 44902,Francesco,MAESTRELLI,F.MAESTRELLI,128,464,ITA,M,23 years-old,(21 December 2002),Right,-,-,https://images.prismic.io/fft-rg-site/aeoo5sBOoF08xQFy_20260118_PJ_MaestrelliFrancesco_US.png,/en-us/players/44902-f.maestrelli
 46190,Vilius,GAUBAS,V.GAUBAS,129,,LTU,M,21 years-old,(29 December 2004),Right,-,-,https://images.prismic.io/fft-rg-site/aghs7KYofJOwHSvF_20260515_PJ_GaubasVilius_US.png,/en-us/players/46190-v.gaubas
-40133,Suzan,LAMENS,S.LAMENS,129,,NED,F,26 years-old,(5 July 1999),Right,-,-,https://images.prismic.io/fft-rg-site/aDQaMydWJ-7kSiJE_40133_G.png,/en-us/players/40133-s.lamens
+40133,Suzan,LAMENS,S.LAMENS,129,,NED,F,27 years-old,(5 July 1999),Right,-,-,https://images.prismic.io/fft-rg-site/aDQaMydWJ-7kSiJE_40133_G.png,/en-us/players/40133-s.lamens
 50999,Mary,STOIANA,M.STOIANA,130,312,USA,F,23 years-old,(6 May 2003),Right,-,-,https://images.prismic.io/fft-rg-site/agw0kqYofJOwHW8X_20260518_PJ_StoianaMary_US.PNG,/en-us/players/50999-m.stoiana
 21066,Stefano,TRAVAGLIA,S.TRAVAGLIA,130,,ITA,M,34 years-old,(28 December 1991),Right,-,-,https://images.prismic.io/fft-rg-site/aeoo88BOoF08xQGB_20260118_PJ_TravagliaStefano_US.png,/en-us/players/21066-s.travaglia
 33787,Tamara,ZIDANSEK,T.ZIDANSEK,131,,SLO,F,28 years-old,(26 December 1997),Right,-,-,https://images.prismic.io/fft-rg-site/agh-gKYofJOwHS0J_20260515_PJ_ZidansekTamara_US.png,/en-us/players/33787-t.zidansek
@@ -422,7 +422,7 @@ player_id,first_name,last_name,short_name,ranking,ranking_double,country,sex,age
 31313,Greet,MINNEN,G.MINNEN,205,,BEL,F,28 years-old,(14 August 1997),Right,-,-,https://images.prismic.io/fft-rg-site/ZkpcUyol0Zci9RJT_20240516_PJ_MinnenGreet_US.png,/en-us/players/31313-g.minnen
 38420,Yu Hsiou,HSU,YH.HSU,206,200,TPE,M,27 years-old,(2 April 1999),Right,-,-,https://images.prismic.io/fft-rg-site/aftEq8BOoF08xrPD_20250517_PJ_HsuYuHsiou_US.png,/en-us/players/38420-yh.hsu
 47434,Elena,PRIDANKINA,E.PRIDANKINA,206,76,---,F,20 years-old,(30 August 2005),Right,-,-,https://images.prismic.io/fft-rg-site/aCoX9idWJ-7kSQxi_47434_G.png,/en-us/players/47434-e.pridankina
-47174,James,MCCABE,J.MCCABE,207,370,AUS,M,22 years-old,(5 July 2003),Right,-,-,https://images.prismic.io/fft-rg-site/aeoowsBOoF08xQFJ_20260117_PJ_MccabeJames_US.png,/en-us/players/47174-j.mccabe
+47174,James,MCCABE,J.MCCABE,207,370,AUS,M,23 years-old,(5 July 2003),Right,-,-,https://images.prismic.io/fft-rg-site/aeoowsBOoF08xQFJ_20260117_PJ_MccabeJames_US.png,/en-us/players/47174-j.mccabe
 17343,Mona,BARTHEL,M.BARTHEL,208,,GER,F,35 years-old,(11 July 1990),Right,-,-,https://images.prismic.io/fft-rg-site/aghjwKYofJOwHSt9_20260515_PJ_BarthelMona_US.png,/en-us/players/17343-m.barthel
 51129,Matej,DODIG,M.DODIG,208,,CRO,M,20 years-old,(19 July 2005),Right,-,-,https://images.prismic.io/fft-rg-site/agyJl6YofJOwHYoC_20260519_PJ_DodigMatej_US.png,/en-us/players/51129-m.dodig
 24530,Liam,BROADY,L.BROADY,209,,GBR,M,32 years-old,(4 January 1994),Left,-,-,https://images.prismic.io/fft-rg-site/aftGsMBOoF08xrU3_20220517_PJ_BroadyLiam_US.png,/en-us/players/24530-l.broady
