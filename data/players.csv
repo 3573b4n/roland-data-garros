@@ -355,7 +355,7 @@ player_id,first_name,last_name,short_name,ranking,ranking_double,country,sex,age
 40451,Clement,TABUR,C.TABUR,189,,FRA,M,26 years-old,(24 January 2000),Right,-,-,https://images.prismic.io/fft-rg-site/ZkrwSSol0Zci9Rem_40451_G.png,/en-us/players/40451-c.tabur
 49550,Gianluca,CADENASSO,G.CADENASSO,190,185,ITA,M,21 years-old,(29 September 2004),Right,-,-,https://images.prismic.io/fft-rg-site/agm5XaYofJOwHTI0_20260517_PJ_CadenassoGianluca_US.png,/en-us/players/49550-g.cadenasso
 30798,Jessika,PONCHET,J.PONCHET,190,205,FRA,F,29 years-old,(26 September 1996),Right,-,-,https://images.prismic.io/fft-rg-site/agh7nKYofJOwHSy6_20260515_PJ_PonchetJessika_US.png,/en-us/players/30798-j.ponchet
-44313,Julia,AVDEEVA,J.AVDEEVA,191,,---,F,23 years-old,(6 July 2002),Right,-,-,https://images.prismic.io/fft-rg-site/ZksCECol0Zci9Rk__44313_J.Avdeeva.png,/en-us/players/44313-j.avdeeva
+44313,Julia,AVDEEVA,J.AVDEEVA,191,,---,F,24 years-old,(6 July 2002),Right,-,-,https://images.prismic.io/fft-rg-site/ZksCECol0Zci9Rk__44313_J.Avdeeva.png,/en-us/players/44313-j.avdeeva
 43781,Carole,MONNET,C.MONNET,192,203,FRA,F,24 years-old,(1 December 2001),Right,-,-,https://images.prismic.io/fft-rg-site/agiPLaYofJOwHS2a_20260516_PJ_MonnetCarole_US.png,/en-us/players/43781-c.monnet
 38708,Ye-Xin,MA,YX.MA,193,,CHN,F,27 years-old,(10 June 1999),Right,-,-,https://images.prismic.io/fft-rg-site/Zkr0gCol0Zci9RgP_Ye-XinMa.png,/en-us/players/38708-yx.ma
 47465,Celine,NAEF,C.NAEF,194,431,SUI,F,21 years-old,(25 June 2005),Right,-,-,https://images.prismic.io/fft-rg-site/agh-jKYofJOwHS0U_20260516_PJ_NaefCeline_US.png,/en-us/players/47465-c.naef
@@ -450,7 +450,7 @@ player_id,first_name,last_name,short_name,ranking,ranking_double,country,sex,age
 36426,Yosuke,WATANUKI,Y.WATANUKI,294,,JPN,M,28 years-old,(12 April 1998),Right,-,-,https://images.prismic.io/fft-rg-site/agh-fqYofJOwHS0H_20260515_PJ_WatanukiYosuke_US.png,/en-us/players/36426-y.watanuki
 40844,Manon,LEONARD,M.LEONARD,296,,FRA,F,25 years-old,(20 January 2001),Right,-,-,https://images.prismic.io/fft-rg-site/aghxAaYofJOwHSxE_20260515_PJ_LeonardManon_US.png,/en-us/players/40844-m.leonard
 47226,Antoine,GHIBAUDO,A.GHIBAUDO,298,,FRA,M,21 years-old,(25 January 2005),Right,-,-,https://images.prismic.io/fft-rg-site/agwbGaYofJOwHWqR_20230602_PJ_GhibaudoAntoine_US.PNG,/en-us/players/47226-a.ghibaudo
-45848,Ayana,AKLI,A.AKLI,301,129,USA,F,24 years-old,(6 July 2001),Right,-,-,https://images.prismic.io/fft-rg-site/aghjvKYofJOwHSt4_20260514PJ_AkliAyana_US.png,/en-us/players/45848-a.akli
+45848,Ayana,AKLI,A.AKLI,301,129,USA,F,25 years-old,(6 July 2001),Right,-,-,https://images.prismic.io/fft-rg-site/aghjvKYofJOwHSt4_20260514PJ_AkliAyana_US.png,/en-us/players/45848-a.akli
 47251,Ilia,SIMAKIN,I.SIMAKIN,304,411,---,M,22 years-old,(27 October 2003),Right,-,-,https://images.prismic.io/fft-rg-site/agipnKYofJOwHS4q_20260516_PJ_SimakinIlia_US.png,/en-us/players/47251-i.simakin
 23934,Ana Sofia,SÁNCHEZ,AS.SÁNCHEZ,305,456,MEX,F,32 years-old,(13 April 1994),Left,-,-,https://images.prismic.io/fft-rg-site/aghjt6YofJOwHStz_20260514_PJ_SanchezAnaSofia_US.png,/en-us/players/23934-as.sánchez
 28266,Chloé,PAQUET,C.PAQUET,309,,FRA,F,32 years-old,(1 July 1994),Right,-,-,https://images.prismic.io/fft-rg-site/aDAioidWJ-7kSeRQ_28266_G.png,/en-us/players/28266-c.paquet
@@ -611,7 +611,7 @@ player_id,first_name,last_name,short_name,ranking,ranking_double,country,sex,age
 20026,Stephane,HOUDET,S.HOUDET,,,FRA,M,55 years-old,(20 November 1970),-,-,-,https://images.prismic.io/fft-rg-site/ah8LSAeQX7-eWkoo_20260601_PJ_HoudetStephane_US.png,/en-us/players/20026-s.houdet
 25856,Eri,HOZUMI,E.HOZUMI,,63,JPN,F,32 years-old,(17 February 1994),Right,-,-,https://images.prismic.io/fft-rg-site/c3e35caa-7f63-4a4f-90bd-2b2d8e086f61_20180526_PJ_HozumiEri_US.png,/en-us/players/25856-e.hozumi
 6004,Su-Wei,HSIEH,SW.HSIEH,,9,TPE,F,40 years-old,(4 January 1986),Right,-,-,https://images.prismic.io/fft-rg-site/9cf69228-6db6-44c5-af18-7f055dfebe9c_20190304_PJ_HsiehSuWei_US.png,/en-us/players/6004-sw.hsieh
-51373,Eleejah,INISAN,E.INISAN,,,FRA,F,17 years-old,(6 July 2008),-,-,-,https://images.prismic.io/fft-rg-site/aCsmVSdWJ-7kSTB4_51373_G.png,/en-us/players/51373-e.inisan
+51373,Eleejah,INISAN,E.INISAN,,,FRA,F,18 years-old,(6 July 2008),-,-,-,https://images.prismic.io/fft-rg-site/aCsmVSdWJ-7kSTB4_51373_G.png,/en-us/players/51373-e.inisan
 9038,Ana,IVANOVIC,A.IVANOVIC,,,SRB,F,-,,-,-,-,,/en-us/players/9038-a.ivanovic
 32008,Gregoire,JACQ,G.JACQ,,224,FRA,M,33 years-old,(9 November 1992),Left,-,-,https://images.prismic.io/fft-rg-site/ZlxyH6WtHYXtT_1X_32008_G.JACQ.png,/en-us/players/32008-g.jacq
 51722,Daniel,JADE,D.JADE,,,FRA,M,17 years-old,(16 March 2009),Right,-,-,https://images.prismic.io/fft-rg-site/ZlwfuqWtHYXtT_vT_51722_D.JADE.png,/en-us/players/51722-d.jade
