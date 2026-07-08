@@ -735,7 +735,7 @@ player_id,first_name,last_name,short_name,ranking,ranking_double,country,sex,age
 24145,Mate,PAVIC,M.PAVIC,,11,CRO,M,33 years-old,(4 July 1993),Left,-,-,https://images.prismic.io/fft-rg-site/018ac85f-8926-45b7-bbed-1c9098f2e6ba_Pavic.m_11808_LR+CUT.png,/en-us/players/24145-m.pavic
 26314,Adam,PAVLASEK,A.PAVLASEK,,43,CZE,M,31 years-old,(8 October 1994),Right,-,-,https://images.prismic.io/fft-rg-site/63fde39f-4e15-4d35-a605-3b82e87ce780_20190521_PJ_PavlasekAdam_US.png,/en-us/players/26314-a.pavlasek
 17645,John,PEERS,J.PEERS,,68,AUS,M,37 years-old,(25 July 1988),Right,-,-,https://images.prismic.io/fft-rg-site/f23f62f2-5508-4c07-99a7-99e55c13873f_20240112_PJ_PeersJohn_US.png,/en-us/players/17645-j.peers
-21688,David,PEL,D.PEL,,22,NED,M,34 years-old,(9 July 1991),Left,-,-,,/en-us/players/21688-d.pel
+21688,David,PEL,D.PEL,,22,NED,M,35 years-old,(9 July 1991),Left,-,-,,/en-us/players/21688-d.pel
 30781,Ellen,PEREZ,E.PEREZ,,21,AUS,F,30 years-old,(10 October 1995),Left,-,-,https://images.prismic.io/fft-rg-site/aetafMBOoF08xRzF_20260228_PJ_PerezEllen_US.png,/en-us/players/30781-e.perez
 45897,Filip,PIECZONKA,F.PIECZONKA,,85,POL,M,22 years-old,(9 April 2004),Left,-,-,https://images.prismic.io/fft-rg-site/ahHbYrK9tuLqEGOt_20260523_PJ_PieczonkaFilip_US.png,/en-us/players/45897-f.pieczonka
 54416,Paola,PINERA CELORIO,P.PINERA CELORIO,,,ESP,F,15 years-old,(28 September 2010),-,-,-,https://images.prismic.io/fft-rg-site/ahxmhAeQX7-eWdXX_20260530_PJ_PineraCelorioPaola_US.png,/en-us/players/54416-p.pinera-celorio
@@ -794,11 +794,11 @@ player_id,first_name,last_name,short_name,ranking,ranking_double,country,sex,age
 26498,Aldila,SUTJIADI,A.SUTJIADI,,36,INA,F,31 years-old,(2 May 1995),Right,-,-,https://images.prismic.io/fft-rg-site/34393b5d-63ac-459a-9403-e67d4389d2c7_Sutjiadi.png,/en-us/players/26498-a.sutjiadi
 53038,Ryo,TABATA,R.TABATA,,,JPN,M,18 years-old,(6 January 2008),Right,-,-,https://images.prismic.io/fft-rg-site/ahxryAeQX7-eWdYC_20260530_PJ_TabataRio_US.png,/en-us/players/53038-r.tabata
 38290,Qianhui,TANG,Q.TANG,,68,CHN,F,25 years-old,(10 September 2000),Right,-,-,https://images.prismic.io/fft-rg-site/ahW3V7K9tuLqEKCl_20260526_PJ_TangQuianhui_US.png,/en-us/players/38290-q.tang
-54863,Alisa,TERENTYEVA,A.TERENTYEVA,,,---,F,15 years-old,(9 July 2010),-,-,-,,/en-us/players/54863-a.terentyeva
+54863,Alisa,TERENTYEVA,A.TERENTYEVA,,,---,F,16 years-old,(9 July 2010),-,-,-,,/en-us/players/54863-a.terentyeva
 52676,Mariella,THAMM,M.THAMM,,,GER,F,16 years-old,(21 August 2009),-,-,-,https://images.prismic.io/fft-rg-site/aDxzQLh8WN-LVdM1_52676_G.png,/en-us/players/52676-m.thamm
 38299,Karman,THANDI,K.THANDI,,,IND,F,28 years-old,(16 June 1998),-,-,-,https://images.prismic.io/fft-rg-site/agh-kKYofJOwHS0Y_20260516_PJ_ThandiKarman_US.png,/en-us/players/38299-k.thandi
 54816,Christopher,THIES,C.THIES,,,GER,M,18 years-old,(22 February 2008),-,-,-,https://images.prismic.io/fft-rg-site/ahxsFQeQX7-eWdYF_20260530_PJ_ThiesChristopher_US.png,/en-us/players/54816-c.thies
-52074,Flynn,THOMAS,F.THOMAS,,,SUI,M,17 years-old,(9 July 2008),Left,-,-,https://images.prismic.io/fft-rg-site/aDwa3bh8WN-LVc0I_52074_G.png,/en-us/players/52074-f.thomas
+52074,Flynn,THOMAS,F.THOMAS,,,SUI,M,18 years-old,(9 July 2008),Left,-,-,https://images.prismic.io/fft-rg-site/aDwa3bh8WN-LVc0I_52074_G.png,/en-us/players/52074-f.thomas
 54775,Kai,THOMPSON,K.THOMPSON,,,HKG,M,17 years-old,(25 July 2008),Left,-,-,https://images.prismic.io/fft-rg-site/ahroDQeQX7-eWc3L_20260530_PJ_ThompsonKai_US.png,/en-us/players/54775-k.thompson
 52078,Matei,TODORAN,M.TODORAN,,,ROU,M,18 years-old,(3 January 2008),-,-,-,https://images.prismic.io/fft-rg-site/ahxsdgeQX7-eWdYH_20260530_PJ_TodoranMatei_US.png,/en-us/players/52078-m.todoran
 47171,Jj,TRACY,J.TRACY,,27,USA,M,23 years-old,(10 July 2002),Right,-,-,https://images.prismic.io/fft-rg-site/aeooycBOoF08xQFQ_20260117_PJ_TracyJames_US.png,/en-us/players/47171-j.tracy
