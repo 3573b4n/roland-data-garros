@@ -55,7 +55,7 @@ player_id,first_name,last_name,short_name,ranking,ranking_double,country,sex,age
 47743,Zhenzhen,ZHU,Z.ZHU,10,1,CHN,F,37 years-old,(6 April 1989),-,-,-,https://images.prismic.io/fft-rg-site/ah1eXgeQX7-eWerv_20260531_PJ_ZhuZhenzhen_US.png,/en-us/players/47743-z.zhu
 28865,Belinda,BENCIC,B.BENCIC,11,,SUI,F,29 years-old,(10 March 1997),Right,-,-,https://images.prismic.io/fft-rg-site/aetahcBOoF08xRzO_20260302_PJ_BencicBelinda_US.png,/en-us/players/28865-b.bencic
 29098,Alexander,BUBLIK,A.BUBLIK,11,377,KAZ,M,29 years-old,(17 June 1997),Right,-,-,https://images.prismic.io/fft-rg-site/aeoo1sBOoF08xQFf_20260118_PJ_BublikAlexander_US.png,/en-us/players/29098-a.bublik
-47755,Daniel,CAVERZASCHI,D.CAVERZASCHI,11,5,ESP,M,32 years-old,(11 July 1993),-,-,-,https://images.prismic.io/fft-rg-site/ah1ZeweQX7-eWepK_20260531_PJ_CaverzaschiDaniel_US.png,/en-us/players/47755-d.caverzaschi
+47755,Daniel,CAVERZASCHI,D.CAVERZASCHI,11,5,ESP,M,33 years-old,(11 July 1993),-,-,-,https://images.prismic.io/fft-rg-site/ah1ZeweQX7-eWepK_20260531_PJ_CaverzaschiDaniel_US.png,/en-us/players/47755-d.caverzaschi
 52787,Luoyao,GUO,L.GUO,11,10,CHN,F,24 years-old,(11 November 2001),-,-,-,https://images.prismic.io/fft-rg-site/ah1axAeQX7-eWepw_20260531_PJ_GuoLuoyao_US.png,/en-us/players/52787-l.guo
 21987,Jiske,GRIFFIOEN,J.GRIFFIOEN,12,20,NED,F,41 years-old,(17 April 1985),-,-,-,https://images.prismic.io/fft-rg-site/ah1akweQX7-eWepp_20260531_PJ_GriffioenJiske_US.png,/en-us/players/21987-j.griffioen
 45660,Linda,NOSKOVA,L.NOSKOVA,12,56,CZE,F,21 years-old,(17 November 2004),Right,-,-,https://images.prismic.io/fft-rg-site/aetaicBOoF08xRzS_20260302_PJ_NoskovaLinda_US.png,/en-us/players/45660-l.noskova
@@ -426,7 +426,7 @@ player_id,first_name,last_name,short_name,ranking,ranking_double,country,sex,age
 38420,Yu Hsiou,HSU,YH.HSU,206,200,TPE,M,27 years-old,(2 April 1999),Right,-,-,https://images.prismic.io/fft-rg-site/aftEq8BOoF08xrPD_20250517_PJ_HsuYuHsiou_US.png,/en-us/players/38420-yh.hsu
 47434,Elena,PRIDANKINA,E.PRIDANKINA,206,76,---,F,20 years-old,(30 August 2005),Right,-,-,https://images.prismic.io/fft-rg-site/aCoX9idWJ-7kSQxi_47434_G.png,/en-us/players/47434-e.pridankina
 47174,James,MCCABE,J.MCCABE,207,370,AUS,M,23 years-old,(5 July 2003),Right,-,-,https://images.prismic.io/fft-rg-site/aeoowsBOoF08xQFJ_20260117_PJ_MccabeJames_US.png,/en-us/players/47174-j.mccabe
-17343,Mona,BARTHEL,M.BARTHEL,208,,GER,F,35 years-old,(11 July 1990),Right,-,-,https://images.prismic.io/fft-rg-site/aghjwKYofJOwHSt9_20260515_PJ_BarthelMona_US.png,/en-us/players/17343-m.barthel
+17343,Mona,BARTHEL,M.BARTHEL,208,,GER,F,36 years-old,(11 July 1990),Right,-,-,https://images.prismic.io/fft-rg-site/aghjwKYofJOwHSt9_20260515_PJ_BarthelMona_US.png,/en-us/players/17343-m.barthel
 51129,Matej,DODIG,M.DODIG,208,,CRO,M,20 years-old,(19 July 2005),Right,-,-,https://images.prismic.io/fft-rg-site/agyJl6YofJOwHYoC_20260519_PJ_DodigMatej_US.png,/en-us/players/51129-m.dodig
 24530,Liam,BROADY,L.BROADY,209,,GBR,M,32 years-old,(4 January 1994),Left,-,-,https://images.prismic.io/fft-rg-site/aftGsMBOoF08xrU3_20220517_PJ_BroadyLiam_US.png,/en-us/players/24530-l.broady
 47417,Lucie,HAVLICKOVA,L.HAVLICKOVA,209,124,CZE,F,21 years-old,(13 March 2005),Right,-,-,https://images.prismic.io/fft-rg-site/agipIqYofJOwHS4g_20260516_PJ_Havli%CC%81ckovaLucie_US.png,/en-us/players/47417-l.havlickova
@@ -561,7 +561,7 @@ player_id,first_name,last_name,short_name,ranking,ranking_double,country,sex,age
 56733,Capucine,CEDILLO- VAYSON DE PRADENNE,C.CEDILLO- VAYSON DE PRADENNE,,,FRA,F,16 years-old,(24 September 2009),-,-,-,https://images.prismic.io/fft-rg-site/ahxBnweQX7-eWdPl_20260530_PJ_CedilloVaysonDePrademneCapucine_US.png,/en-us/players/56733-c.cedillo--vayson-de-pradenne
 53042,Pedro Henrique,CHABALGOITY,PH.CHABALGOITY,,,BRA,M,18 years-old,(15 April 2008),Left,-,-,https://images.prismic.io/fft-rg-site/ahxB2QeQX7-eWdPo_20260530_PJ_ChabalgoityPedroHenrique_US.png,/en-us/players/53042-ph.chabalgoity
 21226,Hao-Ching,CHAN,HC.CHAN,,42,TPE,F,32 years-old,(19 September 1993),Right,-,-,https://images.prismic.io/fft-rg-site/4ba87e0b-0bf7-4eeb-8264-635d1ea92dd2_20180526_PJ_ChanHaoChing_US.png,/en-us/players/21226-hc.chan
-38531,Anirudh,CHANDRASEKAR,A.CHANDRASEKAR,,92,IND,M,27 years-old,(11 July 1998),Left,-,-,,/en-us/players/38531-a.chandrasekar
+38531,Anirudh,CHANDRASEKAR,A.CHANDRASEKAR,,92,IND,M,28 years-old,(11 July 1998),Left,-,-,,/en-us/players/38531-a.chandrasekar
 55990,Lani,CHANG,L.CHANG,,,USA,F,15 years-old,(9 December 2010),-,-,-,https://images.prismic.io/fft-rg-site/ahxCogeQX7-eWdPq_20260530_PJ_ChangLani_US.png,/en-us/players/55990-l.chang
 104,Michael,CHANG,M.CHANG,,,USA,M,-,,-,-,-,https://images.prismic.io/fft-rg-site/6b9f9625-58ee-4206-834f-d575c551037e_20190603_PJ_ChangMichael_US.png,/en-us/players/104-m.chang
 54738,Tito,CHAVEZ,T.CHAVEZ,,,ESP,M,18 years-old,(1 February 2008),Left,-,-,,/en-us/players/54738-t.chavez
