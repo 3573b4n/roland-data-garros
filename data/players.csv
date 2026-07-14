@@ -276,13 +276,13 @@ player_id,first_name,last_name,short_name,ranking,ranking_double,country,sex,age
 51270,Nicolai,BUDKOV KJAER,N.BUDKOV KJAER,118,,NOR,M,19 years-old,(1 September 2006),Right,-,-,https://images.prismic.io/fft-rg-site/aeoo18BOoF08xQFg_20260118_PJ_BudkovKjaerNicolai_US.png,/en-us/players/51270-n.budkov-kjaer
 42516,Alina,CHARAEVA,A.CHARAEVA,118,,---,F,24 years-old,(27 May 2002),Right,-,-,https://images.prismic.io/fft-rg-site/244718d0-ad1e-4fbe-97e3-8d54568382cf_20190601_PJ_CharaevaAlina_US.png,/en-us/players/42516-a.charaeva
 43951,Titouan,DROGUET,T.DROGUET,119,306,FRA,M,25 years-old,(15 June 2001),Right,-,-,https://images.prismic.io/fft-rg-site/aCwp2ydWJ-7kSU05_43951_G.png,/en-us/players/43951-t.droguet
-31367,Jil,TEICHMANN,J.TEICHMANN,119,,SUI,F,28 years-old,(15 July 1997),Left,-,-,https://images.prismic.io/fft-rg-site/4a2af383-77ce-4d3f-a757-518dfd78a8ba_Teichmann.png,/en-us/players/31367-j.teichmann
+31367,Jil,TEICHMANN,J.TEICHMANN,119,,SUI,F,29 years-old,(15 July 1997),Left,-,-,https://images.prismic.io/fft-rg-site/4a2af383-77ce-4d3f-a757-518dfd78a8ba_Teichmann.png,/en-us/players/31367-j.teichmann
 38517,Zsombor,PIROS,Z.PIROS,120,,HUN,M,26 years-old,(13 October 1999),Right,-,-,https://images.prismic.io/fft-rg-site/ZkpG6yol0Zci9RHo_20240516_PJ_PirosZsombor_US.png,/en-us/players/38517-z.piros
 38349,Yue,YUAN,Y.YUAN,120,181,CHN,F,27 years-old,(25 September 1998),Right,-,-,https://images.prismic.io/fft-rg-site/aghjvaYofJOwHSt5_20260514PJ_YuanYue_US.png,/en-us/players/38349-y.yuan
 44196,Himeno,SAKATSUME,H.SAKATSUME,121,,JPN,F,24 years-old,(3 August 2001),Right,-,-,https://images.prismic.io/fft-rg-site/agnwWKYofJOwHTXK_20260517_PJ_SakatsumeHimeno_US.png,/en-us/players/44196-h.sakatsume
 48801,Michael,ZHENG,M.ZHENG,121,,USA,M,22 years-old,(27 January 2004),Right,-,-,https://images.prismic.io/fft-rg-site/agnv2aYofJOwHTXE_20260517_PJ_ZhengMichael_US.png,/en-us/players/48801-m.zheng
 43948,Dane,SWEENY,D.SWEENY,122,270,AUS,M,25 years-old,(12 February 2001),Right,-,-,https://images.prismic.io/fft-rg-site/ZkpCCCol0Zci9RHO_20240516_PJ_SweenyDane_US.png,/en-us/players/43948-d.sweeny
-43003,Jacob,FEARNLEY,J.FEARNLEY,123,,GBR,M,24 years-old,(15 July 2001),Right,-,-,https://images.prismic.io/fft-rg-site/aeoo_cBOoF08xQGP_20260119_PJ_FearnleyJacob_US.png,/en-us/players/43003-j.fearnley
+43003,Jacob,FEARNLEY,J.FEARNLEY,123,,GBR,M,25 years-old,(15 July 2001),Right,-,-,https://images.prismic.io/fft-rg-site/aeoo_cBOoF08xQGP_20260119_PJ_FearnleyJacob_US.png,/en-us/players/43003-j.fearnley
 40621,Francesca,JONES,F.JONES,123,,GBR,F,25 years-old,(19 September 2000),Right,-,-,https://images.prismic.io/fft-rg-site/aeuB88BOoF08xSLJ_20260228_PJ_JonesFrancesca_US.png,/en-us/players/40621-f.jones
 47289,Henrique,ROCHA,H.ROCHA,124,341,POR,M,22 years-old,(6 April 2004),Right,-,-,https://images.prismic.io/fft-rg-site/agh-eKYofJOwHS0B_20260515_PJ_RochaHenrique_US.png,/en-us/players/47289-h.rocha
 50999,Mary,STOIANA,M.STOIANA,124,305,USA,F,23 years-old,(6 May 2003),Right,-,-,https://images.prismic.io/fft-rg-site/agw0kqYofJOwHW8X_20260518_PJ_StoianaMary_US.PNG,/en-us/players/50999-m.stoiana
@@ -819,7 +819,7 @@ player_id,first_name,last_name,short_name,ranking,ranking_double,country,sex,age
 185,Mats,WILANDER,M.WILANDER,,,SWE,M,-,,-,-,-,https://images.prismic.io/fft-rg-site/6a409052-0d8e-402d-a6c9-0052986e6ce9_19830605_PJ_WillanderMats_US.png,/en-us/players/185-m.wilander
 19622,Marcus,WILLIS,M.WILLIS,,64,GBR,M,35 years-old,(9 October 1990),Left,-,-,https://images.prismic.io/fft-rg-site/ahin4bK9tuLqEPO4_20260528_PJ_WillisMarcus_US.png,/en-us/players/19622-m.willis
 54852,Ida,WOBKER,I.WOBKER,,,GER,F,15 years-old,(8 September 2010),-,-,-,,/en-us/players/54852-i.wobker
-38332,Fang-Hsien,WU,FH.WU,,64,TPE,F,26 years-old,(15 July 1999),Right,-,-,https://images.prismic.io/fft-rg-site/aghjuqYofJOwHSt2_20260514_PJ_WuFangHsien_US.png,/en-us/players/38332-fh.wu
+38332,Fang-Hsien,WU,FH.WU,,64,TPE,F,27 years-old,(15 July 1999),Right,-,-,https://images.prismic.io/fft-rg-site/aghjuqYofJOwHSt2_20260514_PJ_WuFangHsien_US.png,/en-us/players/38332-fh.wu
 14872,Yifan,XU,Y.XU,,30,CHN,F,37 years-old,(8 August 1988),Left,-,-,https://images.prismic.io/fft-rg-site/bc433df9-7e18-4e18-9423-d564d35e49f4_20180305_PJ_XuYifan_US+%281%29.png,/en-us/players/14872-y.xu
 56899,Sarah,YE,S.YE,,,USA,F,16 years-old,(28 January 2010),-,-,-,https://images.prismic.io/fft-rg-site/ahxt1weQX7-eWdYR_20260530_PJ_YeSarah_US.png,/en-us/players/56899-s.ye
 45877,Takeru,YUZUKI,T.YUZUKI,,87,JPN,M,27 years-old,(22 September 1998),Left,-,-,,/en-us/players/45877-t.yuzuki
