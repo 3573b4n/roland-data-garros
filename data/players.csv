@@ -104,7 +104,7 @@ player_id,first_name,last_name,short_name,ranking,ranking_double,country,sex,age
 29969,Arthur,RINDERKNECH,A.RINDERKNECH,28,118,FRA,M,30 years-old,(23 July 1995),Right,-,-,https://images.prismic.io/fft-rg-site/aeooxsBOoF08xQFN_20260117_PJ_RinderknechArthur_US.png,/en-us/players/29969-a.rinderknech
 36307,Ugo,HUMBERT,U.HUMBERT,29,,FRA,M,28 years-old,(26 June 1998),Left,-,-,https://images.prismic.io/fft-rg-site/2c014f30-f1a7-4055-8442-1a0934b83f13_20240113_PJ_HumbertUgo_US.png,/en-us/players/36307-u.humbert
 28758,Jelena,OSTAPENKO,J.OSTAPENKO,29,17,LAT,F,29 years-old,(8 June 1997),Right,-,-,https://images.prismic.io/fft-rg-site/a1fe46bd-a86d-4c97-8bb7-b8b92d96deb8_20240305_PJ_OstapenkoJelena_US.png,/en-us/players/28758-j.ostapenko
-36989,Tomas Martin,ETCHEVERRY,TM.ETCHEVERRY,30,165,ARG,M,26 years-old,(18 July 1999),Right,-,-,https://images.prismic.io/fft-rg-site/aeoo2cBOoF08xQFi_20260118_PJ_EtcheverryTomasMartin_US.png,/en-us/players/36989-tm.etcheverry
+36989,Tomas Martin,ETCHEVERRY,TM.ETCHEVERRY,30,165,ARG,M,27 years-old,(18 July 1999),Right,-,-,https://images.prismic.io/fft-rg-site/aeoo2cBOoF08xQFi_20260118_PJ_EtcheverryTomasMartin_US.png,/en-us/players/36989-tm.etcheverry
 42533,Clara,TAUSON,C.TAUSON,30,91,DEN,F,23 years-old,(21 December 2002),Right,-,-,https://images.prismic.io/fft-rg-site/aDQeuCdWJ-7kSiNv_42533_G.png,/en-us/players/42533-c.tauson
 40660,Ann,LI,A.LI,31,223,USA,F,26 years-old,(26 June 2000),Right,-,-,https://images.prismic.io/fft-rg-site/Zkrrdyol0Zci9RdV_20240518_PJ_LiAnn_US.png,/en-us/players/40660-a.li
 33575,Alejandro,TABILO,A.TABILO,31,235,CHI,M,29 years-old,(2 June 1997),Left,-,-,https://images.prismic.io/fft-rg-site/aeopBcBOoF08xQGY_20260119_PJ_TabiloAlejandro_US.png,/en-us/players/33575-a.tabilo
@@ -181,7 +181,7 @@ player_id,first_name,last_name,short_name,ranking,ranking_double,country,sex,age
 43963,Roman Andres,BURRUCHAGA,RA.BURRUCHAGA,67,273,ARG,M,24 years-old,(23 January 2002),Right,-,-,https://images.prismic.io/fft-rg-site/aCnN3CdWJ-7kSQko_43963_G.png,/en-us/players/43963-ra.burruchaga
 43602,Elisabetta,COCCIARETTO,E.COCCIARETTO,68,312,ITA,F,25 years-old,(25 January 2001),Right,-,-,https://images.prismic.io/fft-rg-site/f6a3dabb-5d57-41f7-bb90-af276694c125_20240302_PJ_CocciarettoElisabetta_US.png,/en-us/players/43602-e.cocciaretto
 31976,Hubert,HURKACZ,H.HURKACZ,68,,POL,M,29 years-old,(11 February 1997),Right,-,-,https://images.prismic.io/fft-rg-site/aeoo4MBOoF08xQFs_20260118_PJ_HurkaczHubert_US.png,/en-us/players/31976-h.hurkacz
-45423,Hamad,MEDJEDOVIC,H.MEDJEDOVIC,69,,SRB,M,22 years-old,(18 July 2003),Right,-,-,https://images.prismic.io/fft-rg-site/d222075e-dbd3-4a2e-81b5-6b20ef10aa55_20240112_PJ_MedjedovicHamad_US.png,/en-us/players/45423-h.medjedovic
+45423,Hamad,MEDJEDOVIC,H.MEDJEDOVIC,69,,SRB,M,23 years-old,(18 July 2003),Right,-,-,https://images.prismic.io/fft-rg-site/d222075e-dbd3-4a2e-81b5-6b20ef10aa55_20240112_PJ_MedjedovicHamad_US.png,/en-us/players/45423-h.medjedovic
 33732,Liudmila,SAMSONOVA,L.SAMSONOVA,69,44,---,F,27 years-old,(11 November 1998),Right,-,-,https://images.prismic.io/fft-rg-site/4ef60ca2-7b4f-473a-bfe2-873560221724_20240305_PJ_SamsonovaLiudmila_US.png,/en-us/players/33732-l.samsonova
 41293,Aleksandar,KOVACEVIC,A.KOVACEVIC,70,105,USA,M,27 years-old,(29 August 1998),Right,-,-,https://images.prismic.io/fft-rg-site/aeoowMBOoF08xQFH_20260117_PJ_KovacevicAleksandar_US.png,/en-us/players/41293-a.kovacevic
 42132,Alycia,PARKS,A.PARKS,70,210,USA,F,25 years-old,(31 December 2000),Right,-,-,https://images.prismic.io/fft-rg-site/aDQbaCdWJ-7kSiLD_42132_G.png,/en-us/players/42132-a.parks
@@ -399,7 +399,7 @@ player_id,first_name,last_name,short_name,ranking,ranking_double,country,sex,age
 42590,Yeonwoo,KU,Y.KU,187,,KOR,F,23 years-old,(15 March 2003),-,-,-,https://images.prismic.io/fft-rg-site/agnQU6YofJOwHTSP_20260517_PJ_KuYeonwoo_US.png,/en-us/players/42590-y.ku
 30524,Fiona,FERRO,F.FERRO,189,,FRA,F,29 years-old,(12 March 1997),Right,-,-,https://images.prismic.io/fft-rg-site/aCn36idWJ-7kSQrX_30524_G.png,/en-us/players/30524-f.ferro
 40667,Whitney,OSUIGWE,W.OSUIGWE,190,,USA,F,24 years-old,(17 April 2002),Right,-,-,https://images.prismic.io/fft-rg-site/aCni8idWJ-7kSQnc_40667_G.png,/en-us/players/40667-w.osuigwe
-44023,Chris,RODESCH,C.RODESCH,191,,LUX,M,24 years-old,(18 July 2001),Right,-,-,https://images.prismic.io/fft-rg-site/aCnNgSdWJ-7kSQkj_44023_G.png,/en-us/players/44023-c.rodesch
+44023,Chris,RODESCH,C.RODESCH,191,,LUX,M,25 years-old,(18 July 2001),Right,-,-,https://images.prismic.io/fft-rg-site/aCnNgSdWJ-7kSQkj_44023_G.png,/en-us/players/44023-c.rodesch
 38418,August,HOLMGREN,A.HOLMGREN,192,,DEN,M,28 years-old,(22 April 1998),Right,-,-,https://images.prismic.io/fft-rg-site/agh-hqYofJOwHS0P_20260516_PJ_HolmgrenAugust_US.png,/en-us/players/38418-a.holmgren
 45658,Robin,MONTGOMERY,R.MONTGOMERY,192,,USA,F,21 years-old,(5 September 2004),Left,-,-,https://images.prismic.io/fft-rg-site/df520baa-e6d7-42b1-937e-2fa8e1369efe_20240305_PJ_MontgomeryRobin_US.png,/en-us/players/45658-r.montgomery
 49550,Gianluca,CADENASSO,G.CADENASSO,193,184,ITA,M,21 years-old,(29 September 2004),Right,-,-,https://images.prismic.io/fft-rg-site/agm5XaYofJOwHTI0_20260517_PJ_CadenassoGianluca_US.png,/en-us/players/49550-g.cadenasso
@@ -534,7 +534,7 @@ player_id,first_name,last_name,short_name,ranking,ranking_double,country,sex,age
 1771,Mansour,BAHRAMI,M.BAHRAMI,,,FRA,M,-,,-,-,-,https://images.prismic.io/fft-rg-site/8e0c6187-8d4d-4913-b12a-f9f3010904c9_19990601_PJ_BahramiMansour_US.PNG,/en-us/players/1771-m.bahrami
 19198,N.Sriram,BALAJI,NS.BALAJI,,60,IND,M,36 years-old,(18 March 1990),Right,-,-,https://images.prismic.io/fft-rg-site/ahYSIbK9tuLqEKo0_20260526_PJ_BalajiNSriram_US.PNG,/en-us/players/19198-ns.balaji
 38490,Siddhant,BANTHIA,S.BANTHIA,,122,IND,M,25 years-old,(4 August 2000),Right,-,-,,/en-us/players/38490-s.banthia
-54947,Daniel,BARANES,D.BARANES,,,FRA,F,14 years-old,(18 July 2011),-,-,-,,/en-us/players/54947-d.baranes
+54947,Daniel,BARANES,D.BARANES,,,FRA,F,15 years-old,(18 July 2011),-,-,-,,/en-us/players/54947-d.baranes
 24459,Nicolas,BARRIENTOS,N.BARRIENTOS,,90,COL,M,39 years-old,(24 April 1987),Right,-,-,https://images.prismic.io/fft-rg-site/aDQUJSdWJ-7kSiEx_24459_G.png,/en-us/players/24459-n.barrientos
 53108,Victoria Luiza,BARROS,VL.BARROS,,,BRA,F,16 years-old,(21 December 2009),-,-,-,https://images.prismic.io/fft-rg-site/ahw8pQeQX7-eWdPA_20260530_PJ_BarrosVictoriaLuiza_US.png,/en-us/players/53108-vl.barros
 5204,Marion,BARTOLI,M.BARTOLI,,,FRA,F,-,,-,-,-,,/en-us/players/5204-m.bartoli
