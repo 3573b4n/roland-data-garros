@@ -68,7 +68,7 @@ player_id,first_name,last_name,short_name,ranking,ranking_double,country,sex,age
 28865,Belinda,BENCIC,B.BENCIC,14,,SUI,F,29 years-old,(10 March 1997),Right,-,-,https://images.prismic.io/fft-rg-site/aetahcBOoF08xRzO_20260302_PJ_BencicBelinda_US.png,/en-us/players/28865-b.bencic
 47745,Angelica,BERNAL,A.BERNAL,14,14,COL,F,31 years-old,(27 March 1995),-,-,-,https://images.prismic.io/fft-rg-site/ah1ZDgeQX7-eWeoy_20260531_PJ_BernalAngelica_US.png,/en-us/players/47745-a.bernal
 31132,Andrey,RUBLEV,A.RUBLEV,14,140,---,M,28 years-old,(20 October 1997),Right,-,-,https://images.prismic.io/fft-rg-site/aeoosMBOoF08xQE0_20260116_PJ_RublevAndrey_US.png,/en-us/players/31132-a.rublev
-47757,Alexander,CATALDO,A.CATALDO,15,24,CHI,M,28 years-old,(16 January 1998),-,-,-,https://images.prismic.io/fft-rg-site/ah8LQAeQX7-eWkod_20260601_PJ_CataldoAlexander_US.png,/en-us/players/47757-a.cataldo
+47757,Alexander,CATALDO,A.CATALDO,15,23,CHI,M,28 years-old,(16 January 1998),-,-,-,https://images.prismic.io/fft-rg-site/ah8LQAeQX7-eWkod_20260601_PJ_CataldoAlexander_US.png,/en-us/players/47757-a.cataldo
 33206,Jasmine,PAOLINI,J.PAOLINI,15,14,ITA,F,30 years-old,(4 January 1996),Right,-,-,https://images.prismic.io/fft-rg-site/aDQbRCdWJ-7kSiK__33206_G.png,/en-us/players/33206-j.paolini
 45947,Manami,TANAKA,M.TANAKA,15,7,JPN,F,30 years-old,(10 June 1996),-,-,-,https://images.prismic.io/fft-rg-site/ah1eBgeQX7-eWerf_20260531_PJ_TanakaManami_US.png,/en-us/players/45947-m.tanaka
 51369,Pauline,DEROULEDE,P.DEROULEDE,16,18,FRA,F,35 years-old,(30 December 1990),-,-,-,https://images.prismic.io/fft-rg-site/ah8LRQeQX7-eWkok_20260601_PJ_DerouledePauline_US.png,/en-us/players/51369-p.deroulede
@@ -88,7 +88,7 @@ player_id,first_name,last_name,short_name,ranking,ranking_double,country,sex,age
 45420,Luciano,DARDERI,L.DARDERI,21,189,ITA,M,24 years-old,(14 February 2002),Right,-,-,https://images.prismic.io/fft-rg-site/aDQTLSdWJ-7kSiD-_45420_G.png,/en-us/players/45420-l.darderi
 40998,Francisco,CERUNDOLO,F.CERUNDOLO,22,262,ARG,M,27 years-old,(13 August 1998),Right,-,-,https://images.prismic.io/fft-rg-site/aDQR5ydWJ-7kSiCJ_40998_G.png,/en-us/players/40998-f.cerundolo
 40630,Maja,CHWALINSKA,M.CHWALINSKA,22,,POL,F,24 years-old,(11 October 2001),Left,-,-,https://images.prismic.io/fft-rg-site/aghjxKYofJOwHSuB_20260515_PJ_ChwalinskaMaja_US.png,/en-us/players/40630-m.chwalinska
-52804,Charlotte,FAIRBANK,C.FAIRBANK,23,26,FRA,F,34 years-old,(22 August 1991),-,-,-,https://images.prismic.io/fft-rg-site/ah2hBgeQX7-eWfwb_20260601_PJ_FairbankCharlotte_US.png,/en-us/players/52804-c.fairbank
+52804,Charlotte,FAIRBANK,C.FAIRBANK,23,25,FRA,F,34 years-old,(22 August 1991),-,-,-,https://images.prismic.io/fft-rg-site/ah2hBgeQX7-eWfwb_20260601_PJ_FairbankCharlotte_US.png,/en-us/players/52804-c.fairbank
 24265,Madison,KEYS,M.KEYS,23,,USA,F,31 years-old,(17 February 1995),Right,-,-,https://images.prismic.io/fft-rg-site/aetah8BOoF08xRzQ_20260302_PJ_KeysMadison_US.png,/en-us/players/24265-m.keys
 26448,Elise,MERTENS,E.MERTENS,24,8,BEL,F,30 years-old,(17 November 1995),Right,-,-,https://images.prismic.io/fft-rg-site/7bb2deb8-2878-497b-8ed1-f258bbdcc487_20240305_PJ_MertensElise_US.png,/en-us/players/26448-e.mertens
 33541,Tommy,PAUL,T.PAUL,24,,USA,M,29 years-old,(17 May 1997),Right,-,-,https://images.prismic.io/fft-rg-site/4e310bca-e21b-43fe-b847-88c88aa5b09b_Paul.png,/en-us/players/33541-t.paul
