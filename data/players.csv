@@ -56,7 +56,7 @@ player_id,first_name,last_name,short_name,ranking,ranking_double,country,sex,age
 52787,Luoyao,GUO,L.GUO,11,8,CHN,F,24 years-old,(11 November 2001),-,-,-,https://images.prismic.io/fft-rg-site/ah1axAeQX7-eWepw_20260531_PJ_GuoLuoyao_US.png,/en-us/players/52787-l.guo
 40683,Marta,KOSTYUK,M.KOSTYUK,11,163,UKR,F,24 years-old,(28 June 2002),Right,-,-,https://images.prismic.io/fft-rg-site/aDQZzydWJ-7kSiI-_40683_G.png,/en-us/players/40683-m.kostyuk
 57275,Gregory,SLADE,G.SLADE,11,10,GBR,M,24 years-old,(19 May 2002),-,-,-,https://images.prismic.io/fft-rg-site/ah6laweQX7-eWibb_20260601_PJ_SladeGregory_US.png,/en-us/players/57275-g.slade
-52758,Lucas John,DE GOUVEIA,LJ.DE GOUVEIA,12,,GBR,M,15 years-old,(25 July 2010),-,-,-,https://images.prismic.io/fft-rg-site/ah8LQweQX7-eWkoi_20260601_PJ_DeGouveiaLucasJohn_US.png,/en-us/players/52758-lj.de-gouveia
+52758,Lucas John,DE GOUVEIA,LJ.DE GOUVEIA,12,,GBR,M,16 years-old,(25 July 2010),-,-,-,https://images.prismic.io/fft-rg-site/ah8LQweQX7-eWkoi_20260601_PJ_DeGouveiaLucasJohn_US.png,/en-us/players/52758-lj.de-gouveia
 21987,Jiske,GRIFFIOEN,J.GRIFFIOEN,12,16,NED,F,41 years-old,(17 April 1985),-,-,-,https://images.prismic.io/fft-rg-site/ah1akweQX7-eWepp_20260531_PJ_GriffioenJiske_US.png,/en-us/players/21987-j.griffioen
 43155,Jiri,LEHECKA,J.LEHECKA,12,259,CZE,M,24 years-old,(8 November 2001),Right,-,-,https://images.prismic.io/fft-rg-site/aeooqsBOoF08xQEt_20260116_PJ_LeheckaJiri_US.png,/en-us/players/43155-j.lehecka
 54925,Sergei,LYSOV,S.LYSOV,12,25,ISR,M,22 years-old,(22 April 2004),-,-,-,https://images.prismic.io/fft-rg-site/ah1zDAeQX7-eWfAX_20260601_PJ_LysovSergei_US.png,/en-us/players/54925-s.lysov
@@ -111,7 +111,7 @@ player_id,first_name,last_name,short_name,ranking,ranking_double,country,sex,age
 40660,Ann,LI,A.LI,32,217,USA,F,26 years-old,(26 June 2000),Right,-,-,https://images.prismic.io/fft-rg-site/Zkrrdyol0Zci9RdV_20240518_PJ_LiAnn_US.png,/en-us/players/40660-a.li
 41418,Brandon,NAKASHIMA,B.NAKASHIMA,32,335,USA,M,24 years-old,(3 August 2001),Right,-,-,https://images.prismic.io/fft-rg-site/aeoor8BOoF08xQEz_20260116_PJ_NakashimaBrandon_US.png,/en-us/players/41418-b.nakashima
 43964,Matteo,ARNALDI,M.ARNALDI,33,,ITA,M,25 years-old,(22 February 2001),Right,-,-,https://images.prismic.io/fft-rg-site/aeooz8BOoF08xQFY_20260118_PJ_ArnaldiMatteo_US.png,/en-us/players/43964-m.arnaldi
-28771,Maria,SAKKARI,M.SAKKARI,33,,GRE,F,30 years-old,(25 July 1995),Right,-,-,https://images.prismic.io/fft-rg-site/aDQdLSdWJ-7kSiLx_28771_G.png,/en-us/players/28771-m.sakkari
+28771,Maria,SAKKARI,M.SAKKARI,33,,GRE,F,31 years-old,(25 July 1995),Right,-,-,https://images.prismic.io/fft-rg-site/aDQdLSdWJ-7kSiLx_28771_G.png,/en-us/players/28771-m.sakkari
 42515,Hailey,BAPTISTE,H.BAPTISTE,34,137,USA,F,24 years-old,(3 November 2001),Right,-,-,https://images.prismic.io/fft-rg-site/aDlfXydWJ-7kSuCp_42515_G.png,/en-us/players/42515-h.baptiste
 36748,Zizou,BERGS,Z.BERGS,34,399,BEL,M,27 years-old,(3 June 1999),Right,-,-,https://images.prismic.io/fft-rg-site/aeootsBOoF08xQE8_20260117_PJ_BergsZizou_US.png,/en-us/players/36748-z.bergs
 46070,Ignacio,BUSE,I.BUSE,35,428,PER,M,22 years-old,(25 March 2004),Right,-,-,https://images.prismic.io/fft-rg-site/aCoVVidWJ-7kSQwp_46070_G.png,/en-us/players/46070-i.buse
@@ -733,7 +733,7 @@ player_id,first_name,last_name,short_name,ranking,ranking_double,country,sex,age
 40518,Jakub,PAUL,J.PAUL,,67,SUI,M,27 years-old,(22 March 1999),Right,-,-,,/en-us/players/40518-j.paul
 24145,Mate,PAVIC,M.PAVIC,,9,CRO,M,33 years-old,(4 July 1993),Left,-,-,https://images.prismic.io/fft-rg-site/018ac85f-8926-45b7-bbed-1c9098f2e6ba_Pavic.m_11808_LR+CUT.png,/en-us/players/24145-m.pavic
 26314,Adam,PAVLASEK,A.PAVLASEK,,37,CZE,M,31 years-old,(8 October 1994),Right,-,-,https://images.prismic.io/fft-rg-site/63fde39f-4e15-4d35-a605-3b82e87ce780_20190521_PJ_PavlasekAdam_US.png,/en-us/players/26314-a.pavlasek
-17645,John,PEERS,J.PEERS,,68,AUS,M,37 years-old,(25 July 1988),Right,-,-,https://images.prismic.io/fft-rg-site/f23f62f2-5508-4c07-99a7-99e55c13873f_20240112_PJ_PeersJohn_US.png,/en-us/players/17645-j.peers
+17645,John,PEERS,J.PEERS,,68,AUS,M,38 years-old,(25 July 1988),Right,-,-,https://images.prismic.io/fft-rg-site/f23f62f2-5508-4c07-99a7-99e55c13873f_20240112_PJ_PeersJohn_US.png,/en-us/players/17645-j.peers
 21688,David,PEL,D.PEL,,57,NED,M,35 years-old,(9 July 1991),Left,-,-,,/en-us/players/21688-d.pel
 30781,Ellen,PEREZ,E.PEREZ,,19,AUS,F,30 years-old,(10 October 1995),Left,-,-,https://images.prismic.io/fft-rg-site/aetafMBOoF08xRzF_20260228_PJ_PerezEllen_US.png,/en-us/players/30781-e.perez
 45897,Filip,PIECZONKA,F.PIECZONKA,,86,POL,M,22 years-old,(9 April 2004),Left,-,-,https://images.prismic.io/fft-rg-site/ahHbYrK9tuLqEGOt_20260523_PJ_PieczonkaFilip_US.png,/en-us/players/45897-f.pieczonka
@@ -798,7 +798,7 @@ player_id,first_name,last_name,short_name,ranking,ranking_double,country,sex,age
 38299,Karman,THANDI,K.THANDI,,,IND,F,28 years-old,(16 June 1998),-,-,-,https://images.prismic.io/fft-rg-site/agh-kKYofJOwHS0Y_20260516_PJ_ThandiKarman_US.png,/en-us/players/38299-k.thandi
 54816,Christopher,THIES,C.THIES,,,GER,M,18 years-old,(22 February 2008),-,-,-,https://images.prismic.io/fft-rg-site/ahxsFQeQX7-eWdYF_20260530_PJ_ThiesChristopher_US.png,/en-us/players/54816-c.thies
 52074,Flynn,THOMAS,F.THOMAS,,,SUI,M,18 years-old,(9 July 2008),Left,-,-,https://images.prismic.io/fft-rg-site/aDwa3bh8WN-LVc0I_52074_G.png,/en-us/players/52074-f.thomas
-54775,Kai,THOMPSON,K.THOMPSON,,,HKG,M,17 years-old,(25 July 2008),Left,-,-,https://images.prismic.io/fft-rg-site/ahroDQeQX7-eWc3L_20260530_PJ_ThompsonKai_US.png,/en-us/players/54775-k.thompson
+54775,Kai,THOMPSON,K.THOMPSON,,,HKG,M,18 years-old,(25 July 2008),Left,-,-,https://images.prismic.io/fft-rg-site/ahroDQeQX7-eWc3L_20260530_PJ_ThompsonKai_US.png,/en-us/players/54775-k.thompson
 52078,Matei,TODORAN,M.TODORAN,,,ROU,M,18 years-old,(3 January 2008),-,-,-,https://images.prismic.io/fft-rg-site/ahxsdgeQX7-eWdYH_20260530_PJ_TodoranMatei_US.png,/en-us/players/52078-m.todoran
 47171,Jj,TRACY,J.TRACY,,33,USA,M,24 years-old,(10 July 2002),Right,-,-,https://images.prismic.io/fft-rg-site/aeooycBOoF08xQFQ_20260117_PJ_TracyJames_US.png,/en-us/players/47171-j.tracy
 54522,Olivia,TRAYNOR,O.TRAYNOR,,,USA,F,18 years-old,(5 January 2008),-,-,-,,/en-us/players/54522-o.traynor
