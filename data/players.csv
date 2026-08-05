@@ -201,7 +201,7 @@ player_id,first_name,last_name,short_name,ranking,ranking_double,country,sex,age
 33731,Elena-Gabriela,RUSE,EG.RUSE,77,85,ROU,F,28 years-old,(6 November 1997),Right,-,-,https://images.prismic.io/fft-rg-site/aDQc1idWJ-7kSiLd_33731_G.png,/en-us/players/33731-eg.ruse
 33616,Anna,BONDAR,A.BONDAR,78,183,HUN,F,29 years-old,(27 May 1997),Right,-,-,https://images.prismic.io/fft-rg-site/aetagcBOoF08xRzK_20260301_PJ_BondarAnna_US.png,/en-us/players/33616-a.bondar
 42348,Valentin,ROYER,V.ROYER,78,,FRA,M,25 years-old,(29 May 2001),Right,-,-,https://images.prismic.io/fft-rg-site/aeoo8MBOoF08xQF-_20260118_PJ_RoyerValentin_US.png,/en-us/players/42348-v.royer
-47931,Jaime,FARIA,J.FARIA,79,470,POR,M,22 years-old,(6 August 2003),Right,-,-,https://images.prismic.io/fft-rg-site/ZksBuyol0Zci9Rk0_47931_J.FARIA.png,/en-us/players/47931-j.faria
+47931,Jaime,FARIA,J.FARIA,79,470,POR,M,23 years-old,(6 August 2003),Right,-,-,https://images.prismic.io/fft-rg-site/ZksBuyol0Zci9Rk0_47931_J.FARIA.png,/en-us/players/47931-j.faria
 45779,Lanlana,TARARUDEE,L.TARARUDEE,79,,THA,F,22 years-old,(7 July 2004),Right,-,-,https://images.prismic.io/fft-rg-site/aCnPZidWJ-7kSQky_45779_G.png,/en-us/players/45779-l.tararudee
 44168,Mattia,BELLUCCI,M.BELLUCCI,80,,ITA,M,25 years-old,(1 June 2001),Left,-,-,https://images.prismic.io/fft-rg-site/e414a98d-bf3c-46d6-9f64-0ba3f6e61f98_Bellucci.png,/en-us/players/44168-m.bellucci
 8546,Tatjana,MARIA,T.MARIA,80,313,GER,F,38 years-old,(8 August 1987),Right,-,-,https://images.prismic.io/fft-rg-site/aetae8BOoF08xRzE_20260228_PJ_MariaTatjana_US.png,/en-us/players/8546-t.maria
@@ -362,7 +362,7 @@ player_id,first_name,last_name,short_name,ranking,ranking_double,country,sex,age
 31367,Jil,TEICHMANN,J.TEICHMANN,166,,SUI,F,29 years-old,(15 July 1997),Left,-,-,https://images.prismic.io/fft-rg-site/4a2af383-77ce-4d3f-a757-518dfd78a8ba_Teichmann.png,/en-us/players/31367-j.teichmann
 35604,Susan,BANDECCHI,S.BANDECCHI,167,,SUI,F,28 years-old,(1 July 1998),Right,-,-,https://images.prismic.io/fft-rg-site/aCn8ZidWJ-7kSQsJ_35604_G.png,/en-us/players/35604-s.bandecchi
 48964,Luisina,GIOVANNINI,L.GIOVANNINI,168,,ARG,F,19 years-old,(8 November 2006),-,-,-,https://images.prismic.io/fft-rg-site/agxi3aYofJOwHXhf_20260519_PJ_GiovanniniLuisina_US.png,/en-us/players/48964-l.giovannini
-35919,Rebeka,MASAROVA,R.MASAROVA,169,,SUI,F,26 years-old,(6 August 1999),Right,-,-,https://images.prismic.io/fft-rg-site/aetaksBOoF08xRzb_20260303_PJ_MasarovaRebeka_US.png,/en-us/players/35919-r.masarova
+35919,Rebeka,MASAROVA,R.MASAROVA,169,,SUI,F,27 years-old,(6 August 1999),Right,-,-,https://images.prismic.io/fft-rg-site/aetaksBOoF08xRzb_20260303_PJ_MasarovaRebeka_US.png,/en-us/players/35919-r.masarova
 44059,Lukas,NEUMAYER,L.NEUMAYER,169,,AUT,M,23 years-old,(6 September 2002),Right,-,-,https://images.prismic.io/fft-rg-site/agh-jaYofJOwHS0V_20260516_PJ_NeumayerLukas_US.png,/en-us/players/44059-l.neumayer
 24584,Marco,CECCHINATO,M.CECCHINATO,170,,ITA,M,33 years-old,(30 September 1992),Right,-,-,https://images.prismic.io/fft-rg-site/aghjw6YofJOwHSuA_20260515_PJ_CecchinatoMarco_US.png,/en-us/players/24584-m.cecchinato
 36499,Hanyu,GUO,H.GUO,170,10,CHN,F,28 years-old,(18 May 1998),Right,-,-,https://images.prismic.io/fft-rg-site/Zlsi-KWtHYXtT_dK_36499_GUOHanyu.png,/en-us/players/36499-h.guo
@@ -772,7 +772,7 @@ player_id,first_name,last_name,short_name,ranking,ranking_double,country,sex,age
 36394,Jakob,SCHNAITTER,J.SCHNAITTER,,31,GER,M,30 years-old,(7 March 1996),Right,-,-,https://images.prismic.io/fft-rg-site/aDldHidWJ-7kSt_x_36394_G.png,/en-us/players/36394-j.schnaitter
 21875,Demi,SCHUURS,D.SCHUURS,,23,NED,F,33 years-old,(1 August 1993),Right,-,-,https://images.prismic.io/fft-rg-site/aetai8BOoF08xRzU_20260302_PJ_SchuursDemi_US.png,/en-us/players/21875-d.schuurs
 52995,Jack,SECORD,J.SECORD,,,USA,M,17 years-old,(11 September 2008),Left,-,-,https://images.prismic.io/fft-rg-site/aDxXlrh8WN-LVdGf_52995_G.png,/en-us/players/52995-j.secord
-41611,Ryan,SEGGERMAN,R.SEGGERMAN,,64,USA,M,26 years-old,(6 August 1999),Right,-,-,https://images.prismic.io/fft-rg-site/ahHVprK9tuLqEGOO_20260522_PJ_SeggermanRyan_US.png,/en-us/players/41611-r.seggerman
+41611,Ryan,SEGGERMAN,R.SEGGERMAN,,64,USA,M,27 years-old,(6 August 1999),Right,-,-,https://images.prismic.io/fft-rg-site/ahHVprK9tuLqEGOO_20260522_PJ_SeggermanRyan_US.png,/en-us/players/41611-r.seggerman
 53892,Ziga,SESKO,Z.SESKO,,,SLO,M,18 years-old,(27 July 2008),Left,-,-,https://images.prismic.io/fft-rg-site/ahxqfgeQX7-eWdX8_20260530_PJ_SeskoZiga_US.png,/en-us/players/53892-z.sesko
 54478,Yushan,SHAO,Y.SHAO,,,CHN,F,17 years-old,(26 December 2008),-,-,-,https://images.prismic.io/fft-rg-site/ahxqrQeQX7-eWdX9_20260530_PJ_ShaoYushan_US.png,/en-us/players/54478-y.shao
 54690,Mustafa Ege,SIK,ME.SIK,,,AUS,M,16 years-old,(1 September 2009),Left,-,-,https://images.prismic.io/fft-rg-site/ahxObgeQX7-eWdRd_20260530_PJ_EgeSikMustapha_US.png,/en-us/players/54690-me.sik
