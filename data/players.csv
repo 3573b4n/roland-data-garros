@@ -507,7 +507,7 @@ player_id,first_name,last_name,short_name,ranking,ranking_double,country,sex,age
 9525,Gael,MONFILS,G.MONFILS,347,,FRA,M,39 years-old,(1 September 1986),Right,-,-,https://images.prismic.io/fft-rg-site/d6287cdb-9a2d-418a-97ae-d67ce1fefc6a_20240112_PJ_MonfilsGael_US.png,/en-us/players/9525-g.monfils
 47226,Antoine,GHIBAUDO,A.GHIBAUDO,351,,FRA,M,21 years-old,(25 January 2005),Right,-,-,https://images.prismic.io/fft-rg-site/agwbGaYofJOwHWqR_20230602_PJ_GhibaudoAntoine_US.PNG,/en-us/players/47226-a.ghibaudo
 46043,Robin,BERTRAND,R.BERTRAND,368,,FRA,M,23 years-old,(15 March 2003),Right,-,-,https://images.prismic.io/fft-rg-site/agh-gaYofJOwHS0K_20260516_PJ_BertrandRobin_US.png,/en-us/players/46043-r.bertrand
-52526,Lea,NILSSON,L.NILSSON,369,,SWE,F,18 years-old,(24 June 2008),-,-,-,https://images.prismic.io/fft-rg-site/ahxk8QeQX7-eWdW1_20260530_PJ_NilssonLea_US.png,/en-us/players/52526-l.nilsson
+52526,Lea,NILSSON,L.NILSSON,378,,SWE,F,18 years-old,(24 June 2008),-,-,-,https://images.prismic.io/fft-rg-site/ahxk8QeQX7-eWdW1_20260530_PJ_NilssonLea_US.png,/en-us/players/52526-l.nilsson
 52978,Jack,KENNEDY,J.KENNEDY,384,,USA,M,18 years-old,(4 June 2008),Right,-,-,https://images.prismic.io/fft-rg-site/Zl1-nqWtHYXtUAr8_52978_J.KENNEDY.png,/en-us/players/52978-j.kennedy
 41945,Tiphanie,LEMAITRE,T.LEMAITRE,387,204,FRA,F,26 years-old,(17 May 2000),-,-,-,,/en-us/players/41945-t.lemaitre
 43572,Julie,BELGRAVER,J.BELGRAVER,396,334,FRA,F,24 years-old,(4 July 2002),Right,-,-,https://images.prismic.io/fft-rg-site/agmLq6YofJOwHTGe_20260517_PJ_BelgraverJulie_US.png,/en-us/players/43572-j.belgraver
@@ -516,8 +516,8 @@ player_id,first_name,last_name,short_name,ranking,ranking_double,country,sex,age
 50856,Alisa,OKTIABREVA,A.OKTIABREVA,411,,---,F,18 years-old,(26 July 2008),Right,-,-,https://images.prismic.io/fft-rg-site/ahxlaweQX7-eWdXD_20260530_PJ_OktiabrevaAlisa_US.png,/en-us/players/50856-a.oktiabreva
 36258,Geoffrey,BLANCANEAUX,G.BLANCANEAUX,414,386,FRA,M,27 years-old,(8 August 1998),Right,-,-,https://images.prismic.io/fft-rg-site/aCsjzydWJ-7kSS-H_36258_G.png,/en-us/players/36258-g.blancaneaux
 23934,Ana Sofia,SÁNCHEZ,AS.SÁNCHEZ,416,436,MEX,F,32 years-old,(13 April 1994),Left,-,-,https://images.prismic.io/fft-rg-site/aghjt6YofJOwHStz_20260514_PJ_SanchezAnaSofia_US.png,/en-us/players/23934-as.sánchez
-19884,Amandine,HESSE,A.HESSE,418,,FRA,F,33 years-old,(16 January 1993),Right,-,-,https://images.prismic.io/fft-rg-site/51c547ea-911d-409d-9a7b-4d88085f6f0a_20201127_PJ_HesseAmandine_US.png,/en-us/players/19884-a.hesse
 41884,Clara,BUREL,C.BUREL,420,,FRA,F,25 years-old,(24 March 2001),Right,-,-,https://images.prismic.io/fft-rg-site/e737c1da-f44f-49ff-b804-01892f66b143_20200722_PJ_BurelClara_US.png,/en-us/players/41884-c.burel
+19884,Amandine,HESSE,A.HESSE,424,,FRA,F,33 years-old,(16 January 1993),Right,-,-,https://images.prismic.io/fft-rg-site/51c547ea-911d-409d-9a7b-4d88085f6f0a_20201127_PJ_HesseAmandine_US.png,/en-us/players/19884-a.hesse
 29550,Thanasi,KOKKINAKIS,T.KOKKINAKIS,434,116,AUS,M,30 years-old,(10 April 1996),Right,-,-,https://images.prismic.io/fft-rg-site/agnoDqYofJOwHTV4_20260118_PJ_KokkinakisThanasi_US.png,/en-us/players/29550-t.kokkinakis
 16659,Irina-Camelia,BEGU,I.BEGU,472,,ROU,F,35 years-old,(26 August 1990),Right,-,-,https://images.prismic.io/fft-rg-site/aghjwaYofJOwHSt-_20260515_PJ_BeguIrinaCamelia_US.png,/en-us/players/16659-i.begu
 53202,Motoharu,ABE,M.ABE,,,JPN,M,17 years-old,(4 February 2009),Left,-,-,https://images.prismic.io/fft-rg-site/ahxddgeQX7-eWdVr_20260530_PJ_MotoharuAbe_US.png,/en-us/players/53202-m.abe
