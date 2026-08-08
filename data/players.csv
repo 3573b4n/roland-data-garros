@@ -282,7 +282,7 @@ player_id,first_name,last_name,short_name,ranking,ranking_double,country,sex,age
 47452,Dominika,SALKOVA,D.SALKOVA,120,123,CZE,F,22 years-old,(28 June 2004),Right,-,-,https://images.prismic.io/fft-rg-site/aCoYIidWJ-7kSQxk_47452_G.png,/en-us/players/47452-d.salkova
 44469,Kyrian,JACQUET,K.JACQUET,121,217,FRA,M,25 years-old,(11 May 2001),Right,-,-,https://images.prismic.io/fft-rg-site/aghjsqYofJOwHStu_20260514_PJ_JacquetKyrian_US.png,/en-us/players/44469-k.jacquet
 45666,Elvina,KALIEVA,E.KALIEVA,121,284,USA,F,23 years-old,(27 July 2003),Right,-,-,https://images.prismic.io/fft-rg-site/aghjs6YofJOwHStv_20260514_PJ_KalievaElvina_US.png,/en-us/players/45666-e.kalieva
-47392,Victoria,JIMENEZ KASINTSEVA,V.JIMENEZ KASINTSEVA,122,,AND,F,20 years-old,(9 August 2005),Left,-,-,https://images.prismic.io/fft-rg-site/agmM16YofJOwHTGk_20260517_PJ_VictoriaKasintsevaJimenez_US.png,/en-us/players/47392-v.jimenez-kasintseva
+47392,Victoria,JIMENEZ KASINTSEVA,V.JIMENEZ KASINTSEVA,122,,AND,F,21 years-old,(9 August 2005),Left,-,-,https://images.prismic.io/fft-rg-site/agmM16YofJOwHTGk_20260517_PJ_VictoriaKasintsevaJimenez_US.png,/en-us/players/47392-v.jimenez-kasintseva
 43948,Dane,SWEENY,D.SWEENY,122,248,AUS,M,25 years-old,(12 February 2001),Right,-,-,https://images.prismic.io/fft-rg-site/ZkpCCCol0Zci9RHO_20240516_PJ_SweenyDane_US.png,/en-us/players/43948-d.sweeny
 38517,Zsombor,PIROS,Z.PIROS,123,,HUN,M,26 years-old,(13 October 1999),Right,-,-,https://images.prismic.io/fft-rg-site/ZkpG6yol0Zci9RHo_20240516_PJ_PirosZsombor_US.png,/en-us/players/38517-z.piros
 52603,Laura,SAMSON,L.SAMSON,123,243,CZE,F,18 years-old,(10 March 2008),Right,-,-,https://images.prismic.io/fft-rg-site/agnu9aYofJOwHTWy_20260517_PJ_SamsonLaura_US.png,/en-us/players/52603-l.samson
@@ -527,7 +527,7 @@ player_id,first_name,last_name,short_name,ranking,ranking_double,country,sex,age
 20074,Guido,ANDREOZZI,G.ANDREOZZI,,16,ARG,M,35 years-old,(5 August 1991),Right,-,-,https://images.prismic.io/fft-rg-site/aeoozsBOoF08xQFX_20260118_PJ_AndreozziGuido_US.png,/en-us/players/20074-g.andreozzi
 54748,Michael,ANTONIUS,M.ANTONIUS,,,USA,M,16 years-old,(1 January 2010),Right,-,-,https://images.prismic.io/fft-rg-site/ahw7hAeQX7-eWdOd_20260530_PJ_AntoniusMichael_US.png,/en-us/players/54748-m.antonius
 21189,Shuko,AOYAMA,S.AOYAMA,,22,JPN,F,38 years-old,(19 December 1987),Right,-,-,https://images.prismic.io/fft-rg-site/772451c4-4c13-47fe-99f3-7d166e45d36b_20180524_PJ_AoyamaShuko_US.png,/en-us/players/21189-s.aoyama
-31478,Sander,ARENDS,S.ARENDS,,55,NED,M,34 years-old,(9 August 1991),Right,-,-,https://images.prismic.io/fft-rg-site/30042c89-79c7-4b46-bf61-3259ea06a265_20200119_PJ_ArendsSander_US.png,/en-us/players/31478-s.arends
+31478,Sander,ARENDS,S.ARENDS,,55,NED,M,35 years-old,(9 August 1991),Right,-,-,https://images.prismic.io/fft-rg-site/30042c89-79c7-4b46-bf61-3259ea06a265_20200119_PJ_ArendsSander_US.png,/en-us/players/31478-s.arends
 18516,Marcelo,AREVALO,M.AREVALO,,7,ESA,M,35 years-old,(17 October 1990),Right,-,-,https://images.prismic.io/fft-rg-site/c9a8768d-1c0f-4a88-8bfd-3d053c779e04_20220310_PJ_ArevaloMarcelo_US.png,/en-us/players/18516-m.arevalo
 44411,Theo,ARRIBAGE,T.ARRIBAGE,,24,FRA,M,25 years-old,(9 October 2000),Left,-,-,https://images.prismic.io/fft-rg-site/aDlfhydWJ-7kSuCq_44411_G.png,/en-us/players/44411-t.arribage
 55000,Safir,AZAM,S.AZAM,,,USA,M,16 years-old,(15 November 2009),Left,-,-,,/en-us/players/55000-s.azam
@@ -784,7 +784,7 @@ player_id,first_name,last_name,short_name,ranking,ranking_double,country,sex,age
 54488,Hollie,SMART,H.SMART,,,GBR,F,17 years-old,(19 June 2009),-,-,-,https://images.prismic.io/fft-rg-site/ahr5DgeQX7-eWc5a_20260530_PJ_SmartHollie_US.png,/en-us/players/54488-h.smart
 15272,John-Patrick,SMITH,JP.SMITH,,68,AUS,M,37 years-old,(24 January 1989),Left,-,-,https://images.prismic.io/fft-rg-site/aeooscBOoF08xQE1_20260116_PJ_SmithJohnPatrick_US.png,/en-us/players/15272-jp.smith
 37761,Reese,STALDER,R.STALDER,,96,USA,M,29 years-old,(12 November 1996),Right,-,-,,/en-us/players/37761-r.stalder
-36148,Luisa,STEFANI,L.STEFANI,,4,BRA,F,28 years-old,(9 August 1997),Right,-,-,https://images.prismic.io/fft-rg-site/aetafcBOoF08xRzG_20260228_PJ_StefaniLuisa_US.png,/en-us/players/36148-l.stefani
+36148,Luisa,STEFANI,L.STEFANI,,4,BRA,F,29 years-old,(9 August 1997),Right,-,-,https://images.prismic.io/fft-rg-site/aetafcBOoF08xRzG_20260228_PJ_StefaniLuisa_US.png,/en-us/players/36148-l.stefani
 38509,Bart,STEVENS,B.STEVENS,,50,NED,M,28 years-old,(29 January 1998),Right,-,-,https://images.prismic.io/fft-rg-site/04f3201d-b0d8-48e8-9aaf-bd3728440041_20240113_PJ_StevensBart_US.png,/en-us/players/38509-b.stevens
 36599,Fanny,STOLLAR,F.STOLLAR,,34,HUN,F,27 years-old,(12 November 1998),Right,-,-,https://images.prismic.io/fft-rg-site/aetamsBOoF08xRzj_20260303_PJ_StollarFanny_US.png,/en-us/players/36599-f.stollar
 54772,Leonardo,STORCK FRANCA,L.STORCK FRANCA,,,BRA,M,17 years-old,(30 January 2009),Left,-,-,https://images.prismic.io/fft-rg-site/ahxrWQeQX7-eWdX__20260530_PJ_StorckFrancaLeonardo_US.png,/en-us/players/54772-l.storck-franca
