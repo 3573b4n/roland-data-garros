@@ -262,7 +262,7 @@ player_id,first_name,last_name,short_name,ranking,ranking_double,country,sex,age
 43003,Jacob,FEARNLEY,J.FEARNLEY,110,,GBR,M,25 years-old,(15 July 2001),Right,-,-,https://images.prismic.io/fft-rg-site/aeoo_cBOoF08xQGP_20260119_PJ_FearnleyJacob_US.png,/en-us/players/43003-j.fearnley
 28420,Taylor,TOWNSEND,T.TOWNSEND,110,2,USA,F,30 years-old,(16 April 1996),Left,-,-,https://images.prismic.io/fft-rg-site/aetan8BOoF08xRzo_20260304_PJ_TownsendTaylor_US.png,/en-us/players/28420-t.townsend
 42327,Dalibor,SVRCINA,D.SVRCINA,111,,CZE,M,23 years-old,(2 October 2002),Right,-,-,https://images.prismic.io/fft-rg-site/aeoossBOoF08xQE2_20260116_PJ_SvrcinaDalibor_US.png,/en-us/players/42327-d.svrcina
-42529,Moyuka,UCHIJIMA,M.UCHIJIMA,111,,JPN,F,24 years-old,(11 August 2001),Right,-,-,https://images.prismic.io/fft-rg-site/aDFarCdWJ-7kSgxg_42529_G.png,/en-us/players/42529-m.uchijima
+42529,Moyuka,UCHIJIMA,M.UCHIJIMA,111,,JPN,F,25 years-old,(11 August 2001),Right,-,-,https://images.prismic.io/fft-rg-site/aDFarCdWJ-7kSgxg_42529_G.png,/en-us/players/42529-m.uchijima
 42666,Darja,SEMENISTAJA,D.SEMENISTAJA,112,170,LAT,F,23 years-old,(16 September 2002),Left,-,-,https://images.prismic.io/fft-rg-site/agh-e6YofJOwHS0E_20260515_PJ_SemenistajaDarja_US.png,/en-us/players/42666-d.semenistaja
 28697,Julia,GRABHER,J.GRABHER,113,466,AUT,F,30 years-old,(2 July 1996),Right,-,-,https://images.prismic.io/fft-rg-site/f36bf080-02f1-4949-be7d-71f490eb071b_20230402_PJ_GrabherJulia_US.png,/en-us/players/28697-j.grabher
 48801,Michael,ZHENG,M.ZHENG,113,,USA,M,22 years-old,(27 January 2004),Right,-,-,https://images.prismic.io/fft-rg-site/agnv2aYofJOwHTXE_20260517_PJ_ZhengMichael_US.png,/en-us/players/48801-m.zheng
@@ -374,7 +374,7 @@ player_id,first_name,last_name,short_name,ranking,ranking_double,country,sex,age
 37072,Federico Agustin,GOMEZ,FA.GOMEZ,174,208,ARG,M,29 years-old,(26 November 1996),Right,-,-,https://images.prismic.io/fft-rg-site/aCn_CydWJ-7kSQsk_37072_G.png,/en-us/players/37072-fa.gomez
 42590,Yeonwoo,KU,Y.KU,174,,KOR,F,23 years-old,(15 March 2003),-,-,-,https://images.prismic.io/fft-rg-site/agnQU6YofJOwHTSP_20260517_PJ_KuYeonwoo_US.png,/en-us/players/42590-y.ku
 37028,Alexis,GALARNEAU,A.GALARNEAU,175,,CAN,M,27 years-old,(2 March 1999),Right,-,-,https://images.prismic.io/fft-rg-site/aCn-ySdWJ-7kSQsj_37028_G.png,/en-us/players/37028-a.galarneau
-28346,Storm,HUNTER,S.HUNTER,175,21,AUS,F,31 years-old,(11 August 1994),Left,-,-,https://images.prismic.io/fft-rg-site/aDQYiCdWJ-7kSiHw_28346_G.png,/en-us/players/28346-s.hunter
+28346,Storm,HUNTER,S.HUNTER,175,21,AUS,F,32 years-old,(11 August 1994),Left,-,-,https://images.prismic.io/fft-rg-site/aDQYiCdWJ-7kSiHw_28346_G.png,/en-us/players/28346-s.hunter
 36751,Remy,BERTOLA,R.BERTOLA,176,,SUI,M,27 years-old,(31 August 1998),Right,-,-,https://images.prismic.io/fft-rg-site/agmMK6YofJOwHTGh_20260517_PJ_BertolaRemy_US.png,/en-us/players/36751-r.bertola
 6930,Varvara,LEPCHENKO,V.LEPCHENKO,176,412,USA,F,40 years-old,(21 May 1986),Left,-,-,https://images.prismic.io/fft-rg-site/aCwXiSdWJ-7kSUlQ_6930_G.png,/en-us/players/6930-v.lepchenko
 13354,Roberto,BAUTISTA AGUT,R.BAUTISTA AGUT,177,,ESP,M,38 years-old,(14 April 1988),Right,-,-,https://images.prismic.io/fft-rg-site/aeoo0sBOoF08xQFb_20260118_PJ_BautistaAgutRoberto_US.png,/en-us/players/13354-r.bautista-agut
@@ -663,7 +663,7 @@ player_id,first_name,last_name,short_name,ranking,ranking_double,country,sex,age
 54747,Dimitar,KISIMOV,D.KISIMOV,,,BUL,M,18 years-old,(11 April 2008),Right,-,-,https://images.prismic.io/fft-rg-site/ahxW0AeQX7-eWdTI_20260530_PJ_KisimovDimitar_US.png,/en-us/players/54747-d.kisimov
 45451,Benjamin,KITTAY,B.KITTAY,,89,USA,M,22 years-old,(27 August 2003),Right,-,-,https://images.prismic.io/fft-rg-site/ahLqPrK9tuLqEGdY_20260523_PJ_KittayBenjamin_US.png,/en-us/players/45451-b.kittay
 9035,Andreja,KLEPAC,A.KLEPAC,,69,SLO,F,40 years-old,(13 March 1986),Right,-,-,https://images.prismic.io/fft-rg-site/e216bd2a-9b99-4580-b3ca-898e0476a276_20190303_PJ_KlepacAndreja_US.png,/en-us/players/9035-a.klepac
-50726,Tahlia,KOKKINIS,T.KOKKINIS,,,AUS,F,17 years-old,(11 August 2008),-,-,-,,/en-us/players/50726-t.kokkinis
+50726,Tahlia,KOKKINIS,T.KOKKINIS,,,AUS,F,18 years-old,(11 August 2008),-,-,-,,/en-us/players/50726-t.kokkinis
 54267,Yui,KOMADA,Y.KOMADA,,,JPN,F,16 years-old,(15 June 2010),-,-,-,https://images.prismic.io/fft-rg-site/ahroAweQX7-eWc3B_20260530_PJ_KomadaYui_US.png,/en-us/players/54267-y.komada
 55368,Tanishk,KONDURI,T.KONDURI,,,USA,M,17 years-old,(3 March 2009),Left,-,-,https://images.prismic.io/fft-rg-site/ahxXDgeQX7-eWdTM_20260530_PJ_KonduriTanishk_US.png,/en-us/players/55368-t.konduri
 54760,Kaan Isik,KOSANER,KI.KOSANER,,,TUR,M,17 years-old,(2 June 2009),Left,-,-,,/en-us/players/54760-ki.kosaner
