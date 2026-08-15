@@ -3,7 +3,7 @@ player_id,first_name,last_name,short_name,ranking,ranking_double,country,sex,age
 31400,Yui,KAMIJI,Y.KAMIJI,1,2,JPN,F,32 years-old,(24 April 1994),-,-,-,https://images.prismic.io/fft-rg-site/ah2gvAeQX7-eWfwS_20260601_PJ_KamijiYui_US.png,/en-us/players/31400-y.kamiji
 49290,Tokito,ODA,T.ODA,1,8,JPN,M,20 years-old,(8 May 2006),-,-,-,https://images.prismic.io/fft-rg-site/ah2f9QeQX7-eWfvg_20260601_PJ_OdaTokito_US.png,/en-us/players/49290-t.oda
 33249,Aryna,SABALENKA,A.SABALENKA,1,,---,F,28 years-old,(5 May 1998),Right,-,-,https://images.prismic.io/fft-rg-site/ahTZpbK9tuLqEIIV_20260302_PJ_SabalenkaAryna_US.png,/en-us/players/33249-a.sabalenka
-39723,Jannik,SINNER,J.SINNER,1,,ITA,M,24 years-old,(16 August 2001),Right,-,-,https://images.prismic.io/fft-rg-site/aeoo8cBOoF08xQF__20260118_PJ_SinnerJannik_US.png,/en-us/players/39723-j.sinner
+39723,Jannik,SINNER,J.SINNER,1,,ITA,M,25 years-old,(16 August 2001),Right,-,-,https://images.prismic.io/fft-rg-site/aeoo8cBOoF08xQF__20260118_PJ_SinnerJannik_US.png,/en-us/players/39723-j.sinner
 47753,Niels,VINK,N.VINK,1,1,NED,M,23 years-old,(6 December 2002),-,-,-,https://images.prismic.io/fft-rg-site/ah2gPweQX7-eWfv5_20260601_PJ_VinkNiels_US.png,/en-us/players/47753-n.vink
 52752,Jin,WOODMAN,J.WOODMAN,1,,AUS,M,17 years-old,(1 May 2009),-,-,-,https://images.prismic.io/fft-rg-site/ah1zhQeQX7-eWfAy_20260601_PJ_WoodmanJin_US.png,/en-us/players/52752-j.woodman
 42776,Diede,DE GROOT,D.DE GROOT,2,6,NED,F,29 years-old,(19 December 1996),-,-,-,https://images.prismic.io/fft-rg-site/ah1ZwgeQX7-eWepU_20260531_PJ_DeGrootDIede_US.png,/en-us/players/42776-d.de-groot
@@ -691,7 +691,7 @@ player_id,first_name,last_name,short_name,ranking,ranking_double,country,sex,age
 53041,Jamie,MACKENZIE,J.MACKENZIE,,,GER,M,18 years-old,(15 January 2008),Right,-,-,https://images.prismic.io/fft-rg-site/ahxbEQeQX7-eWdVd_20260530_PJ_MackenzieJamie_US.png,/en-us/players/53041-j.mackenzie
 54823,Oliver,MAJDANDZIC,O.MAJDANDZIC,,,GER,M,18 years-old,(9 April 2008),-,-,-,https://images.prismic.io/fft-rg-site/ahxbnQeQX7-eWdVj_20260530_PJ_MajdandzicOliver_US.png,/en-us/players/54823-o.majdandzic
 54856,Mariia,MAKAROVA,M.MAKAROVA,,,---,F,16 years-old,(14 January 2010),-,-,-,,/en-us/players/54856-m.makarova
-28184,Jesika,MALECKOVA,J.MALECKOVA,,54,CZE,F,31 years-old,(16 August 1994),Right,-,-,,/en-us/players/28184-j.maleckova
+28184,Jesika,MALECKOVA,J.MALECKOVA,,54,CZE,F,32 years-old,(16 August 1994),Right,-,-,,/en-us/players/28184-j.maleckova
 54885,Alexandra,MALOVA,A.MALOVA,,,---,F,18 years-old,(31 May 2008),-,-,-,https://images.prismic.io/fft-rg-site/ahxb3geQX7-eWdVk_20260530_PJ_MalovaAlexandra_US.png,/en-us/players/54885-a.malova
 56585,Matisse,MARTIN,M.MARTIN,,,FRA,M,17 years-old,(8 February 2009),-,-,-,https://images.prismic.io/fft-rg-site/ahxcUQeQX7-eWdVm_20260530_PJ_MartinMatisse_US.png,/en-us/players/56585-m.martin
 12085,Fabrice,MARTIN,F.MARTIN,,,FRA,M,39 years-old,(11 September 1986),Right,-,-,https://images.prismic.io/fft-rg-site/30c3014f-b976-4eb5-a3ee-dcecfbcf973b_20220310_PJ_MartinFabrice_US.png,/en-us/players/12085-f.martin
