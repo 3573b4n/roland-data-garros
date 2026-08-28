@@ -220,7 +220,7 @@ player_id,first_name,last_name,short_name,ranking,ranking_double,country,sex,age
 47053,Solana,SIERRA,S.SIERRA,87,250,ARG,F,22 years-old,(17 June 2004),Right,-,-,https://images.prismic.io/fft-rg-site/aCoWKydWJ-7kSQxB_47053_G.png,/en-us/players/47053-s.sierra
 38551,Hugo,GASTON,H.GASTON,88,357,FRA,M,25 years-old,(26 September 2000),Left,-,-,https://images.prismic.io/fft-rg-site/aeoo_8BOoF08xQGR_20260119_PJ_GastonHugo_US.png,/en-us/players/38551-h.gaston
 40622,Kamilla,RAKHIMOVA,K.RAKHIMOVA,88,87,UZB,F,25 years-old,(28 August 2001),Right,-,-,https://images.prismic.io/fft-rg-site/aDFbUidWJ-7kSgxh_40622_G.png,/en-us/players/40622-k.rakhimova
-41293,Aleksandar,KOVACEVIC,A.KOVACEVIC,89,106,USA,M,27 years-old,(29 August 1998),Right,-,-,https://images.prismic.io/fft-rg-site/aeoowMBOoF08xQFH_20260117_PJ_KovacevicAleksandar_US.png,/en-us/players/41293-a.kovacevic
+41293,Aleksandar,KOVACEVIC,A.KOVACEVIC,89,106,USA,M,28 years-old,(29 August 1998),Right,-,-,https://images.prismic.io/fft-rg-site/aeoowMBOoF08xQFH_20260117_PJ_KovacevicAleksandar_US.png,/en-us/players/41293-a.kovacevic
 42132,Alycia,PARKS,A.PARKS,89,208,USA,F,25 years-old,(31 December 2000),Right,-,-,https://images.prismic.io/fft-rg-site/aDQbaCdWJ-7kSiLD_42132_G.png,/en-us/players/42132-a.parks
 43979,Terence,ATMANE,T.ATMANE,90,,FRA,M,24 years-old,(9 January 2002),Left,-,-,https://images.prismic.io/fft-rg-site/aeoo0MBOoF08xQFZ_20260118_PJ_AtmaneTerence_US.png,/en-us/players/43979-t.atmane
 44339,Darja,VIDMANOVA,D.VIDMANOVA,90,255,CZE,F,23 years-old,(9 January 2003),Right,-,-,https://images.prismic.io/fft-rg-site/agsc9qYofJOwHVO1_20210604_PJ_VidmanovaDarja_US.png,/en-us/players/44339-d.vidmanova
@@ -553,7 +553,7 @@ player_id,first_name,last_name,short_name,ranking,ranking_double,country,sex,age
 53313,Emilio,CAMACHO,E.CAMACHO,,,ECU,M,17 years-old,(8 May 2009),Right,-,-,https://images.prismic.io/fft-rg-site/ahw_UAeQX7-eWdPb_20260530_PJ_CamachoEmilio_US.png,/en-us/players/53313-e.camacho
 55986,Ninon,CARPENTIER,N.CARPENTIER,,,FRA,F,16 years-old,(12 June 2010),-,-,-,https://images.prismic.io/fft-rg-site/ahw_3AeQX7-eWdPd_20260530_PJ_CarpentierNinon_US.png,/en-us/players/55986-n.carpentier
 26526,Estelle,CASCINO,E.CASCINO,,99,FRA,F,30 years-old,(13 March 1996),Right,-,-,https://images.prismic.io/fft-rg-site/6ee84bba-036b-43df-ad28-e5161b500b0c_20201128_PJ_CascinoEstelle_US+%281%29.png,/en-us/players/26526-e.cascino
-33421,Julian,CASH,J.CASH,,17,GBR,M,29 years-old,(29 August 1996),Right,-,-,https://images.prismic.io/fft-rg-site/aDHQtidWJ-7kSg_x_33421_G.png,/en-us/players/33421-j.cash
+33421,Julian,CASH,J.CASH,,17,GBR,M,30 years-old,(29 August 1996),Right,-,-,https://images.prismic.io/fft-rg-site/aDHQtidWJ-7kSg_x_33421_G.png,/en-us/players/33421-j.cash
 42894,Robert,CASH,R.CASH,,43,USA,M,25 years-old,(7 March 2001),Right,-,-,https://images.prismic.io/fft-rg-site/aeooo8BOoF08xQEl_20260116_PJ_CashRobert_US.png,/en-us/players/42894-r.cash
 53334,Mark,CEBAN,M.CEBAN,,,GBR,M,17 years-old,(13 March 2009),Right,-,-,https://images.prismic.io/fft-rg-site/ahxAkgeQX7-eWdPk_20260530_PJ_CebanMark_US.png,/en-us/players/53334-m.ceban
 56733,Capucine,CEDILLO- VAYSON DE PRADENNE,C.CEDILLO- VAYSON DE PRADENNE,,,FRA,F,16 years-old,(24 September 2009),-,-,-,https://images.prismic.io/fft-rg-site/ahxBnweQX7-eWdPl_20260530_PJ_CedilloVaysonDePrademneCapucine_US.png,/en-us/players/56733-c.cedillo--vayson-de-pradenne
