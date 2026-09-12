@@ -15,7 +15,7 @@ player_id,first_name,last_name,short_name,ranking,ranking_double,country,sex,age
 28836,Daniil,MEDVEDEV,D.MEDVEDEV,8,360,---,M,30 years-old,(11 February 1996),Right,-,-,https://images.prismic.io/fft-rg-site/aeoorMBOoF08xQEw_20260116_PJ_MedvedevDaniil_US.png,/en-us/players/28836-d.medvedev
 40613,Iga,SWIATEK,I.SWIATEK,8,,POL,F,25 years-old,(31 May 2001),Right,-,-,https://images.prismic.io/fft-rg-site/aetanMBOoF08xRzl_20260303_PJ_SwiatekIga_US.png,/en-us/players/40613-i.swiatek
 47345,Ben,SHELTON,B.SHELTON,9,124,USA,M,23 years-old,(9 October 2002),Left,-,-,https://images.prismic.io/fft-rg-site/aDQQUidWJ-7kSiAh_47345_G.png,/en-us/players/47345-b.shelton
-23968,Elina,SVITOLINA,E.SVITOLINA,9,,UKR,F,31 years-old,(12 September 1994),Right,-,-,https://images.prismic.io/fft-rg-site/aetam8BOoF08xRzk_20260303_PJ_SvitolinaElina_US.png,/en-us/players/23968-e.svitolina
+23968,Elina,SVITOLINA,E.SVITOLINA,9,,UKR,F,32 years-old,(12 September 1994),Right,-,-,https://images.prismic.io/fft-rg-site/aetam8BOoF08xRzk_20260303_PJ_SvitolinaElina_US.png,/en-us/players/23968-e.svitolina
 40607,Amanda,ANISIMOVA,A.ANISIMOVA,10,,USA,F,25 years-old,(31 August 2001),Right,-,-,https://images.prismic.io/fft-rg-site/ahTUt7K9tuLqEIHZ_20260302_PJ_AnisimovaAmanda_US.PNG,/en-us/players/40607-a.anisimova
 34350,Taylor,FRITZ,T.FRITZ,10,,USA,M,28 years-old,(28 October 1997),Right,-,-,https://images.prismic.io/fft-rg-site/aeoopsBOoF08xQEo_20260116_PJ_FritzTaylor_US.png,/en-us/players/34350-t.fritz
 40683,Marta,KOSTYUK,M.KOSTYUK,11,133,UKR,F,24 years-old,(28 June 2002),Right,-,-,https://images.prismic.io/fft-rg-site/aDQZzydWJ-7kSiI-_40683_G.png,/en-us/players/40683-m.kostyuk
@@ -108,7 +108,7 @@ player_id,first_name,last_name,short_name,ranking,ranking_double,country,sex,age
 42566,Peyton,STEARNS,P.STEARNS,55,106,USA,F,24 years-old,(8 October 2001),Right,-,-,https://images.prismic.io/fft-rg-site/93841b3d-cdeb-465e-985e-e2df03358660_20240304_PJ_StearnsPeyton_US.png,/en-us/players/42566-p.stearns
 23738,Viktorija,GOLUBIC,V.GOLUBIC,56,473,SUI,F,33 years-old,(16 October 1992),Right,-,-,https://images.prismic.io/fft-rg-site/42a79ad9-7285-47f5-98c0-06568317f09c_20180526_PJ_GolubicViktorija_US.png,/en-us/players/23738-v.golubic
 33456,Tallon,GRIEKSPOOR,T.GRIEKSPOOR,56,141,NED,M,30 years-old,(2 July 1996),Right,-,-,https://images.prismic.io/fft-rg-site/aeoo3MBOoF08xQFn_20260118_PJ_GriekspoorTallon_US.png,/en-us/players/33456-t.griekspoor
-33851,Daniel,ALTMAIER,D.ALTMAIER,57,203,GER,M,27 years-old,(12 September 1998),Right,-,-,https://images.prismic.io/fft-rg-site/aeoozcBOoF08xQFV_20260118_PJ_AltmaierDaniel_US.png,/en-us/players/33851-d.altmaier
+33851,Daniel,ALTMAIER,D.ALTMAIER,57,203,GER,M,28 years-old,(12 September 1998),Right,-,-,https://images.prismic.io/fft-rg-site/aeoozcBOoF08xQFV_20260118_PJ_AltmaierDaniel_US.png,/en-us/players/33851-d.altmaier
 18274,Karolina,PLISKOVA,Ka.PLISKOVA,57,,CZE,F,34 years-old,(21 March 1992),Right,-,-,https://images.prismic.io/fft-rg-site/14a0938d-0c4e-41dd-b448-c8f66d31e88a_20240305_PJ_PliskovaKarolina_US.png,/en-us/players/18274-ka.pliskova
 40499,Tomas,MACHAC,T.MACHAC,58,134,CZE,M,25 years-old,(13 October 2000),Right,-,-,https://images.prismic.io/fft-rg-site/aDQVLSdWJ-7kSiFU_40499_G.png,/en-us/players/40499-t.machac
 42203,Yuliia,STARODUBTSEVA,Y.STARODUBTSEVA,58,192,UKR,F,26 years-old,(17 February 2000),Right,-,-,https://images.prismic.io/fft-rg-site/aetamcBOoF08xRzi_20260303_PJ_StarodubtsevaYulia_US.png,/en-us/players/42203-y.starodubtseva
@@ -552,7 +552,7 @@ player_id,first_name,last_name,short_name,ranking,ranking_double,country,sex,age
 54158,Felitsata,DOROFEEVA-RYBAS,F.DOROFEEVA-RYBAS,,,---,F,16 years-old,(20 October 2009),-,-,-,https://images.prismic.io/fft-rg-site/ahxNBweQX7-eWdRG_20260530_PJ_DorofeevaRybasFelitsata_US.png,/en-us/players/54158-f.dorofeeva-rybas
 56751,Ekaterina,DOTSENKO,E.DOTSENKO,,,---,F,14 years-old,(7 October 2011),-,-,-,,/en-us/players/56751-e.dotsenko
 34248,Aziz,DOUGAZ,A.DOUGAZ,,,TUN,M,29 years-old,(26 March 1997),Left,-,-,https://images.prismic.io/fft-rg-site/aCn6uCdWJ-7kSQr7_34248_G.png,/en-us/players/34248-a.dougaz
-20330,Sadio,DOUMBIA,S.DOUMBIA,,22,FRA,M,35 years-old,(12 September 1990),Right,-,-,https://images.prismic.io/fft-rg-site/1ffef5ab-61a9-4803-8d82-6e2fc91366e8_20201207_PJ_DoumbiaSadio_US.png,/en-us/players/20330-s.doumbia
+20330,Sadio,DOUMBIA,S.DOUMBIA,,22,FRA,M,36 years-old,(12 September 1990),Right,-,-,https://images.prismic.io/fft-rg-site/1ffef5ab-61a9-4803-8d82-6e2fc91366e8_20201207_PJ_DoumbiaSadio_US.png,/en-us/players/20330-s.doumbia
 52311,Ksenia,EFREMOVA,K.EFREMOVA,,,FRA,F,17 years-old,(28 April 2009),-,-,-,https://images.prismic.io/fft-rg-site/aCsHTCdWJ-7kSSXv_media_44639858_44391610.png,/en-us/players/52311-k.efremova
 45942,Tom,EGBERINK,T.EGBERINK,,,NED,M,33 years-old,(22 December 1992),-,-,-,https://images.prismic.io/fft-rg-site/ah1aOQeQX7-eWeph_20260531_PJ_EgberinkTom_US.png,/en-us/players/45942-t.egberink
 54907,Emily Victoria,EIGELSBACH,EV.EIGELSBACH,,,GER,F,17 years-old,(16 November 2008),-,-,-,,/en-us/players/54907-ev.eigelsbach
