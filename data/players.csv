@@ -23,7 +23,7 @@ player_id,first_name,last_name,short_name,ranking,ranking_double,country,sex,age
 9801,Novak,DJOKOVIC,N.DJOKOVIC,12,,SRB,M,39 years-old,(22 May 1987),Right,-,-,https://images.prismic.io/fft-rg-site/aeoovMBOoF08xQFC_20260117_PJ_DjokovicNovak_US.png,/en-us/players/9801-n.djokovic
 45655,Diana,SHNAIDER,D.SHNAIDER,13,23,---,F,22 years-old,(2 April 2004),Left,-,-,https://images.prismic.io/fft-rg-site/aetag8BOoF08xRzM_20260301_PJ_ShnaiderDiana_US.png,/en-us/players/45655-d.shnaider
 49322,Learner,TIEN,L.TIEN,13,,USA,M,20 years-old,(2 December 2005),Left,-,-,https://images.prismic.io/fft-rg-site/aeootcBOoF08xQE7_20260116_PJ_TienLearner_US.png,/en-us/players/49322-l.tien
-49822,Rafael,JODAR,R.JODAR,14,353,ESP,M,19 years-old,(17 September 2006),Right,-,-,https://images.prismic.io/fft-rg-site/aeoo4cBOoF08xQFt_20260118_PJ_JodarRafael_US.png,/en-us/players/49822-r.jodar
+49822,Rafael,JODAR,R.JODAR,14,353,ESP,M,20 years-old,(17 September 2006),Right,-,-,https://images.prismic.io/fft-rg-site/aeoo4cBOoF08xQFt_20260118_PJ_JodarRafael_US.png,/en-us/players/49822-r.jodar
 47486,Victoria,MBOKO,V.MBOKO,14,113,CAN,F,20 years-old,(26 August 2006),Right,-,-,https://images.prismic.io/fft-rg-site/aetak8BOoF08xRzc_20260303_PJ_MbokoVicky_US.png,/en-us/players/47486-v.mboko
 14440,Sorana,CIRSTEA,S.CIRSTEA,15,122,ROU,F,36 years-old,(7 April 1990),Right,-,-,https://images.prismic.io/fft-rg-site/ef406178-2247-4b3f-8947-f904b63a02cb_20240304_PJ_CirsteaSorana_US.png,/en-us/players/14440-s.cirstea
 47921,Jakub,MENSIK,J.MENSIK,15,,CZE,M,21 years-old,(1 September 2005),Right,-,-,https://images.prismic.io/fft-rg-site/1282bb8f-c32c-41ed-8322-c8580f749f61_20240108_PJ_MensikJakub_US.png,/en-us/players/47921-j.mensik
@@ -532,7 +532,7 @@ player_id,first_name,last_name,short_name,ranking,ranking_double,country,sex,age
 706,Arnaud,CLEMENT,A.CLEMENT,,,FRA,M,-,,-,-,-,https://images.prismic.io/fft-rg-site/03fb435e-9416-4c8e-821d-03c14cb85b73_20220530_PJ_ClementArnaud_US.png,/en-us/players/706-a.clement
 54819,Damien,CLERC,D.CLERC,,,FRA,M,18 years-old,(4 March 2008),Left,-,-,https://images.prismic.io/fft-rg-site/aDxvUrh8WN-LVdK6_54819_G.png,/en-us/players/54819-d.clerc
 24618,Federico,CORIA,F.CORIA,,,ARG,M,34 years-old,(9 March 1992),Right,-,-,https://images.prismic.io/fft-rg-site/aghjxaYofJOwHSuC_20260515_PJ_CoriaFederico_US.png,/en-us/players/24618-f.coria
-43606,Carmen,CORLEY,C.CORLEY,,160,USA,F,24 years-old,(17 September 2001),Right,-,-,,/en-us/players/43606-c.corley
+43606,Carmen,CORLEY,C.CORLEY,,160,USA,F,25 years-old,(17 September 2001),Right,-,-,,/en-us/players/43606-c.corley
 43607,Ivana,CORLEY,I.CORLEY,,143,USA,F,27 years-old,(11 September 1999),Right,-,-,,/en-us/players/43607-i.corley
 13263,Alizé,CORNET,A.CORNET,,,FRA,F,-,,-,-,-,https://images.prismic.io/fft-rg-site/0dc2e77a-7fc1-403a-a5b2-cb3e6a5b8e00_20230331_PJ_CornetAlize_US.png,/en-us/players/13263-a.cornet
 53357,Ryan,COZAD,R.COZAD,,,USA,M,17 years-old,(16 October 2008),Left,-,-,https://images.prismic.io/fft-rg-site/ahxMZweQX7-eWdRB_20260530_PJ_CozadRyan_US.png,/en-us/players/53357-r.cozad
