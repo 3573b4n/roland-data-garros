@@ -238,7 +238,7 @@ player_id,first_name,last_name,short_name,ranking,ranking_double,country,sex,age
 42330,Francisco,COMESANA,F.COMESANA,123,,ARG,M,25 years-old,(6 October 2000),Right,-,-,https://images.prismic.io/fft-rg-site/aeoo-cBOoF08xQGJ_20260119_PJ_ComesanaFrancisco_US.png,/en-us/players/42330-f.comesana
 47394,Tatiana,PROZOROVA,T.PROZOROVA,123,283,---,F,22 years-old,(10 October 2003),Right,-,-,https://images.prismic.io/fft-rg-site/agh8JqYofJOwHSza_20260515_PJ_ProzorovaTatiana_US.png,/en-us/players/47394-t.prozorova
 42666,Darja,SEMENISTAJA,D.SEMENISTAJA,124,196,LAT,F,24 years-old,(16 September 2002),Left,-,-,https://images.prismic.io/fft-rg-site/agh-e6YofJOwHS0E_20260515_PJ_SemenistajaDarja_US.png,/en-us/players/42666-d.semenistaja
-42327,Dalibor,SVRCINA,D.SVRCINA,124,,CZE,M,23 years-old,(2 October 2002),Right,-,-,https://images.prismic.io/fft-rg-site/aeoossBOoF08xQE2_20260116_PJ_SvrcinaDalibor_US.png,/en-us/players/42327-d.svrcina
+42327,Dalibor,SVRCINA,D.SVRCINA,124,,CZE,M,24 years-old,(2 October 2002),Right,-,-,https://images.prismic.io/fft-rg-site/aeoossBOoF08xQE2_20260116_PJ_SvrcinaDalibor_US.png,/en-us/players/42327-d.svrcina
 33462,Lloyd,HARRIS,L.HARRIS,125,,RSA,M,29 years-old,(24 February 1997),Right,-,-,https://images.prismic.io/fft-rg-site/aghuW6YofJOwHSvu_20260515_PJ_HarrisLloyd_US.png,/en-us/players/33462-l.harris
 36596,Lucrezia,STEFANINI,L.STEFANINI,125,,ITA,F,28 years-old,(15 May 1998),Right,-,-,https://images.prismic.io/fft-rg-site/agh-faYofJOwHS0G_20260515_PJ_StefaniniLucrezia_US.png,/en-us/players/36596-l.stefanini
 19689,Grigor,DIMITROV,G.DIMITROV,126,,BUL,M,35 years-old,(16 May 1991),Right,-,-,https://images.prismic.io/fft-rg-site/1db6a83d-552e-4f57-bf04-45d82a6978f6_20240112_PJ_DimitrovGrigor_US.png,/en-us/players/19689-g.dimitrov
@@ -433,7 +433,7 @@ player_id,first_name,last_name,short_name,ranking,ranking_double,country,sex,age
 28687,Oceane,DODIN,O.DODIN,306,,FRA,F,29 years-old,(24 October 1996),Right,-,-,https://images.prismic.io/fft-rg-site/8b096c2d-5ee3-4a20-823c-a6a8cf5e28a0_20180524_PJ_DodinOceane_US.png,/en-us/players/28687-o.dodin
 21892,Martina,TREVISAN,M.TREVISAN,307,,ITA,F,32 years-old,(3 November 1993),Left,-,-,https://images.prismic.io/fft-rg-site/021256c1-87a3-4766-b8ad-48482f3ed1cd_20240305_PJ_TrevisanMartina_US.png,/en-us/players/21892-m.trevisan
 38928,Ugo,BLANCHET,U.BLANCHET,311,,FRA,M,27 years-old,(5 January 1999),Right,-,-,https://images.prismic.io/fft-rg-site/e9437ec1-df6d-40d8-895a-a89941a511f6_20240110_PJ_BlanchetUgo_US.png,/en-us/players/38928-u.blanchet
-42514,En-Shuo,LIANG,ES.LIANG,312,21,TPE,F,25 years-old,(2 October 2000),Right,-,-,https://images.prismic.io/fft-rg-site/ahHXHbK9tuLqEGOS_20260523_PJ_LiangEnShuo_US.png,/en-us/players/42514-es.liang
+42514,En-Shuo,LIANG,ES.LIANG,312,21,TPE,F,26 years-old,(2 October 2000),Right,-,-,https://images.prismic.io/fft-rg-site/ahHXHbK9tuLqEGOS_20260523_PJ_LiangEnShuo_US.png,/en-us/players/42514-es.liang
 38053,Eva,GUERRERO ALVAREZ,E.GUERRERO ALVAREZ,314,,ESP,F,27 years-old,(4 September 1999),-,-,-,https://images.prismic.io/fft-rg-site/aght_6YofJOwHSvh_20260515_PJ_GuerreroAlvarezEva_US.png,/en-us/players/38053-e.guerrero-alvarez
 45426,Guy,DEN OUDEN,G.DEN OUDEN,315,,NED,M,24 years-old,(8 April 2002),Right,-,-,https://images.prismic.io/fft-rg-site/aCoUCSdWJ-7kSQwb_45426_G.png,/en-us/players/45426-g.den-ouden
 30798,Jessika,PONCHET,J.PONCHET,316,207,FRA,F,30 years-old,(26 September 1996),Right,-,-,https://images.prismic.io/fft-rg-site/agh7nKYofJOwHSy6_20260515_PJ_PonchetJessika_US.png,/en-us/players/30798-j.ponchet
@@ -738,7 +738,7 @@ player_id,first_name,last_name,short_name,ranking,ranking_double,country,sex,age
 6128,Rajeev,RAM,R.RAM,,73,USA,M,42 years-old,(18 March 1984),Right,-,-,https://images.prismic.io/fft-rg-site/db6992d9-8649-414b-aa98-64320a9a1ba7_20220309_PJ_RamRajeev_US.png,/en-us/players/6128-r.ram
 47742,Casey,RATZLAFF,C.RATZLAFF,,,USA,M,28 years-old,(7 September 1998),-,-,-,https://images.prismic.io/fft-rg-site/ah1Y2AeQX7-eWeoV_20260530_PJ_RatzlaffCasey_US.png,/en-us/players/47742-c.ratzlaff
 28609,Fabien,REBOUL,F.REBOUL,,22,FRA,M,31 years-old,(9 September 1995),Right,-,-,https://images.prismic.io/fft-rg-site/14b46c5c-7dd7-4ae4-b915-1104f8fa6ebc_20201207_PJ_ReboulFabien_US.png,/en-us/players/28609-f.reboul
-33799,Gordon,REID,G.REID,,,GBR,M,34 years-old,(2 October 1991),-,-,-,https://images.prismic.io/fft-rg-site/ah1cXQeQX7-eWeqe_20260531_PJ_ReidGordon_US.png,/en-us/players/33799-g.reid
+33799,Gordon,REID,G.REID,,,GBR,M,35 years-old,(2 October 1991),-,-,-,https://images.prismic.io/fft-rg-site/ah1cXQeQX7-eWeqe_20260531_PJ_ReidGordon_US.png,/en-us/players/33799-g.reid
 54789,Vincent Jakob,REISACH,VJ.REISACH,,,GER,M,17 years-old,(13 March 2009),Left,-,-,https://images.prismic.io/fft-rg-site/ahxpEweQX7-eWdX3_20260530_PJ_ReisachVincentJakob_US.png,/en-us/players/54789-vj.reisach
 25355,Miguel,REYES-VARELA,M.REYES-VARELA,,76,MEX,M,39 years-old,(21 June 1987),Right,-,-,https://images.prismic.io/fft-rg-site/b87aea59-0552-40f0-a440-631264ec07d8_20240112_PJ_ReyesVarelaMiguelAngel_US.png,/en-us/players/25355-m.reyes-varela
 37631,Arthur,REYMOND,A.REYMOND,,66,FRA,M,27 years-old,(2 April 1999),Left,-,-,,/en-us/players/37631-a.reymond
