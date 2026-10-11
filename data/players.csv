@@ -34,7 +34,7 @@ player_id,first_name,last_name,short_name,ranking,ranking_double,country,sex,age
 54929,Gonzalo Enrique,LAZARTE ,GE.LAZARTE ,7,6,ARG,M,21 years-old,(24 June 2005),-,-,-,https://images.prismic.io/fft-rg-site/ah1brgeQX7-eWeqC_20260531_PJ_LazarteGonzaloEnrique_US.png,/en-us/players/54929-ge.lazarte-
 23968,Elina,SVITOLINA,E.SVITOLINA,7,,UKR,F,32 years-old,(12 September 1994),Right,-,-,https://images.prismic.io/fft-rg-site/aetam8BOoF08xRzk_20260303_PJ_SvitolinaElina_US.png,/en-us/players/23968-e.svitolina
 9801,Novak,DJOKOVIC,N.DJOKOVIC,8,,SRB,M,39 years-old,(22 May 1987),Right,-,-,https://images.prismic.io/fft-rg-site/aeoovMBOoF08xQFC_20260117_PJ_DjokovicNovak_US.png,/en-us/players/9801-n.djokovic
-45951,Andy,LAPTHORNE,A.LAPTHORNE,8,5,GBR,M,35 years-old,(11 October 1990),-,-,-,https://images.prismic.io/fft-rg-site/ah2gdAeQX7-eWfv__20260601_PJ_LapthorneAndy_US.png,/en-us/players/45951-a.lapthorne
+45951,Andy,LAPTHORNE,A.LAPTHORNE,8,5,GBR,M,36 years-old,(11 October 1990),-,-,-,https://images.prismic.io/fft-rg-site/ah2gdAeQX7-eWfv__20260601_PJ_LapthorneAndy_US.png,/en-us/players/45951-a.lapthorne
 36632,Takuya,MIKI,T.MIKI,8,20,JPN,M,37 years-old,(30 April 1989),-,-,-,https://images.prismic.io/fft-rg-site/ah1y1QeQX7-eWfAI_20260601_PJ_MikiTakuya_US.png,/en-us/players/36632-t.miki
 33800,Kgothatso,MONTJANE,K.MONTJANE,8,13,RSA,F,40 years-old,(3 June 1986),-,-,-,https://images.prismic.io/fft-rg-site/ah1cKQeQX7-eWeqY_20260531_PJ_MontjaneKgothatso_US.png,/en-us/players/33800-k.montjane
 35961,Karolina,MUCHOVA,K.MUCHOVA,8,168,CZE,F,30 years-old,(21 August 1996),Right,-,-,https://images.prismic.io/fft-rg-site/2ada83e7-832b-4023-b1f5-4d4fe5394585_20200311_PJ_MuchovaKarolina_US.png,/en-us/players/35961-k.muchova
@@ -77,7 +77,7 @@ player_id,first_name,last_name,short_name,ranking,ranking_double,country,sex,age
 41418,Brandon,NAKASHIMA,B.NAKASHIMA,19,,USA,M,25 years-old,(3 August 2001),Right,-,-,https://images.prismic.io/fft-rg-site/aeoor8BOoF08xQEz_20260116_PJ_NakashimaBrandon_US.png,/en-us/players/41418-b.nakashima
 40998,Francisco,CERUNDOLO,F.CERUNDOLO,20,143,ARG,M,28 years-old,(13 August 1998),Right,-,-,https://images.prismic.io/fft-rg-site/aDQR5ydWJ-7kSiCJ_40998_G.png,/en-us/players/40998-f.cerundolo
 33206,Jasmine,PAOLINI,J.PAOLINI,20,26,ITA,F,30 years-old,(4 January 1996),Right,-,-,https://images.prismic.io/fft-rg-site/aDQbRCdWJ-7kSiK__33206_G.png,/en-us/players/33206-j.paolini
-40630,Maja,CHWALINSKA,M.CHWALINSKA,21,220,POL,F,24 years-old,(11 October 2001),Left,-,-,https://images.prismic.io/fft-rg-site/aghjxKYofJOwHSuB_20260515_PJ_ChwalinskaMaja_US.png,/en-us/players/40630-m.chwalinska
+40630,Maja,CHWALINSKA,M.CHWALINSKA,21,220,POL,F,25 years-old,(11 October 2001),Left,-,-,https://images.prismic.io/fft-rg-site/aghjxKYofJOwHSuB_20260515_PJ_ChwalinskaMaja_US.png,/en-us/players/40630-m.chwalinska
 45420,Luciano,DARDERI,L.DARDERI,21,148,ITA,M,24 years-old,(14 February 2002),Right,-,-,https://images.prismic.io/fft-rg-site/aDQTLSdWJ-7kSiD-_45420_G.png,/en-us/players/45420-l.darderi
 29098,Alexander,BUBLIK,A.BUBLIK,22,208,KAZ,M,29 years-old,(17 June 1997),Right,-,-,https://images.prismic.io/fft-rg-site/aeoo1sBOoF08xQFf_20260118_PJ_BublikAlexander_US.png,/en-us/players/29098-a.bublik
 33663,Anna,KALINSKAYA,A.KALINSKAYA,22,,---,F,27 years-old,(2 December 1998),Right,-,-,https://images.prismic.io/fft-rg-site/aDQZBidWJ-7kSiIV_33663_G.png,/en-us/players/33663-a.kalinskaya
