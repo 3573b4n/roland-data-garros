@@ -146,7 +146,7 @@ player_id,first_name,last_name,short_name,ranking,ranking_double,country,sex,age
 48028,Martin,LANDALUCE,M.LANDALUCE,73,,ESP,M,20 years-old,(8 January 2006),Right,-,-,https://images.prismic.io/fft-rg-site/aCoY-CdWJ-7kSQxv_48028_G.png,/en-us/players/48028-m.landaluce
 42557,Katie,VOLYNETS,K.VOLYNETS,74,,USA,F,24 years-old,(31 December 2001),Right,-,-,https://images.prismic.io/fft-rg-site/aetagMBOoF08xRzJ_20260228_PJ_VolynetsKatie_US.png,/en-us/players/42557-k.volynets
 50682,Maya,JOINT,M.JOINT,75,31,AUS,F,20 years-old,(16 April 2006),Right,-,-,https://images.prismic.io/fft-rg-site/8abed9ad-898d-458f-b3d9-314e2a21102a_20230602_PJ_JointMaya_US.png,/en-us/players/50682-m.joint
-40499,Tomas,MACHAC,T.MACHAC,75,249,CZE,M,25 years-old,(13 October 2000),Right,-,-,https://images.prismic.io/fft-rg-site/aDQVLSdWJ-7kSiFU_40499_G.png,/en-us/players/40499-t.machac
+40499,Tomas,MACHAC,T.MACHAC,75,249,CZE,M,26 years-old,(13 October 2000),Right,-,-,https://images.prismic.io/fft-rg-site/aDQVLSdWJ-7kSiFU_40499_G.png,/en-us/players/40499-t.machac
 44469,Kyrian,JACQUET,K.JACQUET,76,240,FRA,M,25 years-old,(11 May 2001),Right,-,-,https://images.prismic.io/fft-rg-site/aghjsqYofJOwHStu_20260514_PJ_JacquetKyrian_US.png,/en-us/players/44469-k.jacquet
 40622,Kamilla,RAKHIMOVA,K.RAKHIMOVA,76,103,UZB,F,25 years-old,(28 August 2001),Right,-,-,https://images.prismic.io/fft-rg-site/aDFbUidWJ-7kSgxh_40622_G.png,/en-us/players/40622-k.rakhimova
 42617,Mccartney,KESSLER,M.KESSLER,77,302,USA,F,27 years-old,(8 July 1999),Right,-,-,https://images.prismic.io/fft-rg-site/399afabd-9556-4dc7-a4f8-f14302f48861_20240305_PJ_KesslerMcCartney_US.png,/en-us/players/42617-m.kessler
@@ -223,7 +223,7 @@ player_id,first_name,last_name,short_name,ranking,ranking_double,country,sex,age
 52603,Laura,SAMSON,L.SAMSON,113,236,CZE,F,18 years-old,(10 March 2008),Right,-,-,https://images.prismic.io/fft-rg-site/agnu9aYofJOwHTWy_20260517_PJ_SamsonLaura_US.png,/en-us/players/52603-l.samson
 38355,Yibing,WU,Y.WU,113,,CHN,M,26 years-old,(14 October 1999),Right,-,-,https://images.prismic.io/fft-rg-site/aeoo98BOoF08xQGF_20260118_PJ_WuYibing_US.png,/en-us/players/38355-y.wu
 43819,Lisa,PIGATO,L.PIGATO,114,,ITA,F,23 years-old,(21 June 2003),Right,-,-,https://images.prismic.io/fft-rg-site/agiPL6YofJOwHS2c_20260516_PJ_PigatoLisa_US.png,/en-us/players/43819-l.pigato
-38517,Zsombor,PIROS,Z.PIROS,114,,HUN,M,26 years-old,(13 October 1999),Right,-,-,https://images.prismic.io/fft-rg-site/ZkpG6yol0Zci9RHo_20240516_PJ_PirosZsombor_US.png,/en-us/players/38517-z.piros
+38517,Zsombor,PIROS,Z.PIROS,114,,HUN,M,27 years-old,(13 October 1999),Right,-,-,https://images.prismic.io/fft-rg-site/ZkpG6yol0Zci9RHo_20240516_PJ_PirosZsombor_US.png,/en-us/players/38517-z.piros
 50999,Mary,STOIANA,M.STOIANA,115,253,USA,F,23 years-old,(6 May 2003),Right,-,-,https://images.prismic.io/fft-rg-site/agw0kqYofJOwHW8X_20260518_PJ_StoianaMary_US.PNG,/en-us/players/50999-m.stoiana
 32829,Aleksandar,VUKIC,A.VUKIC,115,,AUS,M,30 years-old,(6 April 1996),Right,-,-,https://images.prismic.io/fft-rg-site/588abedb-cd6a-417d-ac49-d35eec21a948_20240111_PJ_VukicAleksandar_US.png,/en-us/players/32829-a.vukic
 28684,Harriet,DART,H.DART,116,80,GBR,F,30 years-old,(28 July 1996),Right,-,-,https://images.prismic.io/fft-rg-site/222a832a-c50a-40b8-8e97-cefd3e527436_20240305_PJ_DartHarriet_US.png,/en-us/players/28684-h.dart
@@ -278,7 +278,7 @@ player_id,first_name,last_name,short_name,ranking,ranking_double,country,sex,age
 33787,Tamara,ZIDANSEK,T.ZIDANSEK,142,418,SLO,F,28 years-old,(26 December 1997),Right,-,-,https://images.prismic.io/fft-rg-site/agh-gKYofJOwHS0J_20260515_PJ_ZidansekTamara_US.png,/en-us/players/33787-t.zidansek
 40759,Joanna,GARLAND,J.GARLAND,143,,TPE,F,25 years-old,(16 July 2001),Right,-,-,https://images.prismic.io/fft-rg-site/agh-haYofJOwHS0O_20260516_PJ_GarlandJoanna_US.png,/en-us/players/40759-j.garland
 42500,Eliot,SPIZZIRRI,E.SPIZZIRRI,143,,USA,M,24 years-old,(23 December 2001),Right,-,-,https://images.prismic.io/fft-rg-site/aCoPgydWJ-7kSQvg_42500_G.png,/en-us/players/42500-e.spizzirri
-44472,Pablo,LLAMAS RUIZ,P.LLAMAS RUIZ,144,305,ESP,M,23 years-old,(13 October 2002),Right,-,-,https://images.prismic.io/fft-rg-site/aghxAqYofJOwHSxG_20260515_PJ_LlamasRuizPablo_US.png,/en-us/players/44472-p.llamas-ruiz
+44472,Pablo,LLAMAS RUIZ,P.LLAMAS RUIZ,144,305,ESP,M,24 years-old,(13 October 2002),Right,-,-,https://images.prismic.io/fft-rg-site/aghxAqYofJOwHSxG_20260515_PJ_LlamasRuizPablo_US.png,/en-us/players/44472-p.llamas-ruiz
 44184,Lulu,SUN,L.SUN,144,,NZL,F,25 years-old,(14 April 2001),Left,-,-,https://images.prismic.io/fft-rg-site/aetafsBOoF08xRzH_20260228_PJ_SunLulu_US.png,/en-us/players/44184-l.sun
 40173,Guiomar,MARISTANY ZULETA DE REALES,G.MARISTANY ZULETA DE REALES,145,,ESP,F,27 years-old,(19 February 1999),Right,-,-,https://images.prismic.io/fft-rg-site/aghxA6YofJOwHSxH_20260515_PJ_MaristanyZuletaDeRealesGuiomar_US.png,/en-us/players/40173-g.maristany-zuleta-de-reales
 32437,Andrea,PELLEGRINO,A.PELLEGRINO,145,,ITA,M,29 years-old,(23 March 1997),Right,-,-,https://images.prismic.io/fft-rg-site/agh-jqYofJOwHS0W_20260516_PJ_PellegrinoAndrea_US.png,/en-us/players/32437-a.pellegrino
