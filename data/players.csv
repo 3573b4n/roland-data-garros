@@ -167,7 +167,7 @@ player_id,first_name,last_name,short_name,ranking,ranking_double,country,sex,age
 11362,Shuai,ZHANG,S.ZHANG,85,5,CHN,F,37 years-old,(21 January 1989),Right,-,-,https://images.prismic.io/fft-rg-site/aCnwdSdWJ-7kSQpX_11362_G.png,/en-us/players/11362-s.zhang
 43003,Jacob,FEARNLEY,J.FEARNLEY,86,,GBR,M,25 years-old,(15 July 2001),Right,-,-,https://images.prismic.io/fft-rg-site/aeoo_cBOoF08xQGP_20260119_PJ_FearnleyJacob_US.png,/en-us/players/43003-j.fearnley
 28779,Katerina,SINIAKOVA,K.SINIAKOVA,86,1,CZE,F,30 years-old,(10 May 1996),Right,-,-,https://images.prismic.io/fft-rg-site/aetajcBOoF08xRzW_20260302_PJ_SiniakovaKatarina_US.png,/en-us/players/28779-k.siniakova
-46986,Taylah,PRESTON,T.PRESTON,87,325,AUS,F,20 years-old,(27 October 2005),Right,-,-,https://images.prismic.io/fft-rg-site/aCoWBydWJ-7kSQwu_46986_G.png,/en-us/players/46986-t.preston
+46986,Taylah,PRESTON,T.PRESTON,87,325,AUS,F,21 years-old,(27 October 2005),Right,-,-,https://images.prismic.io/fft-rg-site/aCoWBydWJ-7kSQwu_46986_G.png,/en-us/players/46986-t.preston
 45200,Coleman,WONG,C.WONG,87,,HKG,M,22 years-old,(6 June 2004),Right,-,-,https://images.prismic.io/fft-rg-site/aCoTvydWJ-7kSQwY_45200_G.png,/en-us/players/45200-c.wong
 24807,Marcos,GIRON,M.GIRON,88,,USA,M,33 years-old,(24 July 1993),Right,-,-,https://images.prismic.io/fft-rg-site/aDQTgidWJ-7kSiER_24807_G.png,/en-us/players/24807-m.giron
 49227,Tereza,VALENTOVA,T.VALENTOVA,88,214,CZE,F,19 years-old,(20 February 2007),Right,-,-,https://images.prismic.io/fft-rg-site/aCoZfCdWJ-7kSQx0_49227_G.png,/en-us/players/49227-t.valentova
@@ -280,7 +280,7 @@ player_id,first_name,last_name,short_name,ranking,ranking_double,country,sex,age
 48187,Darwin,BLANCH,D.BLANCH,144,,USA,M,19 years-old,(28 September 2007),Left,-,-,https://images.prismic.io/fft-rg-site/c38bff29-32df-4d41-a15f-f455c995c13a_darwin.png,/en-us/players/48187-d.blanch
 51314,Teodora,KOSTOVIC,T.KOSTOVIC,144,,SRB,F,19 years-old,(28 June 2007),Right,-,-,https://images.prismic.io/fft-rg-site/agxjQKYofJOwHXiB_20260517_PJ_KostovicTeodora_US.PNG,/en-us/players/51314-t.kostovic
 46190,Vilius,GAUBAS,V.GAUBAS,145,,LTU,M,21 years-old,(29 December 2004),Right,-,-,https://images.prismic.io/fft-rg-site/aghs7KYofJOwHSvF_20260515_PJ_GaubasVilius_US.png,/en-us/players/46190-v.gaubas
-47251,Ilia,SIMAKIN,I.SIMAKIN,146,415,---,M,22 years-old,(27 October 2003),Right,-,-,https://images.prismic.io/fft-rg-site/agipnKYofJOwHS4q_20260516_PJ_SimakinIlia_US.png,/en-us/players/47251-i.simakin
+47251,Ilia,SIMAKIN,I.SIMAKIN,146,415,---,M,23 years-old,(27 October 2003),Right,-,-,https://images.prismic.io/fft-rg-site/agipnKYofJOwHS4q_20260516_PJ_SimakinIlia_US.png,/en-us/players/47251-i.simakin
 31356,Rebecca,SRAMKOVA,R.SRAMKOVA,146,289,SVK,F,30 years-old,(19 October 1996),Right,-,-,https://images.prismic.io/fft-rg-site/aDFZvidWJ-7kSgxb_31356_G.png,/en-us/players/31356-r.sramkova
 44112,Giovanni,MPETSHI PERRICARD,G.MPETSHI PERRICARD,148,,FRA,M,23 years-old,(8 July 2003),Right,-,-,https://images.prismic.io/fft-rg-site/aDQSGidWJ-7kSiCZ_44112_G.png,/en-us/players/44112-g.mpetshi-perricard
 46130,Gabriel,DIALLO,G.DIALLO,149,,CAN,M,25 years-old,(24 September 2001),Right,-,-,https://images.prismic.io/fft-rg-site/aeoo_MBOoF08xQGO_20260119_PJ_DialloGabriel_US.png,/en-us/players/46130-g.diallo
@@ -561,7 +561,7 @@ player_id,first_name,last_name,short_name,ranking,ranking_double,country,sex,age
 45942,Tom,EGBERINK,T.EGBERINK,,,NED,M,33 years-old,(22 December 1992),-,-,-,https://images.prismic.io/fft-rg-site/ah1aOQeQX7-eWeph_20260531_PJ_EgberinkTom_US.png,/en-us/players/45942-t.egberink
 54907,Emily Victoria,EIGELSBACH,EV.EIGELSBACH,,,GER,F,17 years-old,(16 November 2008),-,-,-,,/en-us/players/54907-ev.eigelsbach
 21256,Ulrikke,EIKERI,U.EIKERI,,39,NOR,F,33 years-old,(16 December 1992),Right,-,-,https://images.prismic.io/fft-rg-site/2fc511ab-65a2-424d-b8f2-4033b6dfcba0_20230403_PJ_EikeriUlrikke_US.png,/en-us/players/21256-u.eikeri
-34297,Alexander,ERLER,A.ERLER,,44,AUT,M,28 years-old,(27 October 1997),Right,-,-,https://images.prismic.io/fft-rg-site/aDQPQCdWJ-7kSiAJ_34297_G.png,/en-us/players/34297-a.erler
+34297,Alexander,ERLER,A.ERLER,,44,AUT,M,29 years-old,(27 October 1997),Right,-,-,https://images.prismic.io/fft-rg-site/aDQPQCdWJ-7kSiAJ_34297_G.png,/en-us/players/34297-a.erler
 10759,Sara,ERRANI,S.ERRANI,,15,ITA,F,39 years-old,(29 April 1987),Right,-,-,https://images.prismic.io/fft-rg-site/aetahsBOoF08xRzP_20260302_PJ_ErraniSara_US.png,/en-us/players/10759-s.errani
 34299,Gonzalo,ESCOBAR,G.ESCOBAR,,94,ECU,M,37 years-old,(20 January 1989),Left,-,-,https://images.prismic.io/fft-rg-site/0122a242-6572-4362-91f5-645440872190_escobar.g_15053_LR+CUT.png,/en-us/players/34299-g.escobar
 15645,Daniel,EVANS,D.EVANS,,,GBR,M,36 years-old,(23 May 1990),Right,-,-,https://images.prismic.io/fft-rg-site/aCnxMSdWJ-7kSQpf_15645_G.png,/en-us/players/15645-d.evans
