@@ -61,7 +61,7 @@ player_id,first_name,last_name,short_name,ranking,ranking_double,country,sex,age
 33541,Tommy,PAUL,T.PAUL,14,,USA,M,29 years-old,(17 May 1997),Right,-,-,https://images.prismic.io/fft-rg-site/4e310bca-e21b-43fe-b847-88c88aa5b09b_Paul.png,/en-us/players/33541-t.paul
 14440,Sorana,CIRSTEA,S.CIRSTEA,15,125,ROU,F,36 years-old,(7 April 1990),Right,-,-,https://images.prismic.io/fft-rg-site/ef406178-2247-4b3f-8947-f904b63a02cb_20240304_PJ_CirsteaSorana_US.png,/en-us/players/14440-s.cirstea
 51369,Pauline,DEROULEDE,P.DEROULEDE,15,18,FRA,F,35 years-old,(30 December 1990),-,-,-,https://images.prismic.io/fft-rg-site/ah8LRQeQX7-eWkok_20260601_PJ_DerouledePauline_US.png,/en-us/players/51369-p.deroulede
-43155,Jiri,LEHECKA,J.LEHECKA,15,358,CZE,M,24 years-old,(8 November 2001),Right,-,-,https://images.prismic.io/fft-rg-site/aeooqsBOoF08xQEt_20260116_PJ_LeheckaJiri_US.png,/en-us/players/43155-j.lehecka
+43155,Jiri,LEHECKA,J.LEHECKA,15,358,CZE,M,25 years-old,(8 November 2001),Right,-,-,https://images.prismic.io/fft-rg-site/aeooqsBOoF08xQEt_20260116_PJ_LeheckaJiri_US.png,/en-us/players/43155-j.lehecka
 54925,Sergei,LYSOV,S.LYSOV,15,22,ISR,M,22 years-old,(22 April 2004),-,-,-,https://images.prismic.io/fft-rg-site/ah1zDAeQX7-eWfAX_20260601_PJ_LysovSergei_US.png,/en-us/players/54925-s.lysov
 47757,Alexander,CATALDO,A.CATALDO,16,24,CHI,M,28 years-old,(16 January 1998),-,-,-,https://images.prismic.io/fft-rg-site/ah8LQAeQX7-eWkod_20260601_PJ_CataldoAlexander_US.png,/en-us/players/47757-a.cataldo
 47921,Jakub,MENSIK,J.MENSIK,16,,CZE,M,21 years-old,(1 September 2005),Right,-,-,https://images.prismic.io/fft-rg-site/1282bb8f-c32c-41ed-8322-c8580f749f61_20240108_PJ_MensikJakub_US.png,/en-us/players/47921-j.mensik
@@ -380,7 +380,7 @@ player_id,first_name,last_name,short_name,ranking,ranking_double,country,sex,age
 40133,Suzan,LAMENS,S.LAMENS,189,,NED,F,27 years-old,(5 July 1999),Right,-,-,https://images.prismic.io/fft-rg-site/aDQaMydWJ-7kSiJE_40133_G.png,/en-us/players/40133-s.lamens
 45454,Jack,PINNINGTON JONES,J.PINNINGTON JONES,190,,GBR,M,23 years-old,(30 March 2003),Right,-,-,https://images.prismic.io/fft-rg-site/0d28cf67-1e7e-4777-a069-935c3a523b1b_20210604_PJ_PinningtonJonesJack_US.png,/en-us/players/45454-j.pinnington-jones
 9086,Laura,SIEGEMUND,L.SIEGEMUND,190,29,GER,F,38 years-old,(4 March 1988),Right,-,-,https://images.prismic.io/fft-rg-site/09d19724-f9f6-4c48-b3a3-c439efa53476_20190303_PJ_SiegemundLaura_US.png,/en-us/players/9086-l.siegemund
-48964,Luisina,GIOVANNINI,L.GIOVANNINI,191,,ARG,F,19 years-old,(8 November 2006),-,-,-,https://images.prismic.io/fft-rg-site/agxi3aYofJOwHXhf_20260519_PJ_GiovanniniLuisina_US.png,/en-us/players/48964-l.giovannini
+48964,Luisina,GIOVANNINI,L.GIOVANNINI,191,,ARG,F,20 years-old,(8 November 2006),-,-,-,https://images.prismic.io/fft-rg-site/agxi3aYofJOwHXhf_20260519_PJ_GiovanniniLuisina_US.png,/en-us/players/48964-l.giovannini
 17343,Mona,BARTHEL,M.BARTHEL,193,,GER,F,36 years-old,(11 July 1990),Right,-,-,https://images.prismic.io/fft-rg-site/aghjwKYofJOwHSt9_20260515_PJ_BarthelMona_US.png,/en-us/players/17343-m.barthel
 47929,Juan Carlos,PRADO ANGELO,JC.PRADO ANGELO,193,,BOL,M,21 years-old,(6 March 2005),Right,-,-,https://images.prismic.io/fft-rg-site/b597a015-b4d7-4eef-874b-bb71c609a026_20220528_PJ_PradoAngeloJuanCarlos_US.png,/en-us/players/47929-jc.prado-angelo
 31398,Harmony,TAN,H.TAN,194,,FRA,F,29 years-old,(11 September 1997),Right,-,-,https://images.prismic.io/fft-rg-site/ZknKUyol0Zci9Q75_20240516_PJ_TanHarmony_US.png,/en-us/players/31398-h.tan
