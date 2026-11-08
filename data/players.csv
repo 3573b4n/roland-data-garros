@@ -78,6 +78,7 @@ player_id,first_name,last_name,short_name,ranking,ranking_double,country,sex,age
 40998,Francisco,CERUNDOLO,F.CERUNDOLO,20,133,ARG,M,28 years-old,(13 August 1998),Right,-,-,https://images.prismic.io/fft-rg-site/aDQR5ydWJ-7kSiCJ_40998_G.png,/en-us/players/40998-f.cerundolo
 47486,Victoria,MBOKO,V.MBOKO,20,139,CAN,F,20 years-old,(26 August 2006),Right,-,-,https://images.prismic.io/fft-rg-site/aetak8BOoF08xRzc_20260303_PJ_MbokoVicky_US.png,/en-us/players/47486-v.mboko
 45420,Luciano,DARDERI,L.DARDERI,21,191,ITA,M,24 years-old,(14 February 2002),Right,-,-,https://images.prismic.io/fft-rg-site/aDQTLSdWJ-7kSiD-_45420_G.png,/en-us/players/45420-l.darderi
+52804,Charlotte,FAIRBANK,C.FAIRBANK,21,20,FRA,F,35 years-old,(22 August 1991),-,-,-,https://images.prismic.io/fft-rg-site/ah2hBgeQX7-eWfwb_20260601_PJ_FairbankCharlotte_US.png,/en-us/players/52804-c.fairbank
 42560,Qinwen,ZHENG,Q.ZHENG,21,,CHN,F,24 years-old,(8 October 2002),Right,-,-,https://images.prismic.io/fft-rg-site/5ee917df-b017-4181-b733-e37daac1cd7c_20240303_PJ_QinwenZheng_US.png,/en-us/players/42560-q.zheng
 40607,Amanda,ANISIMOVA,A.ANISIMOVA,22,,USA,F,25 years-old,(31 August 2001),Right,-,-,https://images.prismic.io/fft-rg-site/ahTUt7K9tuLqEIHZ_20260302_PJ_AnisimovaAmanda_US.PNG,/en-us/players/40607-a.anisimova
 31132,Andrey,RUBLEV,A.RUBLEV,22,217,---,M,29 years-old,(20 October 1997),Right,-,-,https://images.prismic.io/fft-rg-site/aeoosMBOoF08xQE0_20260116_PJ_RublevAndrey_US.png,/en-us/players/31132-a.rublev
@@ -94,11 +95,13 @@ player_id,first_name,last_name,short_name,ranking,ranking_double,country,sex,age
 40210,Emma,NAVARRO,E.NAVARRO,28,,USA,F,25 years-old,(18 May 2001),Right,-,-,https://images.prismic.io/fft-rg-site/aDQbASdWJ-7kSiKT_40210_G.png,/en-us/players/40210-e.navarro
 47415,Nikola,BARTUNKOVA,N.BARTUNKOVA,29,350,CZE,F,20 years-old,(25 February 2006),Right,-,-,https://images.prismic.io/fft-rg-site/f0132fa4-5cb2-43bf-a74c-84e48d45ee93_20220528_PJ_BartunkovaNikola_US.png,/en-us/players/47415-n.bartunkova
 31976,Hubert,HURKACZ,H.HURKACZ,29,,POL,M,29 years-old,(11 February 1997),Right,-,-,https://images.prismic.io/fft-rg-site/aeoo4MBOoF08xQFs_20260118_PJ_HurkaczHubert_US.png,/en-us/players/31976-h.hurkacz
+49289,Guilhem,LAGET,G.LAGET,30,20,FRA,M,28 years-old,(30 April 1998),-,-,-,https://images.prismic.io/fft-rg-site/ah1bMAeQX7-eWep5_20260531_PJ_LagetGuilhem_US.png,/en-us/players/49289-g.laget
 28771,Maria,SAKKARI,M.SAKKARI,30,,GRE,F,31 years-old,(25 July 1995),Right,-,-,https://images.prismic.io/fft-rg-site/aDQdLSdWJ-7kSiLx_28771_G.png,/en-us/players/28771-m.sakkari
 33575,Alejandro,TABILO,A.TABILO,30,177,CHI,M,29 years-old,(2 June 1997),Left,-,-,https://images.prismic.io/fft-rg-site/aeopBcBOoF08xQGY_20260119_PJ_TabiloAlejandro_US.png,/en-us/players/33575-a.tabilo
 36989,Tomas Martin,ETCHEVERRY,TM.ETCHEVERRY,31,89,ARG,M,27 years-old,(18 July 1999),Right,-,-,https://images.prismic.io/fft-rg-site/aeoo2cBOoF08xQFi_20260118_PJ_EtcheverryTomasMartin_US.png,/en-us/players/36989-tm.etcheverry
 40660,Ann,LI,A.LI,31,199,USA,F,26 years-old,(26 June 2000),Right,-,-,https://images.prismic.io/fft-rg-site/Zkrrdyol0Zci9RdV_20240518_PJ_LiAnn_US.png,/en-us/players/40660-a.li
 30361,Ekaterina,ALEXANDROVA,E.ALEXANDROVA,32,53,---,F,31 years-old,(15 November 1994),Right,-,-,https://images.prismic.io/fft-rg-site/0195839a-286a-4d80-b5f2-b66e42350099_20240305_PJ_AlexandrovaEkaterina_US.png,/en-us/players/30361-e.alexandrova
+31399,Frederic,CATTANEO,F.CATTANEO,32,16,FRA,M,47 years-old,(3 December 1978),-,-,-,https://images.prismic.io/fft-rg-site/ah2hbQeQX7-eWfwv_20260601_PJ_CattaneoFrederic_US.png,/en-us/players/31399-f.cattaneo
 45447,Arthur,FERY,A.FERY,32,,GBR,M,24 years-old,(12 July 2002),Right,-,-,https://images.prismic.io/fft-rg-site/aeoo2sBOoF08xQFk_20260118_PJ_FeryArthur_US.png,/en-us/players/45447-a.fery
 47532,Sara,BEJLEK,S.BEJLEK,33,,CZE,F,20 years-old,(31 January 2006),Left,-,-,https://images.prismic.io/fft-rg-site/aCoYfCdWJ-7kSQxp_47532_G.png,/en-us/players/47532-s.bejlek
 46070,Ignacio,BUSE,I.BUSE,33,417,PER,M,22 years-old,(25 March 2004),Right,-,-,https://images.prismic.io/fft-rg-site/aCoVVidWJ-7kSQwp_46070_G.png,/en-us/players/46070-i.buse
@@ -558,7 +561,6 @@ player_id,first_name,last_name,short_name,ranking,ranking_double,country,sex,age
 26526,Estelle,CASCINO,E.CASCINO,,101,FRA,F,30 years-old,(13 March 1996),Right,-,-,https://images.prismic.io/fft-rg-site/6ee84bba-036b-43df-ad28-e5161b500b0c_20201128_PJ_CascinoEstelle_US+%281%29.png,/en-us/players/26526-e.cascino
 33421,Julian,CASH,J.CASH,,21,GBR,M,30 years-old,(29 August 1996),Right,-,-,https://images.prismic.io/fft-rg-site/aDHQtidWJ-7kSg_x_33421_G.png,/en-us/players/33421-j.cash
 42894,Robert,CASH,R.CASH,,53,USA,M,25 years-old,(7 March 2001),Right,-,-,https://images.prismic.io/fft-rg-site/aeooo8BOoF08xQEl_20260116_PJ_CashRobert_US.png,/en-us/players/42894-r.cash
-31399,Frederic,CATTANEO,F.CATTANEO,,,FRA,M,47 years-old,(3 December 1978),-,-,-,https://images.prismic.io/fft-rg-site/ah2hbQeQX7-eWfwv_20260601_PJ_CattaneoFrederic_US.png,/en-us/players/31399-f.cattaneo
 53334,Mark,CEBAN,M.CEBAN,,,GBR,M,17 years-old,(13 March 2009),Right,-,-,https://images.prismic.io/fft-rg-site/ahxAkgeQX7-eWdPk_20260530_PJ_CebanMark_US.png,/en-us/players/53334-m.ceban
 56733,Capucine,CEDILLO- VAYSON DE PRADENNE,C.CEDILLO- VAYSON DE PRADENNE,,,FRA,F,17 years-old,(24 September 2009),-,-,-,https://images.prismic.io/fft-rg-site/ahxBnweQX7-eWdPl_20260530_PJ_CedilloVaysonDePrademneCapucine_US.png,/en-us/players/56733-c.cedillo--vayson-de-pradenne
 53042,Pedro Henrique,CHABALGOITY,PH.CHABALGOITY,,,BRA,M,18 years-old,(15 April 2008),Left,-,-,https://images.prismic.io/fft-rg-site/ahxB2QeQX7-eWdPo_20260530_PJ_ChabalgoityPedroHenrique_US.png,/en-us/players/53042-ph.chabalgoity
@@ -600,7 +602,6 @@ player_id,first_name,last_name,short_name,ranking,ranking_double,country,sex,age
 10759,Sara,ERRANI,S.ERRANI,,12,ITA,F,39 years-old,(29 April 1987),Right,-,-,https://images.prismic.io/fft-rg-site/aetahsBOoF08xRzP_20260302_PJ_ErraniSara_US.png,/en-us/players/10759-s.errani
 34299,Gonzalo,ESCOBAR,G.ESCOBAR,,94,ECU,M,37 years-old,(20 January 1989),Left,-,-,https://images.prismic.io/fft-rg-site/0122a242-6572-4362-91f5-645440872190_escobar.g_15053_LR+CUT.png,/en-us/players/34299-g.escobar
 15645,Daniel,EVANS,D.EVANS,,,GBR,M,36 years-old,(23 May 1990),Right,-,-,https://images.prismic.io/fft-rg-site/aCnxMSdWJ-7kSQpf_15645_G.png,/en-us/players/15645-d.evans
-52804,Charlotte,FAIRBANK,C.FAIRBANK,,,FRA,F,35 years-old,(22 August 1991),-,-,-,https://images.prismic.io/fft-rg-site/ah2hBgeQX7-eWfwb_20260601_PJ_FairbankCharlotte_US.png,/en-us/players/52804-c.fairbank
 26922,Nerman,FATIC,N.FATIC,,,BIH,M,32 years-old,(24 October 1994),Right,-,-,https://images.prismic.io/fft-rg-site/ZkpqPiol0Zci9RL0_20240518_PJ_FaticNerman_US.png,/en-us/players/26922-n.fatic
 53427,Kirill,FILARETOV,K.FILARETOV,,,---,M,18 years-old,(30 July 2008),-,-,-,https://images.prismic.io/fft-rg-site/ahxPcgeQX7-eWdR0_20260530_PJ_FilaretovKirill_US.png,/en-us/players/53427-k.filaretov
 135,Guy,FORGET,G.FORGET,,,FRA,M,-,,-,-,-,https://images.prismic.io/fft-rg-site/4fc2e5c9-8102-49a0-903e-a9d4ea121b5b_20220530_PJ_ForgetGuy_US.png,/en-us/players/135-g.forget
@@ -678,7 +679,6 @@ player_id,first_name,last_name,short_name,ranking,ranking_double,country,sex,age
 21835,Aleksandra,KRUNIC,A.KRUNIC,,6,SRB,F,33 years-old,(15 March 1993),Right,-,-,https://images.prismic.io/fft-rg-site/d56b2ce6-b997-41fb-89e6-5d2cea2b27ec_20180523_PJ_KrunicAleksandra_US.png,/en-us/players/21835-a.krunic
 52443,Adelina,LACINOVA,A.LACINOVA,,,LAT,F,18 years-old,(10 February 2008),-,-,-,https://images.prismic.io/fft-rg-site/ahxXogeQX7-eWdTO_20260530_PJ_LachinovaAdelina_US.png,/en-us/players/52443-a.lacinova
 51212,Nadia,LAGAEV,N.LAGAEV,,,CAN,F,18 years-old,(18 January 2008),-,-,-,https://images.prismic.io/fft-rg-site/aDxOf7h8WN-LVdE5_51212_G.png,/en-us/players/51212-n.lagaev
-49289,Guilhem,LAGET,G.LAGET,,,FRA,M,28 years-old,(30 April 1998),-,-,-,https://images.prismic.io/fft-rg-site/ah1bMAeQX7-eWep5_20260531_PJ_LagetGuilhem_US.png,/en-us/players/49289-g.laget
 52447,Cindy,LANGLAIS,C.LANGLAIS,,,FRA,F,17 years-old,(23 June 2009),-,-,-,https://images.prismic.io/fft-rg-site/aCsnHCdWJ-7kSTDB_52447_G.png,/en-us/players/52447-c.langlais
 50744,Sol Ailin,LARRAYA GUIDI,SA.LARRAYA GUIDI,,,ARG,F,18 years-old,(21 February 2008),-,-,-,https://images.prismic.io/fft-rg-site/aDwfhLh8WN-LVc09_50744_G.png,/en-us/players/50744-sa.larraya-guidi
 56191,Marija,LAUVA,M.LAUVA,,,LAT,F,18 years-old,(1 February 2008),-,-,-,https://images.prismic.io/fft-rg-site/ahxYeAeQX7-eWdTx_20260530_PJ_LauvaMarija_US.png,/en-us/players/56191-m.lauva
