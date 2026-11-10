@@ -69,7 +69,7 @@ player_id,first_name,last_name,short_name,ranking,ranking_double,country,sex,age
 45947,Manami,TANAKA,M.TANAKA,16,11,JPN,F,30 years-old,(10 June 1996),-,-,-,https://images.prismic.io/fft-rg-site/ah1eBgeQX7-eWerf_20260531_PJ_TanakaManami_US.png,/en-us/players/45947-m.tanaka
 39036,Alejandro,DAVIDOVICH FOKINA,A.DAVIDOVICH FOKINA,17,,ESP,M,27 years-old,(5 June 1999),Right,-,-,https://images.prismic.io/fft-rg-site/752f36f6-8a8c-48be-937e-8e5635ae3913_20240112_PJ_DavidovichFokinaAlejandro_US.png,/en-us/players/39036-a.davidovich-fokina
 45659,Alexandra,EALA,A.EALA,17,146,PHI,F,21 years-old,(23 May 2005),Left,-,-,https://images.prismic.io/fft-rg-site/aDQXdCdWJ-7kSiGj_45659_G.png,/en-us/players/45659-a.eala
-47736,Daniel,RODRIGUES,D.RODRIGUES,17,9,BRA,M,39 years-old,(10 November 1986),-,-,-,https://images.prismic.io/fft-rg-site/ah1ckQeQX7-eWeqk_20260531_PJ_RodriguesDaniel_US.PNG,/en-us/players/47736-d.rodrigues
+47736,Daniel,RODRIGUES,D.RODRIGUES,17,9,BRA,M,40 years-old,(10 November 1986),-,-,-,https://images.prismic.io/fft-rg-site/ah1ckQeQX7-eWeqk_20260531_PJ_RodriguesDaniel_US.PNG,/en-us/players/47736-d.rodrigues
 43643,Leylah,FERNANDEZ,L.FERNANDEZ,18,74,CAN,F,24 years-old,(6 September 2002),Left,-,-,https://images.prismic.io/fft-rg-site/493a6996-5be6-4006-a0e1-7e161fd42b6e_20240305_PJ_FernandezLeylah_US.png,/en-us/players/43643-l.fernandez
 36389,Casper,RUUD,C.RUUD,18,,NOR,M,27 years-old,(22 December 1998),Right,-,-,https://images.prismic.io/fft-rg-site/aeoox8BOoF08xQFO_20260117_PJ_RuudCasper_US.png,/en-us/players/36389-c.ruud
 47751,Saki,TAKAMURO,S.TAKAMURO,18,16,JPN,F,31 years-old,(2 January 1995),-,-,-,https://images.prismic.io/fft-rg-site/aD6psrh8WN-LVgm6_47751_G.png,/en-us/players/47751-s.takamuro
@@ -613,7 +613,7 @@ player_id,first_name,last_name,short_name,ranking,ranking_double,country,sex,age
 26991,Sander,GILLE,S.GILLE,,77,BEL,M,35 years-old,(15 January 1991),Right,-,-,https://images.prismic.io/fft-rg-site/0e6c5c60-2d9d-4ef0-ad4d-ff6437399cd8_20240113_PJ_GilleSander_US.png,/en-us/players/26991-s.gille
 57550,Evan,GIURESCU,E.GIURESCU,,,FRA,M,-,,-,-,-,,/en-us/players/57550-e.giurescu
 24809,Lloyd,GLASSPOOL,L.GLASSPOOL,,21,GBR,M,32 years-old,(19 November 1993),Right,-,-,https://images.prismic.io/fft-rg-site/3da04517-841e-4e0d-9709-f341b616e290_20220521_PJ_GlasspoolLloyd_US.png,/en-us/players/24809-l.glasspool
-33037,Quinn,GLEASON,Q.GLEASON,,36,USA,F,31 years-old,(10 November 1994),Right,-,-,,/en-us/players/33037-q.gleason
+33037,Quinn,GLEASON,Q.GLEASON,,36,USA,F,32 years-old,(10 November 1994),Right,-,-,,/en-us/players/33037-q.gleason
 19706,David,GOFFIN,D.GOFFIN,,,BEL,M,35 years-old,(7 December 1990),Right,-,-,https://images.prismic.io/fft-rg-site/86f2a4b2-3d89-4639-9570-5a8c07a0397d_20220309_PJ_GoffinDavid_US.png,/en-us/players/19706-d.goffin
 7780,Tatiana,GOLOVIN,T.GOLOVIN,,,FRA,F,-,,-,-,-,https://images.prismic.io/fft-rg-site/12506201-1745-413d-9f12-caac59b040c6_20220530_PJ_GolovinTatiana_US.png,/en-us/players/7780-t.golovin
 11336,Andrey,GOLUBEV,A.GOLUBEV,,,KAZ,M,-,,-,-,-,https://images.prismic.io/fft-rg-site/33087194-6b41-48cf-8a2d-f88c03d784c4_20150519_PJ_GolubevAndrey_US.png,/en-us/players/11336-a.golubev
