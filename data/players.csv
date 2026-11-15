@@ -90,7 +90,7 @@ player_id,first_name,last_name,short_name,ranking,ranking_double,country,sex,age
 29098,Alexander,BUBLIK,A.BUBLIK,26,203,KAZ,M,29 years-old,(17 June 1997),Right,-,-,https://images.prismic.io/fft-rg-site/aeoo1sBOoF08xQFf_20260118_PJ_BublikAlexander_US.png,/en-us/players/29098-a.bublik
 33663,Anna,KALINSKAYA,A.KALINSKAYA,26,,---,F,27 years-old,(2 December 1998),Right,-,-,https://images.prismic.io/fft-rg-site/aDQZBidWJ-7kSiIV_33663_G.png,/en-us/players/33663-a.kalinskaya
 40210,Emma,NAVARRO,E.NAVARRO,27,,USA,F,25 years-old,(18 May 2001),Right,-,-,https://images.prismic.io/fft-rg-site/aDQbASdWJ-7kSiKT_40210_G.png,/en-us/players/40210-e.navarro
-37843,Valentin,VACHEROT,V.VACHEROT,27,114,MON,M,27 years-old,(16 November 1998),Right,-,-,https://images.prismic.io/fft-rg-site/aeopB8BOoF08xQGa_20260119_PJ_VacherotValentin_US.png,/en-us/players/37843-v.vacherot
+37843,Valentin,VACHEROT,V.VACHEROT,27,114,MON,M,28 years-old,(16 November 1998),Right,-,-,https://images.prismic.io/fft-rg-site/aeopB8BOoF08xQGa_20260119_PJ_VacherotValentin_US.png,/en-us/players/37843-v.vacherot
 47993,Alexander,BLOCKX,A.BLOCKX,28,,BEL,M,21 years-old,(8 April 2005),Right,-,-,https://images.prismic.io/fft-rg-site/aCoY4idWJ-7kSQxt_47993_G.png,/en-us/players/47993-a.blockx
 38726,Anastasia,POTAPOVA,A.POTAPOVA,28,436,AUT,F,25 years-old,(30 March 2001),Right,-,-,https://images.prismic.io/fft-rg-site/aDQcZydWJ-7kSiLY_38726_G.png,/en-us/players/38726-a.potapova
 36989,Tomas Martin,ETCHEVERRY,TM.ETCHEVERRY,29,78,ARG,M,27 years-old,(18 July 1999),Right,-,-,https://images.prismic.io/fft-rg-site/aeoo2cBOoF08xQFi_20260118_PJ_EtcheverryTomasMartin_US.png,/en-us/players/36989-tm.etcheverry
@@ -291,7 +291,7 @@ player_id,first_name,last_name,short_name,ranking,ranking_double,country,sex,age
 35699,Kayla,DAY,K.DAY,126,,USA,F,27 years-old,(28 September 1999),Left,-,-,https://images.prismic.io/fft-rg-site/bfe53e86-7323-4bf0-8361-9daa8fbba3e0_20240305_PJ_DayKayla_US.png,/en-us/players/35699-k.day
 41774,Otto,VIRTANEN,O.VIRTANEN,127,,FIN,M,25 years-old,(21 June 2001),Right,-,-,https://images.prismic.io/fft-rg-site/agiPLqYofJOwHS2b_20260516_PJ_VirtanenOtto_US.png,/en-us/players/41774-o.virtanen
 44009,Shintaro,MOCHIZUKI,S.MOCHIZUKI,128,,JPN,M,23 years-old,(2 June 2003),Right,-,-,https://images.prismic.io/fft-rg-site/aeoo6cBOoF08xQF1_20260118_PJ_MochizukiShintaro_US.png,/en-us/players/44009-s.mochizuki
-52699,Jeline,VANDROMME,J.VANDROMME,128,,BEL,F,18 years-old,(16 November 2007),-,-,-,https://images.prismic.io/fft-rg-site/agSUl6YofJOwHNWK_20240603_PJ_VandrommeJeline_US.png,/en-us/players/52699-j.vandromme
+52699,Jeline,VANDROMME,J.VANDROMME,128,,BEL,F,19 years-old,(16 November 2007),-,-,-,https://images.prismic.io/fft-rg-site/agSUl6YofJOwHNWK_20240603_PJ_VandrommeJeline_US.png,/en-us/players/52699-j.vandromme
 39917,Marina,BASSOLS RIBERA,M.BASSOLS RIBERA,129,,ESP,F,26 years-old,(13 December 1999),Right,-,-,https://images.prismic.io/fft-rg-site/agmLU6YofJOwHTGa_20260517_PJ_BassolsRiberaMarina_US.png,/en-us/players/39917-m.bassols-ribera
 41006,Clement,CHIDEKH,C.CHIDEKH,129,,FRA,M,25 years-old,(13 June 2001),Right,-,-,https://images.prismic.io/fft-rg-site/agiPMqYofJOwHS2f_20260516_PJ_ChidekhClement_US.png,/en-us/players/41006-c.chidekh
 44196,Himeno,SAKATSUME,H.SAKATSUME,130,,JPN,F,25 years-old,(3 August 2001),Right,-,-,https://images.prismic.io/fft-rg-site/agnwWKYofJOwHTXK_20260517_PJ_SakatsumeHimeno_US.png,/en-us/players/44196-h.sakatsume
@@ -595,7 +595,7 @@ player_id,first_name,last_name,short_name,ranking,ranking_double,country,sex,age
 56751,Ekaterina,DOTSENKO,E.DOTSENKO,,,---,F,15 years-old,(7 October 2011),-,-,-,,/en-us/players/56751-e.dotsenko
 20330,Sadio,DOUMBIA,S.DOUMBIA,,25,FRA,M,36 years-old,(12 September 1990),Right,-,-,https://images.prismic.io/fft-rg-site/1ffef5ab-61a9-4803-8d82-6e2fc91366e8_20201207_PJ_DoumbiaSadio_US.png,/en-us/players/20330-s.doumbia
 52311,Ksenia,EFREMOVA,K.EFREMOVA,,,FRA,F,17 years-old,(28 April 2009),-,-,-,https://images.prismic.io/fft-rg-site/aCsHTCdWJ-7kSSXv_media_44639858_44391610.png,/en-us/players/52311-k.efremova
-54907,Emily Victoria,EIGELSBACH,EV.EIGELSBACH,,,GER,F,17 years-old,(16 November 2008),-,-,-,,/en-us/players/54907-ev.eigelsbach
+54907,Emily Victoria,EIGELSBACH,EV.EIGELSBACH,,,GER,F,18 years-old,(16 November 2008),-,-,-,,/en-us/players/54907-ev.eigelsbach
 21256,Ulrikke,EIKERI,U.EIKERI,,38,NOR,F,33 years-old,(16 December 1992),Right,-,-,https://images.prismic.io/fft-rg-site/2fc511ab-65a2-424d-b8f2-4033b6dfcba0_20230403_PJ_EikeriUlrikke_US.png,/en-us/players/21256-u.eikeri
 34297,Alexander,ERLER,A.ERLER,,48,AUT,M,29 years-old,(27 October 1997),Right,-,-,https://images.prismic.io/fft-rg-site/aDQPQCdWJ-7kSiAJ_34297_G.png,/en-us/players/34297-a.erler
 10759,Sara,ERRANI,S.ERRANI,,12,ITA,F,39 years-old,(29 April 1987),Right,-,-,https://images.prismic.io/fft-rg-site/aetahsBOoF08xRzP_20260302_PJ_ErraniSara_US.png,/en-us/players/10759-s.errani
