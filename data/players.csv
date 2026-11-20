@@ -25,7 +25,7 @@ player_id,first_name,last_name,short_name,ranking,ranking_double,country,sex,age
 33799,Gordon,REID,G.REID,5,1,GBR,M,35 years-old,(2 October 1991),-,-,-,https://images.prismic.io/fft-rg-site/ah1cXQeQX7-eWeqe_20260531_PJ_ReidGordon_US.png,/en-us/players/33799-g.reid
 21988,Aniek,VAN KOOT,A.VAN KOOT,5,5,NED,F,36 years-old,(15 August 1990),-,-,-,https://images.prismic.io/fft-rg-site/ah2fMAeQX7-eWfu1_20260601_PJ_VanKootAniek_US.png,/en-us/players/21988-a.van-koot
 42928,Flavio,COBOLLI,F.COBOLLI,6,363,ITA,M,24 years-old,(6 May 2002),Right,-,-,https://images.prismic.io/fft-rg-site/aeoou8BOoF08xQFB_20260117_PJ_CobolliFlavio_US.png,/en-us/players/42928-f.cobolli
-20026,Stephane,HOUDET,S.HOUDET,6,7,FRA,M,55 years-old,(20 November 1970),-,-,-,https://images.prismic.io/fft-rg-site/ah8LSAeQX7-eWkoo_20260601_PJ_HoudetStephane_US.png,/en-us/players/20026-s.houdet
+20026,Stephane,HOUDET,S.HOUDET,6,7,FRA,M,56 years-old,(20 November 1970),-,-,-,https://images.prismic.io/fft-rg-site/ah8LSAeQX7-eWkoo_20260601_PJ_HoudetStephane_US.png,/en-us/players/20026-s.houdet
 23968,Elina,SVITOLINA,E.SVITOLINA,6,,UKR,F,32 years-old,(12 September 1994),Right,-,-,https://images.prismic.io/fft-rg-site/aetam8BOoF08xRzk_20260303_PJ_SvitolinaElina_US.png,/en-us/players/23968-e.svitolina
 52788,Ziying,WANG,Z.WANG,6,3,CHN,F,28 years-old,(15 August 1998),-,-,-,https://images.prismic.io/fft-rg-site/ah1eMgeQX7-eWern_20260531_PJ_WangZiying_US.png,/en-us/players/52788-z.wang
 52762,Ksenia,CHASTEAU,K.CHASTEAU,7,9,FRA,F,20 years-old,(12 March 2006),-,-,-,https://images.prismic.io/fft-rg-site/ah2hMweQX7-eWfwl_20260601_PJ_ChasteauKsenia_US.png,/en-us/players/52762-k.chasteau
@@ -172,7 +172,7 @@ player_id,first_name,last_name,short_name,ranking,ranking_double,country,sex,age
 38437,Camilo,UGO CARABELLI,C.UGO CARABELLI,65,360,ARG,M,27 years-old,(17 June 1999),Right,-,-,https://images.prismic.io/fft-rg-site/aeoo9MBOoF08xQGC_20260118_PJ_UgoCarabelliCamilo_US.png,/en-us/players/38437-c.ugo-carabelli
 42339,Facundo,DIAZ ACOSTA,F.DIAZ ACOSTA,66,,ARG,M,25 years-old,(15 December 2000),Left,-,-,https://images.prismic.io/fft-rg-site/3fb9a549-ec47-4d4f-8057-eda892818200_20240113_PJ_DiazAcostaFacundo_US.png,/en-us/players/42339-f.diaz-acosta
 52775,Paula Michelle,LOPEZ MEZA,PM.LOPEZ MEZA,66,58,COL,F,16 years-old,(17 January 2010),-,-,-,,/en-us/players/52775-pm.lopez-meza
-40614,Caty,MCNALLY,C.MCNALLY,66,46,USA,F,24 years-old,(20 November 2001),Right,-,-,https://images.prismic.io/fft-rg-site/0a171b09-c688-4325-af23-821f92f3ebe1_Mcnally.png,/en-us/players/40614-c.mcnally
+40614,Caty,MCNALLY,C.MCNALLY,66,46,USA,F,25 years-old,(20 November 2001),Right,-,-,https://images.prismic.io/fft-rg-site/0a171b09-c688-4325-af23-821f92f3ebe1_Mcnally.png,/en-us/players/40614-c.mcnally
 22568,Yannick,HANFMANN,Y.HANFMANN,67,281,GER,M,35 years-old,(13 November 1991),Right,-,-,https://images.prismic.io/fft-rg-site/ahMrFrK9tuLqEGxW_20260524_PJ_HanfmannYannick_US.png,/en-us/players/22568-y.hanfmann
 30642,Tamara,KORPATSCH,T.KORPATSCH,67,125,GER,F,31 years-old,(12 May 1995),Right,-,-,https://images.prismic.io/fft-rg-site/ahLvSbK9tuLqEGdr_20260523_PJ_KorpatschTamara_US.png,/en-us/players/30642-t.korpatsch
 8546,Tatjana,MARIA,T.MARIA,68,173,GER,F,39 years-old,(8 August 1987),Right,-,-,https://images.prismic.io/fft-rg-site/aetae8BOoF08xRzE_20260228_PJ_MariaTatjana_US.png,/en-us/players/8546-t.maria
@@ -372,7 +372,7 @@ player_id,first_name,last_name,short_name,ranking,ranking_double,country,sex,age
 44023,Chris,RODESCH,C.RODESCH,180,,LUX,M,25 years-old,(18 July 2001),Right,-,-,https://images.prismic.io/fft-rg-site/aCnNgSdWJ-7kSQkj_44023_G.png,/en-us/players/44023-c.rodesch
 45789,Sofia,COSTOULAS,S.COSTOULAS,181,155,BEL,F,21 years-old,(2 April 2005),Right,-,-,https://images.prismic.io/fft-rg-site/aCoU6idWJ-7kSQwk_45789_G.png,/en-us/players/45789-s.costoulas
 47929,Juan Carlos,PRADO ANGELO,JC.PRADO ANGELO,181,,BOL,M,21 years-old,(6 March 2005),Right,-,-,https://images.prismic.io/fft-rg-site/b597a015-b4d7-4eef-874b-bb71c609a026_20220528_PJ_PradoAngeloJuanCarlos_US.png,/en-us/players/47929-jc.prado-angelo
-43804,Jazmin,ORTENZI,J.ORTENZI,182,494,ARG,F,24 years-old,(20 November 2001),Right,-,-,https://images.prismic.io/fft-rg-site/agnvZqYofJOwHTW7_20260517_PJ_OrtenziJazmin_US.png,/en-us/players/43804-j.ortenzi
+43804,Jazmin,ORTENZI,J.ORTENZI,182,494,ARG,F,25 years-old,(20 November 2001),Right,-,-,https://images.prismic.io/fft-rg-site/agnvZqYofJOwHTW7_20260517_PJ_OrtenziJazmin_US.png,/en-us/players/43804-j.ortenzi
 40451,Clement,TABUR,C.TABUR,183,,FRA,M,26 years-old,(24 January 2000),Right,-,-,https://images.prismic.io/fft-rg-site/ZkrwSSol0Zci9Rem_40451_G.png,/en-us/players/40451-c.tabur
 44612,Gonzalo,BUENO,G.BUENO,184,,PER,M,22 years-old,(3 April 2004),Right,-,-,https://images.prismic.io/fft-rg-site/8e22d6e3-4e62-4dc0-aaa6-2c9a08558506_20210604_PJ_BuenoGonzalo_US.png,/en-us/players/44612-g.bueno
 47434,Elena,PRIDANKINA,E.PRIDANKINA,185,80,---,F,21 years-old,(30 August 2005),Right,-,-,https://images.prismic.io/fft-rg-site/aCoX9idWJ-7kSQxi_47434_G.png,/en-us/players/47434-e.pridankina
