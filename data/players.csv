@@ -419,7 +419,7 @@ player_id,first_name,last_name,short_name,ranking,ranking_double,country,sex,age
 35753,Anastasia,GASANOVA,A.GASANOVA,225,,---,F,27 years-old,(15 May 1999),Right,-,-,https://images.prismic.io/fft-rg-site/aghjxqYofJOwHSuD_20260515_PJ_GasanovaAnastasia_US.png,/en-us/players/35753-a.gasanova
 44577,Alex,BARRENA,A.BARRENA,226,,ARG,M,24 years-old,(10 October 2002),Right,-,-,https://images.prismic.io/fft-rg-site/aghjqaYofJOwHStl_20260514_PJ_BarrenaAlex_US.png,/en-us/players/44577-a.barrena
 44044,Felix,GILL,F.GILL,227,,GBR,M,24 years-old,(1 June 2002),Left,-,-,https://images.prismic.io/fft-rg-site/agwyp6YofJOwHW7I_20260519_PJ_GillFelix_US.png,/en-us/players/44044-f.gill
-37072,Federico Agustin,GOMEZ,FA.GOMEZ,228,324,ARG,M,29 years-old,(26 November 1996),Right,-,-,https://images.prismic.io/fft-rg-site/aCn_CydWJ-7kSQsk_37072_G.png,/en-us/players/37072-fa.gomez
+37072,Federico Agustin,GOMEZ,FA.GOMEZ,228,324,ARG,M,30 years-old,(26 November 1996),Right,-,-,https://images.prismic.io/fft-rg-site/aCn_CydWJ-7kSQsk_37072_G.png,/en-us/players/37072-fa.gomez
 33271,Iryna,SHYMANOVICH,I.SHYMANOVICH,230,92,---,F,29 years-old,(30 June 1997),Right,-,-,https://images.prismic.io/fft-rg-site/Zkpttiol0Zci9RMj_20240518_PJ_ShymanovichIryna_US.png,/en-us/players/33271-i.shymanovich
 36490,Xinyu,GAO,X.GAO,231,,CHN,F,29 years-old,(21 November 1997),Right,-,-,https://images.prismic.io/fft-rg-site/ZkrqMiol0Zci9Rc9_20240517_PJ_GaoXinyu_US.png,/en-us/players/36490-x.gao
 42371,Harry,WENDELKEN,H.WENDELKEN,231,388,GBR,M,24 years-old,(18 December 2001),Right,-,-,https://images.prismic.io/fft-rg-site/aftHUcBOoF08xrWT_20190602_PJ_WendelkenHarry_US.png,/en-us/players/42371-h.wendelken
@@ -551,7 +551,7 @@ player_id,first_name,last_name,short_name,ranking,ranking_double,country,sex,age
 9677,Simone,BOLELLI,S.BOLELLI,,14,ITA,M,41 years-old,(8 October 1985),Right,-,-,https://images.prismic.io/fft-rg-site/ec625bd7-2d52-47b5-b3c0-1890038d5b31_20190113_PJ_BolelliSimone_US.png,/en-us/players/9677-s.bolelli
 54758,Juan Miguel,BOLIVAR IDARRAGA,JM.BOLIVAR IDARRAGA,,,COL,M,17 years-old,(22 May 2009),Left,-,-,https://images.prismic.io/fft-rg-site/ahr5mQeQX7-eWc5c_20260530_PJ_BolivarIdarragaJuanMiguel_US.png,/en-us/players/54758-jm.bolivar-idarraga
 54824,Dan,BRAND,D.BRAND,,,ISR,M,17 years-old,(16 July 2009),Left,-,-,,/en-us/players/54824-d.brand
-53118,Maia Ilinca,BURCESCU,MI.BURCESCU,,,ROU,F,16 years-old,(26 November 2009),-,-,-,https://images.prismic.io/fft-rg-site/aftKRsBOoF08xreN_20250531_PJ_BurescuMaiaIlinca_US.png,/en-us/players/53118-mi.burcescu
+53118,Maia Ilinca,BURCESCU,MI.BURCESCU,,,ROU,F,17 years-old,(26 November 2009),-,-,-,https://images.prismic.io/fft-rg-site/aftKRsBOoF08xreN_20250531_PJ_BurescuMaiaIlinca_US.png,/en-us/players/53118-mi.burcescu
 34060,Francisco,CABRAL,F.CABRAL,,32,POR,M,29 years-old,(8 January 1997),Right,-,-,https://images.prismic.io/fft-rg-site/235bc51b-cb33-4f8a-b03b-d25d0446f7fa_20240112_PJ_CabralFrancisco_US.png,/en-us/players/34060-f.cabral
 53313,Emilio,CAMACHO,E.CAMACHO,,,ECU,M,17 years-old,(8 May 2009),Right,-,-,https://images.prismic.io/fft-rg-site/ahw_UAeQX7-eWdPb_20260530_PJ_CamachoEmilio_US.png,/en-us/players/53313-e.camacho
 55986,Ninon,CARPENTIER,N.CARPENTIER,,,FRA,F,16 years-old,(12 June 2010),-,-,-,https://images.prismic.io/fft-rg-site/ahw_3AeQX7-eWdPd_20260530_PJ_CarpentierNinon_US.png,/en-us/players/55986-n.carpentier
