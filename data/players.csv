@@ -356,7 +356,7 @@ player_id,first_name,last_name,short_name,ranking,ranking_double,country,sex,age
 38349,Yue,YUAN,Y.YUAN,169,,CHN,F,28 years-old,(25 September 1998),Right,-,-,https://images.prismic.io/fft-rg-site/aghjvaYofJOwHSt5_20260514PJ_YuanYue_US.png,/en-us/players/38349-y.yuan
 47393,Polina,IATCENKO,P.IATCENKO,170,277,---,F,22 years-old,(10 December 2003),Right,-,-,https://images.prismic.io/fft-rg-site/afs4H8BOoF08xrAY_20210605_PJ_IatcenkoPolina_US.PNG,/en-us/players/47393-p.iatcenko
 50200,Joel,SCHWAERZLER,J.SCHWAERZLER,170,476,AUT,M,20 years-old,(27 January 2006),Left,-,-,https://images.prismic.io/fft-rg-site/agh-e6YofJOwHS0D_20260515_PJ_SchwaerzlerJoel_US.png,/en-us/players/50200-j.schwaerzler
-38581,Emiliana,ARANGO,E.ARANGO,171,179,COL,F,25 years-old,(28 November 2000),Right,-,-,https://images.prismic.io/fft-rg-site/245abf06-0851-498a-a4a5-cee2ac6ac7a2_20240305_PJ_ArangoEmiliana_US.png,/en-us/players/38581-e.arango
+38581,Emiliana,ARANGO,E.ARANGO,171,179,COL,F,26 years-old,(28 November 2000),Right,-,-,https://images.prismic.io/fft-rg-site/245abf06-0851-498a-a4a5-cee2ac6ac7a2_20240305_PJ_ArangoEmiliana_US.png,/en-us/players/38581-e.arango
 51270,Nicolai,BUDKOV KJAER,N.BUDKOV KJAER,172,,NOR,M,20 years-old,(1 September 2006),Right,-,-,https://images.prismic.io/fft-rg-site/aeoo18BOoF08xQFg_20260118_PJ_BudkovKjaerNicolai_US.png,/en-us/players/51270-n.budkov-kjaer
 28888,Sara,SORRIBES TORMO,S.SORRIBES TORMO,172,104,ESP,F,30 years-old,(8 October 1996),Right,-,-,https://images.prismic.io/fft-rg-site/8d4b3d77-1e59-4ee5-9a87-b28d5f5beac7_20240302_PJ_SorrbesTormoSara_US.png,/en-us/players/28888-s.sorribes-tormo
 46212,Sascha,GUEYMARD WAYENBURG,S.GUEYMARD WAYENBURG,173,,FRA,M,23 years-old,(1 August 2003),Right,-,-,https://images.prismic.io/fft-rg-site/aeoo3cBOoF08xQFo_20260118_PJ_GueymardSascha_US.png,/en-us/players/46212-s.gueymard-wayenburg
@@ -396,7 +396,7 @@ player_id,first_name,last_name,short_name,ranking,ranking_double,country,sex,age
 41151,Daniil,GLINKA,D.GLINKA,205,392,EST,M,26 years-old,(12 May 2000),Left,-,-,https://images.prismic.io/fft-rg-site/agnttaYofJOwHTWd_20260517_PJ_GlinkaDaniil_US.PNG,/en-us/players/41151-d.glinka
 38708,Ye-Xin,MA,YX.MA,205,,CHN,F,27 years-old,(10 June 1999),Right,-,-,https://images.prismic.io/fft-rg-site/Zkr0gCol0Zci9RgP_Ye-XinMa.png,/en-us/players/38708-yx.ma
 47414,Kayla,CROSS,K.CROSS,206,189,CAN,F,21 years-old,(21 March 2005),Left,-,-,https://images.prismic.io/fft-rg-site/agm54KYofJOwHTI2_20260517_PJ_CrossKayla_US.png,/en-us/players/47414-k.cross
-28702,Nao,HIBINO,N.HIBINO,208,,JPN,F,31 years-old,(28 November 1994),Right,-,-,https://images.prismic.io/fft-rg-site/aghjsKYofJOwHSts_20260514_PJ_HibinoNao_US.png,/en-us/players/28702-n.hibino
+28702,Nao,HIBINO,N.HIBINO,208,,JPN,F,32 years-old,(28 November 1994),Right,-,-,https://images.prismic.io/fft-rg-site/aghjsKYofJOwHSts_20260514_PJ_HibinoNao_US.png,/en-us/players/28702-n.hibino
 38440,Rio,NOGUCHI,R.NOGUCHI,208,472,JPN,M,27 years-old,(28 December 1998),Right,-,-,https://images.prismic.io/fft-rg-site/agnPDqYofJOwHTR3_20260517_PJ_NoguchiRio_US.png,/en-us/players/38440-r.noguchi
 31313,Greet,MINNEN,G.MINNEN,210,,BEL,F,29 years-old,(14 August 1997),Right,-,-,https://images.prismic.io/fft-rg-site/ZkpcUyol0Zci9RJT_20240516_PJ_MinnenGreet_US.png,/en-us/players/31313-g.minnen
 36676,Andy,ANDRADE,A.ANDRADE,213,163,ECU,M,27 years-old,(14 December 1998),Right,-,-,https://images.prismic.io/fft-rg-site/agm5q6YofJOwHTI1_20260517_PJ_AndradeAndres_US.png,/en-us/players/36676-a.andrade
@@ -545,7 +545,7 @@ player_id,first_name,last_name,short_name,ranking,ranking_double,country,sex,age
 54072,Mila,BASTIANELLI,M.BASTIANELLI,,,FRA,F,16 years-old,(4 April 2010),-,-,-,,/en-us/players/54072-m.bastianelli
 13358,Ariel,BEHAR,A.BEHAR,,88,URU,M,37 years-old,(12 November 1989),Right,-,-,https://images.prismic.io/fft-rg-site/aDQQBSdWJ-7kSiAe_13358_G.png,/en-us/players/13358-a.behar
 54735,Thilo,BEHRMANN,T.BEHRMANN,,,AUT,M,18 years-old,(27 January 2008),-,-,-,https://images.prismic.io/fft-rg-site/ahw9NgeQX7-eWdPM_20260530_PJ_BehrmannThilo_US.png,/en-us/players/54735-t.behrmann
-51459,Nikita,BELOZERTSEV,N.BELOZERTSEV,,,UZB,M,17 years-old,(28 November 2008),Left,-,-,https://images.prismic.io/fft-rg-site/aDwZwbh8WN-LVc0E_51459_G.png,/en-us/players/51459-n.belozertsev
+51459,Nikita,BELOZERTSEV,N.BELOZERTSEV,,,UZB,M,18 years-old,(28 November 2008),Left,-,-,https://images.prismic.io/fft-rg-site/aDwZwbh8WN-LVc0E_51459_G.png,/en-us/players/51459-n.belozertsev
 18563,Yuki,BHAMBRI,Y.BHAMBRI,,47,IND,M,34 years-old,(4 July 1992),Right,-,-,https://images.prismic.io/fft-rg-site/8611f892-ea8a-45e0-8e5d-c867086f1ddd_20240112_PJ_BhambriYuki_US.png,/en-us/players/18563-y.bhambri
 56723,Sofiia,BIELINSKA,S.BIELINSKA,,,UKR,F,15 years-old,(18 June 2011),-,-,-,https://images.prismic.io/fft-rg-site/ahw-mgeQX7-eWdPZ_20260530_PJ_BielinskaSofia_US.png,/en-us/players/56723-s.bielinska
 9677,Simone,BOLELLI,S.BOLELLI,,14,ITA,M,41 years-old,(8 October 1985),Right,-,-,https://images.prismic.io/fft-rg-site/ec625bd7-2d52-47b5-b3c0-1890038d5b31_20190113_PJ_BolelliSimone_US.png,/en-us/players/9677-s.bolelli
@@ -757,7 +757,7 @@ player_id,first_name,last_name,short_name,ranking,ranking_double,country,sex,age
 40475,Finn,REYNOLDS,F.REYNOLDS,,68,NZL,M,26 years-old,(4 January 2000),Left,-,-,,/en-us/players/40475-f.reynolds
 38362,Patrik,RIKL,P.RIKL,,36,CZE,M,27 years-old,(6 January 1999),Right,-,-,https://images.prismic.io/fft-rg-site/ahHVDLK9tuLqEGON_20260523_PJ_RiklPatrik_US.png,/en-us/players/38362-p.rikl
 52583,Pietra,RIVOLI,P.RIVOLI,,,BRA,F,18 years-old,(11 March 2008),-,-,-,https://images.prismic.io/fft-rg-site/aDxbzbh8WN-LVdHO_52583_G.png,/en-us/players/52583-p.rivoli
-7773,Edouard,ROGER-VASSELIN,E.ROGER-VASSELIN,,28,FRA,M,42 years-old,(28 November 1983),Right,-,-,https://images.prismic.io/fft-rg-site/e9e5e670-9a3c-418e-a5bc-e012b4d7339c_20240113_PJ_RogerVasselinEdouard_US.png,/en-us/players/7773-e.roger-vasselin
+7773,Edouard,ROGER-VASSELIN,E.ROGER-VASSELIN,,28,FRA,M,43 years-old,(28 November 1983),Right,-,-,https://images.prismic.io/fft-rg-site/e9e5e670-9a3c-418e-a5bc-e012b4d7339c_20240113_PJ_RogerVasselinEdouard_US.png,/en-us/players/7773-e.roger-vasselin
 7627,Jean-julien,ROJER,JJ.ROJER,,61,NED,M,45 years-old,(25 August 1981),Right,-,-,https://images.prismic.io/fft-rg-site/1bdd0d1a-c43e-42b9-b26f-1cc3a5c23c40_20220310_PJ_RojerJeanJulien_US.png,/en-us/players/7627-jj.rojer
 17665,Fernando,ROMBOLI,F.ROMBOLI,,104,BRA,M,37 years-old,(4 January 1989),Right,-,-,https://images.prismic.io/fft-rg-site/aDlbUSdWJ-7kSt8b_17665_G.png,/en-us/players/17665-f.romboli
 28328,Erin,ROUTLIFFE,E.ROUTLIFFE,,24,NZL,F,31 years-old,(11 April 1995),Right,-,-,https://images.prismic.io/fft-rg-site/aetal8BOoF08xRzg_20260303_PJ_RoutliffeErin_US.png,/en-us/players/28328-e.routliffe
